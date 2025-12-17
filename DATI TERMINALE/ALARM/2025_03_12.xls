@@ -1,0 +1,119 @@
+13:07:34	CYC	187	Robot non connesso. impossibile caricare lista programmi
+13:36:39	CYC	208	Selezionato programma : TEST_LACUS |  | 
+13:36:40	CYC	201	Carico confermato.
+13:49:48	Ax4	1011	Quickstop input active                                                         
+13:51:11	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+15:11:54	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:11:55	CYC	201	Carico confermato.
+15:17:32	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:17:37	CYC	162	Robot 1 non fuori ingombro
+15:18:37	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:18:39	Ax4	5018	Homing: Command start homing procedure                                         
+15:18:42	CYC	162	Robot 1 non fuori ingombro
+15:18:49	CYC	200	Reset by Operator on VB
+15:18:58	CYC	162	Robot 1 non fuori ingombro
+15:19:16	CYC	200	Reset by Operator on VB
+15:22:33	Ax4	5018	Homing: Command start homing procedure                                         
+15:28:14	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:28:14	CYC	201	Carico confermato.
+15:31:48	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:34:07	CYC	201	Carico confermato.
+15:37:38	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:38:06	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:38:07	CYC	201	Carico confermato.
+15:41:30	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:41:31	CYC	201	Carico confermato.
+15:41:59	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:42:30	CYC	22	Error nastro verniciatura - superato massimo step
+15:42:30	CYC	22	Error nastro verniciatura - superato massimo step
+15:42:52	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:42:59	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:43:09	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:44:09	CYC	22	Error nastro verniciatura - superato massimo step
+15:44:09	CYC	22	Error nastro verniciatura - superato massimo step
+15:44:59	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+15:44:59	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:48:22	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:53:11	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+15:57:28	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:57:29	CYC	201	Carico confermato.
+15:59:59	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:00:13	CYC	181	Autosvuotamento cabina spruzzatura annullato, nastri non pronti
+16:00:17	CYC	162	Robot 1 non fuori ingombro
+16:05:00	CYC	200	Reset by Operator on VB
+16:05:05	CYC	162	Robot 1 non fuori ingombro
+16:09:29	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+16:28:59	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:28:59	CYC	201	Carico confermato.
+16:29:44	CYC	162	Robot 1 non fuori ingombro
+16:29:49	CYC	162	Robot 1 non fuori ingombro
+16:33:24	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+16:35:53	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:35:54	CYC	201	Carico confermato.
+16:37:17	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:37:17	CYC	201	Carico confermato.
+16:37:17	CYC	183	Attendere timeout stazione forno
+16:42:45	CYC	180	Autosvuotamento cabina spruzzatura annullato, presenza pezzo in stazione scarico
+16:42:55	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+16:44:05	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+16:44:33	CYC	186	Forzato scarico manualmente
+16:46:57	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:46:58	CYC	201	Carico confermato.
+16:48:48	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:48:48	CYC	201	Carico confermato.
+16:48:48	CYC	183	Attendere timeout stazione forno
+16:52:06	CYC	186	Forzato scarico manualmente
+16:53:01	CYC	186	Forzato scarico manualmente
+16:54:38	CYC	186	Forzato scarico manualmente
+16:56:50	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:58:18	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:58:59	CYC	208	Selezionato programma : TEST_LACUS |  | 
+16:59:26	CYC	181	Autosvuotamento cabina spruzzatura annullato, nastri non pronti
+16:59:30	CYC	162	Robot 1 non fuori ingombro
+17:02:23	CYC	200	Reset by Operator on VB
+17:02:23	CYC	201	Carico confermato.
+17:03:34	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+17:07:29	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:07:29	CYC	201	Carico confermato.
+17:09:44	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:11:08	CYC	181	Autosvuotamento cabina spruzzatura annullato, nastri non pronti
+17:12:47	CYC	200	Reset by Operator on VB
+17:14:01	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+17:16:30	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:16:31	CYC	201	Carico confermato.
+17:18:28	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:19:51	CYC	181	Autosvuotamento cabina spruzzatura annullato, nastri non pronti
+17:21:26	CYC	186	Forzato scarico manualmente
+17:27:12	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:27:12	CYC	201	Carico confermato.
+17:29:03	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:29:03	CYC	201	Carico confermato.
+17:31:47	CYC	186	Forzato scarico manualmente
+17:34:05	CYC	186	Forzato scarico manualmente
+19:17:10	CYC	187	Robot non connesso. impossibile caricare lista programmi
+20:21:48	CYC	208	Selezionato programma : TEST_LACUS |  | 
+20:23:24	Ax4	1011	Quickstop input active                                                         
+20:27:11	CYC	186	Forzato scarico manualmente
+20:27:50	CYC	208	Selezionato programma : TEST_LACUS |  | 
+20:28:00	Ax4	1011	Quickstop input active                                                         
+21:30:00	Ax4	1011	Quickstop input active                                                         
+21:32:02	CYC	186	Forzato scarico manualmente
+21:45:40	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:45:40	CYC	201	Carico confermato.
+21:50:14	CYC	186	Forzato scarico manualmente
+21:54:10	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:57:54	CYC	186	Forzato scarico manualmente
+21:59:56	CYC	208	Selezionato programma : TEST_LACUS |  | 
+22:00:01	Ax4	1011	Quickstop input active                                                         
+22:03:37	CYC	186	Forzato scarico manualmente
+22:06:35	CYC	208	Selezionato programma : TEST_LACUS |  | 
+22:06:35	CYC	201	Carico confermato.
+22:10:30	CYC	186	Forzato scarico manualmente
+22:15:20	CYC	208	Selezionato programma : TEST_LACUS |  | 
+22:15:20	CYC	201	Carico confermato.
+22:15:35	Ax4	1011	Quickstop input active                                                         
+22:18:53	CYC	208	Selezionato programma : TEST_LACUS |  | 
+22:18:53	CYC	201	Carico confermato.
+22:18:53	CYC	183	Attendere timeout stazione forno
+22:22:30	CYC	186	Forzato scarico manualmente
+22:22:47	CYC	186	Forzato scarico manualmente

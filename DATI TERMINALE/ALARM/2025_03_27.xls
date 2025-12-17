@@ -1,0 +1,52 @@
+11:42:43	CYC	187	Robot not connected, not possible to load program list.
+11:58:10	CYC	186	Unload operation forced manually
+12:45:29	Ax4	1011	Quickstop input active                                                         
+12:45:32	CYC	208	Selected program : MIMOSA VER.1 |  | 
+12:45:32	CYC	201	Load confirmed.
+13:42:17	CYC	186	Unload operation forced manually
+13:48:54	CYC	187	Robot not connected, not possible to load program list.
+14:04:20	CYC	187	Robot not connected, not possible to load program list.
+14:04:23	CYC	187	Robot not connected, not possible to load program list.
+14:06:12	CYC	187	Robot not connected, not possible to load program list.
+14:09:12	CYC	208	Selected program : MIMOSA VER.1 |  | 
+14:09:13	CYC	201	Load confirmed.
+14:14:45	Ax4	1011	Quickstop input active                                                         
+15:31:29	CYC	186	Unload operation forced manually
+15:56:05	CYC	208	Selected program : MIMOSA VER.1 |  | 
+15:56:06	CYC	201	Load confirmed.
+15:56:09	CYC	208	Selected program : MIMOSA VER.1 |  | 
+15:56:31	CYC	201	Load confirmed.
+15:56:31	CYC	183	Wait timeout oven station
+15:56:55	CYC	183	Wait timeout oven station
+15:57:01	CYC	183	Wait timeout oven station
+15:57:03	CYC	183	Wait timeout oven station
+15:57:42	CYC	183	Wait timeout oven station
+15:57:42	CYC	183	Wait timeout oven station
+15:57:51	CYC	183	Wait timeout oven station
+15:57:52	CYC	183	Wait timeout oven station
+15:57:52	CYC	183	Wait timeout oven station
+15:57:52	CYC	183	Wait timeout oven station
+15:57:53	CYC	183	Wait timeout oven station
+15:57:53	CYC	183	Wait timeout oven station
+15:57:54	CYC	183	Wait timeout oven station
+15:58:06	CYC	183	Wait timeout oven station
+15:58:07	CYC	183	Wait timeout oven station
+15:58:07	CYC	183	Wait timeout oven station
+15:58:08	CYC	183	Wait timeout oven station
+15:58:08	CYC	183	Wait timeout oven station
+15:58:09	CYC	183	Wait timeout oven station
+15:58:09	CYC	183	Wait timeout oven station
+15:58:46	Ax1	1011	Quickstop input active                                                         
+15:58:46	Ax2	1011	Quickstop input active                                                         
+16:02:47	Ax4	1011	Quickstop input active                                                         
+18:32:30	CYC	208	Selected program : SIRIUS VER.1 |  | 
+18:32:30	CYC	201	Load confirmed.
+18:34:07	Ax4	1011	Quickstop input active                                                         
+18:50:01	CYC	186	Unload operation forced manually
+19:20:15	CYC	208	Selected program : SIRIUS VER.1 |  | 
+19:20:16	CYC	201	Load confirmed.
+19:33:47	Ax4	1011	Quickstop input active                                                         
+20:03:09	Ax1	1011	Quickstop input active                                                         
+20:03:09	Ax2	1011	Quickstop input active                                                         
+20:11:26	Ax4	1011	Quickstop input active                                                         
+20:12:18	CYC	186	Unload operation forced manually

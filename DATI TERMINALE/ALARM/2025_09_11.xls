@@ -1,0 +1,117 @@
+12:00:42	CYC	187	Robot not connected, not possible to load program list.
+12:00:43	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:17:41	CYC	201	Load confirmed.
+12:17:41	CYC	157	Plant not ready, select AUTO mode
+12:18:59	CYC	201	Load confirmed.
+12:43:51	CYC	201	Load confirmed.
+12:48:25	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+12:48:25	CYC	201	Load confirmed.
+13:06:54	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:42	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:43	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:43	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:54	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:07:55	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:08:16	CYC	200	Reset by Operator on VB
+13:08:16	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:08:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:08:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:11:08	CYC	167	Force unload piece selected
+13:12:36	CYC	201	Load confirmed.
+13:34:07	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:37:37	CYC	159	The list is not empty. Piece not in position
+13:39:25	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+13:39:25	CYC	201	Load confirmed.
+13:46:53	CYC	173		Barriers must be reset
+14:01:40	CYC	159	The list is not empty. Piece not in position
+14:01:58	CYC	159	The list is not empty. Piece not in position
+14:02:00	CYC	159	The list is not empty. Piece not in position
+14:02:42	CYC	173		Barriers must be reset
+14:04:07	CYC	164	Load can not start. Check error/emergency
+14:35:22	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:41:34	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:54:46	CYC	20	Oven belt - Step exceeded
+14:54:46	CYC	21	Oven belt - Step exceeded 2
+14:55:54	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+14:55:54	CYC	201	Load confirmed.
+14:55:59	CYC	164	Load can not start. Check error/emergency
+15:30:38	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+15:30:38	CYC	201	Load confirmed.
+15:30:44	CYC	164	Load can not start. Check error/emergency
+15:45:40	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+15:45:40	CYC	201	Load confirmed.
+16:09:12	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:09:19	CYC	200	Reset by Operator on VB
+16:09:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:09:34	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:09:52	CYC	167	Force unload piece selected
+16:09:52	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:10:03	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:10:07	CYC	184	Carter not open or rotation piece in high position
+16:11:33	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+16:12:28	CYC	200	Reset by Operator on VB
+16:12:53	CYC	159	The list is not empty. Piece not in position
+16:13:14	Ax1	1011	Quickstop input active                                                         
+16:13:14	Ax2	1011	Quickstop input active                                                         
+16:13:16	CYC	159	The list is not empty. Piece not in position
+16:13:19	CYC	159	The list is not empty. Piece not in position
+16:13:29	CYC	159	The list is not empty. Piece not in position
+16:14:02	CYC	200	Reset by Operator on VB
+16:14:03	CYC	159	The list is not empty. Piece not in position
+16:14:38	CYC	159	The list is not empty. Piece not in position
+16:14:39	CYC	159	The list is not empty. Piece not in position
+16:14:40	CYC	159	The list is not empty. Piece not in position
+16:14:40	CYC	159	The list is not empty. Piece not in position
+16:14:47	CYC	200	Reset by Operator on VB
+16:14:47	CYC	159	The list is not empty. Piece not in position
+16:14:50	CYC	159	The list is not empty. Piece not in position
+16:14:55	CYC	159	The list is not empty. Piece not in position
+16:14:56	CYC	159	The list is not empty. Piece not in position
+16:14:56	CYC	159	The list is not empty. Piece not in position
+16:17:22	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+16:17:22	CYC	201	Load confirmed.
+16:36:31	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:38:47	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+16:40:42	CYC	200	Reset by Operator on VB
+16:40:55	CYC	200	Reset by Operator on VB
+16:41:48	CYC	173		Barriers must be reset
+16:43:09	Ax1	4005	CTRL Controller: Command                                                       
+16:43:09	Ax2	4005	CTRL Controller: Command                                                       
+16:44:02	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+16:44:03	CYC	173		Barriers must be reset
+16:44:14	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+16:52:50	Ax1	1011	Quickstop input active                                                         
+16:52:50	Ax2	1011	Quickstop input active                                                         
+16:57:12	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+17:01:19	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+17:01:20	CYC	201	Load confirmed.
+17:21:51	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:25:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:25:31	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:30:05	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:30:20	CYC	200	Reset by Operator on VB
+18:30:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:32:08	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:32:09	Ax1	1011	Quickstop input active                                                         
+18:32:09	Ax2	1011	Quickstop input active                                                         
+18:32:40	CYC	200	Reset by Operator on VB
+18:43:08	CYC	201	Load confirmed.
+18:59:25	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+18:59:26	CYC	201	Load confirmed.
+19:10:23	CYC	201	Load confirmed.
+19:21:59	CYC	173		Barriers must be reset
+19:25:24	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:46:07	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:53:58	CYC	201	Load confirmed.
+20:07:55	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:09:46	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:09:56	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:32:08	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:35:18	Ax4	4005	CTRL Controller: Command                                                       
+20:36:16	CYC	200	Reset by Operator on VB
+20:36:16	Ax4	1011	Quickstop input active                                                         
+20:36:21	Ax4	4005	CTRL Controller: Command                                                       
+20:38:16	Ax4	1011	Quickstop input active                                                         
+20:39:21	Ax4	1011	Quickstop input active                                                         

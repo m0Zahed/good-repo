@@ -1,0 +1,75 @@
+12:11:06	CYC	187	Robot not connected, not possible to load program list.
+12:11:07	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:11:08	Ax4	4005	CTRL Controller: Command                                                       
+13:11:10	Ax4	1011	Quickstop input active                                                         
+13:11:11	CYC	173		Barriers must be reset
+13:11:13	Ax4	1011	Quickstop input active                                                         
+13:11:17	Ax4	1011	Quickstop input active                                                         
+13:11:40	CYC	208	Selected program : SIRIUS VER.1 |  | 
+13:21:01	Ax4	1011	Quickstop input active                                                         
+13:21:12	CYC	158	Sensor busy. Unload done failed
+13:21:50	Ax4	1011	Quickstop input active                                                         
+13:40:19	Ax1	1011	Quickstop input active                                                         
+13:40:19	Ax2	1011	Quickstop input active                                                         
+13:47:25	CYC	208	Selected program : MIMOSA VER.1 |  | 
+13:47:25	CYC	201	Load confirmed.
+13:47:31	CYC	208	Selected program : MIMOSA VER.1 |  | 
+13:48:05	CYC	208	Selected program : MIMOSA VER.1 |  | 
+13:48:05	CYC	201	Load confirmed.
+14:02:40	Ax4	1011	Quickstop input active                                                         
+14:28:46	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:29:20	CYC	173		Barriers must be reset
+14:29:29	CYC	158	Sensor busy. Unload done failed
+14:29:38	CYC	173		Barriers must be reset
+14:29:48	CYC	158	Sensor busy. Unload done failed
+14:29:55	CYC	173		Barriers must be reset
+14:30:09	CYC	158	Sensor busy. Unload done failed
+14:30:43	CYC	173		Barriers must be reset
+14:30:46	CYC	173		Barriers must be reset
+14:30:59	CYC	208	Selected program : MIMOSA VER.1 |  | 
+14:30:59	CYC	158	Sensor busy. Unload done failed
+14:30:59	CYC	164	Load can not start. Check error/emergency
+14:31:35	CYC	208	Selected program : MIMOSA VER.1 |  | 
+14:31:35	CYC	201	Load confirmed.
+14:31:52	CYC	158	Sensor busy. Unload done failed
+14:32:05	CYC	158	Sensor busy. Unload done failed
+14:33:01	CYC	158	Sensor busy. Unload done failed
+14:37:40	CYC	186	Unload operation forced manually
+14:52:19	Ax1	1011	Quickstop input active                                                         
+14:52:19	Ax2	1011	Quickstop input active                                                         
+15:12:22	CYC	208	Selected program : MIMOSA VER.1 |  | 
+15:12:22	CYC	201	Load confirmed.
+15:12:22	CYC	157	Plant not ready, select AUTO mode
+15:12:35	CYC	157	Plant not ready, select AUTO mode
+15:12:36	CYC	157	Plant not ready, select AUTO mode
+15:12:36	CYC	157	Plant not ready, select AUTO mode
+15:12:37	CYC	157	Plant not ready, select AUTO mode
+15:13:18	Ax1	1011	Quickstop input active                                                         
+15:13:18	Ax2	1011	Quickstop input active                                                         
+15:13:25	CYC	208	Selected program : MIMOSA VER.1 |  | 
+15:13:25	CYC	201	Load confirmed.
+15:21:25	Ax4	1011	Quickstop input active                                                         
+16:53:34	CYC	186	Unload operation forced manually
+18:16:50	CYC	208	Selected program : MIMOSA VER.1 |  | 
+18:16:50	CYC	201	Load confirmed.
+18:18:04	Ax4	1011	Quickstop input active                                                         
+18:49:38	CYC	201	Load confirmed.
+19:07:06	CYC	186	Unload operation forced manually
+19:41:46	CYC	208	Selected program : MICHELE SIRIUS |  | 
+19:41:46	CYC	201	Load confirmed.
+19:41:46	CYC	157	Plant not ready, select AUTO mode
+19:48:15	Ax4	1011	Quickstop input active                                                         
+19:48:16	CYC	208	Selected program : MIMOSA VER.1 |  | 
+19:48:16	CYC	201	Load confirmed.
+19:52:22	CYC	186	Unload operation forced manually
+20:06:52	Ax4	1011	Quickstop input active                                                         
+20:07:21	Ax4	1011	Quickstop input active                                                         
+20:09:14	Ax1	1011	Quickstop input active                                                         
+20:09:14	Ax2	1011	Quickstop input active                                                         
+20:11:41	Ax4	1011	Quickstop input active                                                         
+20:14:40	Ax4	1011	Quickstop input active                                                         
+20:14:46	Ax4	1011	Quickstop input active                                                         
+20:14:56	Ax4	1011	Quickstop input active                                                         
+20:15:09	Ax4	1011	Quickstop input active                                                         
+20:15:12	Ax4	1011	Quickstop input active                                                         
+20:16:33	Ax4	1011	Quickstop input active                                                         

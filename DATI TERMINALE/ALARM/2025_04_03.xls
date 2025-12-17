@@ -1,0 +1,180 @@
+11:55:19	CYC	187	Robot not connected, not possible to load program list.
+11:55:20	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:55:41	CYC	186	Unload operation forced manually
+13:28:08	Ax1	1011	Quickstop input active                                                         
+13:28:08	Ax2	1011	Quickstop input active                                                         
+13:33:43	CYC	208	Selected program : SPEED_RUN |  | 
+13:33:44	CYC	201	Load confirmed.
+13:34:59	CYC	3	Painting zone - Time Out OUT Door
+13:35:09	CYC	3	Painting zone - Time Out OUT Door
+13:35:19	CYC	3	Painting zone - Time Out OUT Door
+13:35:29	CYC	3	Painting zone - Time Out OUT Door
+13:35:39	CYC	3	Painting zone - Time Out OUT Door
+13:35:49	CYC	3	Painting zone - Time Out OUT Door
+13:35:59	CYC	3	Painting zone - Time Out OUT Door
+13:36:09	CYC	3	Painting zone - Time Out OUT Door
+13:36:19	CYC	3	Painting zone - Time Out OUT Door
+13:36:29	CYC	3	Painting zone - Time Out OUT Door
+13:36:39	CYC	3	Painting zone - Time Out OUT Door
+13:36:49	CYC	3	Painting zone - Time Out OUT Door
+13:36:59	CYC	3	Painting zone - Time Out OUT Door
+13:37:09	CYC	3	Painting zone - Time Out OUT Door
+13:37:09	CYC	159	The list is not empty. Piece not in position
+13:37:15	CYC	159	The list is not empty. Piece not in position
+13:37:59	CYC	159	The list is not empty. Piece not in position
+13:38:09	CYC	208	Selected program : SPEED_RUN |  | 
+13:38:09	CYC	201	Load confirmed.
+13:39:25	CYC	159	The list is not empty. Piece not in position
+13:39:26	CYC	159	The list is not empty. Piece not in position
+13:43:19	CYC	208	Selected program : SPEED_RUN |  | 
+13:43:19	CYC	201	Load confirmed.
+13:45:11	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:45:33	CYC	186	Unload operation forced manually
+13:45:34	Ax4	4005	CTRL Controller: Command                                                       
+13:45:41	Ax4	1011	Quickstop input active                                                         
+13:45:51	CYC	186	Unload operation forced manually
+13:46:05	CYC	158	Sensor busy. Unload done failed
+13:46:14	Ax1	1011	Quickstop input active                                                         
+13:46:14	Ax2	1011	Quickstop input active                                                         
+13:46:52	CYC	208	Selected program : SPEED_RUN |  | 
+13:46:53	CYC	201	Load confirmed.
+13:47:03	CYC	186	Unload operation forced manually
+13:47:14	CYC	158	Sensor busy. Unload done failed
+13:50:26	CYC	158	Sensor busy. Unload done failed
+13:50:35	CYC	186	Unload operation forced manually
+13:50:45	CYC	158	Sensor busy. Unload done failed
+13:50:52	CYC	186	Unload operation forced manually
+13:58:48	CYC	200	Reset by Operator on VB
+13:59:26	CYC	186	Unload operation forced manually
+14:01:26	Ax1	1011	Quickstop input active                                                         
+14:01:26	Ax2	1011	Quickstop input active                                                         
+14:06:56	Ax4	1011	Quickstop input active                                                         
+14:17:50	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:17:55	Ax1	5005	Basis movements: Start movement in negative direction                          
+14:17:55	Ax2	5005	Basis movements: Start movement in negative direction                          
+14:18:02	CYC	186	Unload operation forced manually
+14:37:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:40:19	CYC	186	Unload operation forced manually
+14:40:35	CYC	186	Unload operation forced manually
+14:40:40	CYC	186	Unload operation forced manually
+14:43:33	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:53:19	CYC	158	Sensor busy. Unload done failed
+14:56:39	CYC	158	Sensor busy. Unload done failed
+15:02:59	CYC	158	Sensor busy. Unload done failed
+15:06:50	CYC	158	Sensor busy. Unload done failed
+15:07:14	CYC	208	Selected program : SPEED_RUN |  | 
+15:08:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:09:14	Ax4	1011	Quickstop input active                                                         
+15:09:23	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+15:09:36	CYC	158	Sensor busy. Unload done failed
+15:09:48	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+15:09:54	Ax4	1011	Quickstop input active                                                         
+15:11:30	Ax1	1011	Quickstop input active                                                         
+15:11:30	Ax2	1011	Quickstop input active                                                         
+15:20:43	CYC	208	Selected program : SPEED_RUN |  | 
+15:20:43	CYC	201	Load confirmed.
+15:22:45	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:23:00	Ax4	1011	Quickstop input active                                                         
+15:23:08	CYC	158	Sensor busy. Unload done failed
+15:23:33	Ax4	1011	Quickstop input active                                                         
+15:25:04	Ax4	1011	Quickstop input active                                                         
+15:39:41	Ax1	1011	Quickstop input active                                                         
+15:51:23	CYC	208	Selected program : MIMOSA VER.1 |  | 
+16:10:56	CYC	208	Selected program : MIMOSA VER.1 |  | 
+16:10:56	CYC	201	Load confirmed.
+16:34:58	CYC	208	Selected program : SIRIUS V2 |  | 
+16:34:58	CYC	201	Load confirmed.
+16:54:53	CYC	173	
+17:56:47	Ax4	4005	CTRL Controller: Command                                                       
+17:56:48	CYC	173	
+17:56:53	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+17:57:11	CYC	173	
+17:57:33	CYC	208	Selected program : SIRIUS V2 |  | 
+17:57:33	CYC	201	Load confirmed.
+17:57:36	CYC	164	Load can not start. Check error/emergency
+18:12:43	Ax4	1011	Quickstop input active                                                         
+18:15:29	CYC	6	Paint belt - Max error (&) step exceeded
+18:15:42	CYC	20	Oven belt - Step exceeded
+18:15:42	CYC	21	Oven belt - Step exceeded 2
+18:18:25	CYC	187	Robot not connected, not possible to load program list.
+18:18:26	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:24:02	CYC	208	Selected program : SIRIUS V2 |  | 
+18:24:03	CYC	201	Load confirmed.
+18:31:44	CYC	208	Selected program : SIRIUS V2 |  | 
+18:31:45	CYC	201	Load confirmed.
+18:31:50	Ax1	1011	Quickstop input active                                                         
+18:31:50	Ax2	1011	Quickstop input active                                                         
+18:32:22	Ax4	1011	Quickstop input active                                                         
+18:32:59	CYC	208	Selected program : SIRIUS V2 |  | 
+18:32:59	CYC	164	Load can not start. Check error/emergency
+18:33:32	CYC	208	Selected program : SIRIUS V2 |  | 
+18:33:32	CYC	164	Load can not start. Check error/emergency
+18:33:35	CYC	208	Selected program : SIRIUS V2 |  | 
+18:34:04	CYC	208	Selected program : SIRIUS V2 |  | 
+18:34:04	CYC	201	Load confirmed.
+18:35:09	CYC	164	Load can not start. Check error/emergency
+18:35:09	Ax1	1011	Quickstop input active                                                         
+18:35:09	Ax2	1011	Quickstop input active                                                         
+18:35:43	CYC	208	Selected program : SIRIUS V2 |  | 
+18:35:43	CYC	201	Load confirmed.
+18:35:46	Ax1	1011	Quickstop input active                                                         
+18:35:46	Ax2	1011	Quickstop input active                                                         
+18:37:21	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+18:41:56	Ax1	1011	Quickstop input active                                                         
+18:41:56	Ax2	1011	Quickstop input active                                                         
+18:43:22	CYC	208	Selected program : SIRIUS V2 |  | 
+18:43:25	CYC	201	Load confirmed.
+18:43:32	CYC	208	Selected program : SIRIUS V2 |  | 
+18:44:05	Ax4	1011	Quickstop input active                                                         
+18:44:34	CYC	208	Selected program : SIRIUS V2 |  | 
+18:44:34	CYC	201	Load confirmed.
+18:45:15	CYC	164	Load can not start. Check error/emergency
+18:45:37	CYC	173	
+18:47:52	CYC	208	Selected program : SIRIUS V2 |  | 
+18:47:52	CYC	201	Load confirmed.
+18:48:21	CYC	208	Selected program : SIRIUS V2 |  | 
+18:48:26	CYC	208	Selected program : SIRIUS V2 |  | 
+18:48:31	CYC	208	Selected program : SIRIUS V2 |  | 
+18:49:31	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+18:49:45	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+18:49:59	CYC	201	Load confirmed.
+18:49:59	CYC	157	Plant not ready, select AUTO mode
+18:50:20	CYC	157	Plant not ready, select AUTO mode
+18:50:21	CYC	157	Plant not ready, select AUTO mode
+18:50:44	Ax4	1011	Quickstop input active                                                         
+18:50:55	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:51:54	CYC	208	Selected program : SIRIUS V2 |  | 
+18:52:01	CYC	208	Selected program : SIRIUS V2 |  | 
+18:53:01	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+18:53:10	CYC	158	Sensor busy. Unload done failed
+18:53:43	CYC	208	Selected program : SIRIUS V2 |  | 
+18:53:45	CYC	157	Plant not ready, select AUTO mode
+18:53:45	CYC	201	Load confirmed.
+18:53:48	CYC	157	Plant not ready, select AUTO mode
+18:53:49	CYC	157	Plant not ready, select AUTO mode
+18:55:05	CYC	200	Reset by Operator on VB
+18:55:07	CYC	208	Selected program : SIRIUS V2 |  | 
+18:55:09	CYC	208	Selected program : SIRIUS V2 |  | 
+18:55:18	CYC	200	Reset by Operator on VB
+18:55:18	CYC	201	Load confirmed.
+18:55:49	CYC	200	Reset by Operator on VB
+18:59:42	CYC	187	Robot not connected, not possible to load program list.
+18:59:42	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+19:03:12	CYC	208	Selected program : SIRIUS V2 |  | 
+19:18:54	CYC	6	Paint belt - Max error (&) step exceeded
+19:21:10	CYC	187	Robot not connected, not possible to load program list.
+19:21:10	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+19:22:34	Ax1	1011	Quickstop input active                                                         
+19:23:32	Ax1	1011	Quickstop input active                                                         
+19:25:56	CYC	208	Selected program : SIRIUS V2 |  | 
+19:25:56	CYC	201	Load confirmed.
+19:42:52	Ax4	1011	Quickstop input active                                                         
+19:59:48	CYC	208	Selected program : SIRIUS V2 |  | 
+19:59:49	CYC	201	Load confirmed.
+20:18:37	Ax1	1011	Quickstop input active                                                         
+20:18:37	Ax2	1011	Quickstop input active                                                         
+20:21:48	CYC	208	Selected program : SIRIUS V2 |  | 
+20:21:48	CYC	201	Load confirmed.
+20:22:31	Ax4	1011	Quickstop input active                                                         
+20:22:32	CYC	173		Barriers must be reset
+20:41:24	Ax4	1011	Quickstop input active                                                         

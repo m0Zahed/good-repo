@@ -1,0 +1,38 @@
+11:59:25	CYC	187	Robot not connected, not possible to load program list.
+11:59:26	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:11:04	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:11:04	CYC	201	Load confirmed.
+12:19:34	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:19:34	CYC	201	Load confirmed.
+12:35:07	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:35:08	CYC	201	Load confirmed.
+13:03:02	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:03:03	CYC	201	Load confirmed.
+13:29:11	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:29:11	CYC	201	Load confirmed.
+14:02:28	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+14:02:28	CYC	201	Load confirmed.
+14:28:55	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:48:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:48:51	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:51:02	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+14:51:03	CYC	201	Load confirmed.
+15:17:02	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:24:13	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:25:03	CYC	201	Load confirmed.
+15:47:20	CYC	201	Load confirmed.
+15:56:43	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+15:56:43	CYC	201	Load confirmed.
+16:22:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:22:49	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+17:37:44	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+17:37:45	CYC	201	Load confirmed.
+18:04:15	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:04:16	CYC	201	Load confirmed.
+18:35:48	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:35:48	CYC	201	Load confirmed.
+19:03:38	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+19:03:38	CYC	201	Load confirmed.
+19:51:12	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+19:51:13	CYC	201	Load confirmed.
+20:45:29	CYC	180	Spray booth auto-empty cancelled, unload station busy

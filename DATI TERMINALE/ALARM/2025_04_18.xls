@@ -1,0 +1,14 @@
+16:50:50	CYC	187	Robot not connected, not possible to load program list.
+16:50:50	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:52:47	Ax4	1011	Quickstop input active                                                         
+17:57:19	Ax1	1011	Quickstop input active                                                         
+17:57:19	Ax2	1011	Quickstop input active                                                         
+18:17:24	Ax1	1011	Quickstop input active                                                         
+18:17:24	Ax2	1011	Quickstop input active                                                         
+18:18:21	Ax4	1011	Quickstop input active                                                         
+18:22:32	Ax4	1011	Quickstop input active                                                         
+18:34:39	Ax4	4005	CTRL Controller: Command                                                       
+18:34:41	Ax4	1011	Quickstop input active                                                         
+18:35:51	Ax4	1011	Quickstop input active                                                         
+18:38:05	Ax4	1011	Quickstop input active                                                         
+20:21:22	CYC	180	Spray booth auto-empty cancelled, unload station busy

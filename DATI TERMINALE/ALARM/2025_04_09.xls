@@ -1,0 +1,5 @@
+20:03:50	CYC	187	Robot not connected, not possible to load program list.
+20:03:51	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:09:14	Ax4	1011	Quickstop input active                                                         
+20:10:10	Ax4	1011	Quickstop input active                                                         
+20:25:35	Ax1	1011	Quickstop input active                                                         

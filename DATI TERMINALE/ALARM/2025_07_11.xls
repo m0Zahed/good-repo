@@ -1,0 +1,32 @@
+11:59:35	CYC	187	Robot not connected, not possible to load program list.
+11:59:35	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:12:46	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+12:12:46	CYC	201	Load confirmed.
+12:27:08	Ax4	1011	Quickstop input active                                                         
+12:43:22	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+12:43:22	CYC	201	Load confirmed.
+13:05:16	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+13:05:17	CYC	201	Load confirmed.
+13:05:17	CYC	183	Wait timeout oven station
+13:27:40	Ax4	1011	Quickstop input active                                                         
+13:30:19	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+13:30:19	CYC	201	Load confirmed.
+13:51:25	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+13:51:25	CYC	201	Load confirmed.
+13:58:17	CYC	164	Load can not start. Check error/emergency
+15:08:09	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:08:09	CYC	201	Load confirmed.
+15:24:46	CYC	167	Force unload piece selected
+15:26:41	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:26:41	CYC	201	Load confirmed.
+15:29:02	Ax4	1011	Quickstop input active                                                         
+15:49:27	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:49:28	CYC	201	Load confirmed.
+15:49:28	CYC	183	Wait timeout oven station
+15:58:32	CYC	164	Load can not start. Check error/emergency
+16:11:07	Ax4	1011	Quickstop input active                                                         
+16:11:39	CYC	167	Force unload piece selected
+16:24:43	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:24:44	CYC	201	Load confirmed.
+16:36:44	Ax4	1011	Quickstop input active                                                         
+17:48:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

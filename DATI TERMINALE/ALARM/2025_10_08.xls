@@ -1,0 +1,47 @@
+11:51:00	CYC	187	Robot not connected, not possible to load program list.
+11:51:01	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:01:35	CYC	173		Barriers must be reset
+12:01:48	CYC	167	Force unload piece selected
+12:02:16	CYC	173		Barriers must be reset
+12:02:36	CYC	167	Force unload piece selected
+12:15:42	CYC	167	Force unload piece selected
+12:15:51	CYC	167	Force unload piece selected
+12:16:50	Ax4	1011	Quickstop input active                                                         
+12:22:50	CYC	173		Barriers must be reset
+12:48:53	Ax1	1011	Quickstop input active                                                         
+12:48:53	Ax2	1011	Quickstop input active                                                         
+13:26:39	CYC	201	Load confirmed.
+13:28:27	Ax1	1011	Quickstop input active                                                         
+13:28:27	Ax2	1011	Quickstop input active                                                         
+13:29:57	Ax1	1011	Quickstop input active                                                         
+13:31:13	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:31:14	CYC	201	Load confirmed.
+13:43:28	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:43:28	CYC	201	Load confirmed.
+13:52:10	Ax4	1011	Quickstop input active                                                         
+14:50:36	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+14:50:36	CYC	201	Load confirmed.
+15:02:25	CYC	201	Load confirmed.
+15:04:02	Ax4	1011	Quickstop input active                                                         
+15:49:58	CYC	158	Sensor busy. Unload done failed
+15:54:38	CYC	208	Selected program : 5. MS-0003 ACRYLIQUE V1 |  | 
+15:54:39	CYC	201	Load confirmed.
+16:33:34	CYC	208	Selected program : 5. MS-0003 ACRYLIQUE V1 |  | 
+16:33:34	CYC	201	Load confirmed.
+18:12:12	CYC	208	Selected program : 5. MS-0003 ACRYLIQUE V1 |  | 
+18:12:12	CYC	201	Load confirmed.
+18:35:36	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+18:35:36	CYC	201	Load confirmed.
+19:04:58	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:07:18	CYC	201	Load confirmed.
+19:07:58	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+19:11:48	CYC	201	Load confirmed.
+19:18:04	CYC	167	Force unload piece selected
+19:18:13	CYC	167	Force unload piece selected
+19:18:22	Ax4	1011	Quickstop input active                                                         
+19:45:27	CYC	201	Load confirmed.
+20:09:29	CYC	173		Barriers must be reset
+20:09:35	CYC	173		Barriers must be reset
+20:24:57	CYC	208	Selected program : 5. MS-0006 ACRYLIQUE V1 |  | 
+20:24:57	CYC	201	Load confirmed.
+20:49:24	CYC	167	Force unload piece selected

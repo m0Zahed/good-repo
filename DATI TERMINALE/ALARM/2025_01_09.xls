@@ -1,0 +1,48 @@
+08:50:57	CYC	186	
+08:51:05	Ax4	1011	Quickstop input active                                                         
+10:10:15	CYC	187	
+10:11:46	CYC	187	
+10:11:50	CYC	187	
+10:11:51	CYC	187	
+10:11:56	CYC	187	
+10:12:00	CYC	187	
+10:14:14	CYC	187	
+10:14:42	CYC	187	
+10:14:46	CYC	187	
+10:14:47	CYC	187	
+10:14:47	CYC	187	
+10:14:47	CYC	187	
+10:14:58	CYC	187	
+10:17:41	Ax1	7211	DC bus: Voltage dip                                                            
+10:17:41	Ax2	7211	DC bus: Voltage dip                                                            
+10:17:41	Ax4	7211	DC bus: Voltage dip                                                            
+10:20:39	CYC	187	
+10:31:02	CYC	187	
+10:31:46	CYC	187	
+10:32:31	CYC	208	Selezionato programma : RS_TEST |  | 
+10:32:32	CYC	201	Carico confermato.
+10:50:33	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+10:53:56	CYC	208	Selezionato programma : RS_TEST |  | 
+10:53:56	CYC	201	Carico confermato.
+10:53:56	CYC	152	Robot 1 non pronto. Start ciclo automatico
+11:19:09	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+11:32:34	Ax1	1011	Quickstop input active                                                         
+11:32:34	Ax2	1011	Quickstop input active                                                         
+11:40:54	CYC	208	Selezionato programma : RS_TEST |  | 
+11:40:55	CYC	201	Carico confermato.
+11:49:57	CYC	158	Fotocellule impegnate. Impossibile confermare scarico
+13:05:14	CYC	173	
+13:05:24	Ax4	4005	CTRL Controller: Command                                                       
+13:05:40	CYC	158	Fotocellule impegnate. Impossibile confermare scarico
+13:10:20	CYC	158	Fotocellule impegnate. Impossibile confermare scarico
+13:15:43	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+13:16:03	Ax4	1011	Quickstop input active                                                         
+13:16:12	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+13:16:43	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+13:18:18	CYC	166	Movimentazione catenarie manuale non possibile Selezionare modalità manuale e asse/i da muovere
+13:33:08	Ax1	1011	Quickstop input active                                                         
+13:33:08	Ax2	1011	Quickstop input active                                                         
+14:46:23	CYC	187	Robot non connesso. impossibile caricare lista programmi
+15:20:02	CYC	187	
+15:20:36	CYC	187	
+15:41:21	CYC	187	

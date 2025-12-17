@@ -1,0 +1,60 @@
+12:00:55	CYC	187	Robot not connected, not possible to load program list.
+12:00:56	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:12:52	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:12:52	CYC	201	Load confirmed.
+12:12:55	CYC	5	Oven belt - Max error (&) step exceeded
+12:16:15	CYC	187	Robot not connected, not possible to load program list.
+12:16:15	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:16:29	CYC	167	Force unload piece selected
+12:18:33	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:18:33	CYC	201	Load confirmed.
+13:01:52	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:01:52	CYC	201	Load confirmed.
+13:33:25	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:33:25	CYC	201	Load confirmed.
+13:59:44	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:59:45	CYC	201	Load confirmed.
+14:48:05	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:48:06	CYC	201	Load confirmed.
+15:02:11	CYC	164	Load can not start. Check error/emergency
+15:12:51	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:12:52	CYC	201	Load confirmed.
+15:27:49	CYC	164	Load can not start. Check error/emergency
+15:37:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:02:25	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:02:25	CYC	201	Load confirmed.
+16:17:06	Ax4	1011	Quickstop input active                                                         
+16:26:43	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:26:43	CYC	201	Load confirmed.
+16:49:07	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:51:02	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:51:03	CYC	201	Load confirmed.
+16:53:48	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:54:03	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:54:05	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:54:05	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:54:06	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:54:09	CYC	164	Load can not start. Check error/emergency
+16:54:16	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:54:16	CYC	201	Load confirmed.
+18:01:23	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:01:23	CYC	201	Load confirmed.
+18:01:23	CYC	157	Plant not ready, select AUTO mode
+18:04:44	Ax4	1011	Quickstop input active                                                         
+18:16:22	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:16:22	CYC	201	Load confirmed.
+18:28:33	CYC	158	Sensor busy. Unload done failed
+18:29:35	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:29:36	CYC	201	Load confirmed.
+18:29:36	CYC	183	Wait timeout oven station
+18:32:06	CYC	164	Load can not start. Check error/emergency
+18:54:55	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:54:56	CYC	201	Load confirmed.
+18:56:27	CYC	164	Load can not start. Check error/emergency
+19:19:21	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:19:22	CYC	201	Load confirmed.
+19:45:00	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:55:36	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:55:37	CYC	201	Load confirmed.
+20:19:52	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:41:17	Ax4	1011	Quickstop input active                                                         

@@ -1,0 +1,62 @@
+12:24:03	CYC	187	Robot not connected, not possible to load program list.
+12:24:03	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:59:14	CYC	201	Load confirmed.
+13:32:18	CYC	20	Oven belt - Step exceeded
+13:32:18	CYC	21	Oven belt - Step exceeded 2
+13:32:55	CYC	200	Reset by Operator on VB
+13:39:10	Ax4	1011	Quickstop input active                                                         
+13:40:30	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+13:40:30	CYC	201	Load confirmed.
+14:14:39	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+14:14:39	CYC	201	Load confirmed.
+14:40:20	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+14:40:20	CYC	201	Load confirmed.
+14:59:15	CYC	201	Load confirmed.
+15:12:39	Ax4	4005	CTRL Controller: Command                                                       
+15:12:45	Ax4	1011	Quickstop input active                                                         
+15:12:46	CYC	167	Force unload piece selected
+15:13:13	CYC	167	Force unload piece selected
+15:13:30	CYC	167	Force unload piece selected
+15:13:38	CYC	167	Force unload piece selected
+15:13:42	CYC	167	Force unload piece selected
+15:40:34	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+15:53:13	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+15:53:13	CYC	201	Load confirmed.
+16:25:05	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+16:25:06	CYC	201	Load confirmed.
+16:54:06	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+16:54:06	CYC	201	Load confirmed.
+17:22:24	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+17:22:24	CYC	201	Load confirmed.
+18:30:54	CYC	20	Oven belt - Step exceeded
+18:30:54	CYC	21	Oven belt - Step exceeded 2
+18:32:43	CYC	184	Carter not open or rotation piece in high position
+18:34:55	CYC	159	The list is not empty. Piece not in position
+18:35:09	CYC	184	Carter not open or rotation piece in high position
+18:35:48	CYC	201	Load confirmed.
+18:36:13	CYC	184	Carter not open or rotation piece in high position
+18:36:14	CYC	184	Carter not open or rotation piece in high position
+18:36:42	CYC	200	Reset by Operator on VB
+18:36:58	CYC	201	Load confirmed.
+18:56:09	Ax4	1011	Quickstop input active                                                         
+19:04:22	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+19:04:23	CYC	201	Load confirmed.
+19:24:52	CYC	167	Force unload piece selected
+19:25:04	Ax4	1011	Quickstop input active                                                         
+19:27:29	CYC	173		Barriers must be reset
+19:39:02	CYC	201	Load confirmed.
+19:58:13	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+19:58:14	CYC	201	Load confirmed.
+19:59:44	CYC	167	Force unload piece selected
+21:05:44	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:05:50	Ax4	1011	Quickstop input active                                                         
+21:05:51	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:05:54	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:06:09	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:07:42	CYC	201	Load confirmed.
+21:14:17	Ax4	1011	Quickstop input active                                                         
+21:41:04	CYC	24	Unload belt - Step exceeded
+21:41:06	Ax4	1011	Quickstop input active                                                         
+21:41:19	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+21:46:19	Ax1	1011	Quickstop input active                                                         
+21:46:19	Ax2	1011	Quickstop input active                                                         

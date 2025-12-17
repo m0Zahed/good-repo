@@ -1,0 +1,30 @@
+00|Load Step [mm]|20.1
+01|Load Acceleration|5
+02|Load Speed|1925
+03|Load Bit/mm|27.4
+04|NC|0
+05|Paint Step [mm]|20.1
+06|Paint Acceleration|5
+07|Paint Speed|1925
+08|Paint Bit/mm|27.4
+09|NC|0
+10|Unload Step [mm]|20.1
+11|Unload Acceleration|5
+12|Unload Speed|1925
+13|Unload Bit/mm|27.4
+14|NC|0
+15|Slow down Step [mm]|0
+16|Slow down Velocity|0
+17|Tapes zero pos. threshold [mm]|0
+18|Tape manual Velocity1 [s]|0
+19|Tape manual Velocity2 [s]|0
+20|NC|0
+21|Enable DoorIN|0
+22|DoorIN Timeout [s]|0
+23|Enable DoorOUT|0
+24|DoorOUT Timeout [s]|0
+25|NC|0
+26|Load cofirm delay [s]|0
+27|Unload cofirm delay [s]|0
+28|Timeout barrier|0
+Lng|ITA

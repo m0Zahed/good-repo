@@ -1,0 +1,31 @@
+11:17:55	CYC	187	Robot not connected, not possible to load program list.
+11:17:55	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:41:46	CYC	208	Selected program : 1. MS-0003 V5 |  | 
+11:41:47	CYC	201	Load confirmed.
+11:44:45	Ax4	1011	Quickstop input active                                                         
+12:11:10	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+12:11:10	CYC	201	Load confirmed.
+12:30:19	CYC	201	Load confirmed.
+12:30:41	CYC	182	Belt running due to oven tiemout
+12:31:08	CYC	6	Paint belt - Max error (&) step exceeded
+12:31:08	CYC	161	Unload not confirmed or station busy
+12:31:08	CYC	20	Oven belt - Step exceeded
+12:31:08	CYC	21	Oven belt - Step exceeded 2
+12:33:12	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+12:33:12	CYC	201	Load confirmed.
+12:33:14	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+12:33:30	CYC	201	Load confirmed.
+12:35:49	Ax4	1011	Quickstop input active                                                         
+12:42:43	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+12:42:43	CYC	201	Load confirmed.
+13:32:43	CYC	201	Load confirmed.
+13:33:30	CYC	201	Load confirmed.
+14:28:53	CYC	173		Barriers must be reset
+14:29:11	CYC	201	Load confirmed.
+14:59:41	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+14:59:41	CYC	201	Load confirmed.
+15:41:29	CYC	167	Force unload piece selected
+15:42:00	CYC	167	Force unload piece selected
+15:43:21	CYC	167	Force unload piece selected
+15:43:34	Ax4	1011	Quickstop input active                                                         
+16:17:59	CYC	159	The list is not empty. Piece not in position

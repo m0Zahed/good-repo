@@ -1,0 +1,47 @@
+12:28:13	CYC	187	Robot not connected, not possible to load program list.
+12:28:14	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:48:33	CYC	201	Load confirmed.
+13:19:06	CYC	201	Load confirmed.
+13:25:31	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:30:32	Ax1	1011	Quickstop input active                                                         
+13:30:32	Ax2	1011	Quickstop input active                                                         
+13:31:11	CYC	201	Load confirmed.
+13:31:11	CYC	157	Plant not ready, select AUTO mode
+13:34:49	CYC	157	Plant not ready, select AUTO mode
+13:42:41	CYC	157	Plant not ready, select AUTO mode
+13:54:27	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+13:54:27	CYC	201	Load confirmed.
+14:07:24	CYC	201	Load confirmed.
+14:09:05	CYC	164	Load can not start. Check error/emergency
+14:15:34	CYC	201	Load confirmed.
+14:39:16	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+14:45:08	CYC	167	Force unload piece selected
+14:45:49	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+14:45:50	CYC	201	Load confirmed.
+14:51:03	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+14:51:03	CYC	201	Load confirmed.
+15:33:18	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+15:33:18	CYC	201	Load confirmed.
+15:55:37	CYC	173		Barriers must be reset
+15:55:42	CYC	173		Barriers must be reset
+16:06:47	CYC	201	Load confirmed.
+16:39:37	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+16:39:37	CYC	201	Load confirmed.
+17:39:11	CYC	201	Load confirmed.
+18:40:47	Ax4	1011	Quickstop input active                                                         
+18:46:16	CYC	201	Load confirmed.
+18:57:40	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+18:57:41	CYC	201	Load confirmed.
+19:19:38	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+19:19:38	CYC	201	Load confirmed.
+19:23:48	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:58:50	CYC	201	Load confirmed.
+19:59:47	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+19:59:47	CYC	201	Load confirmed.
+20:05:35	CYC	164	Load can not start. Check error/emergency
+21:01:44	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+21:01:44	CYC	201	Load confirmed.
+21:06:26	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+21:06:26	CYC	201	Load confirmed.
+21:41:56	Ax4	1011	Quickstop input active                                                         
+21:42:16	Ax4	1011	Quickstop input active                                                         

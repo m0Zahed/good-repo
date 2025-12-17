@@ -1,0 +1,59 @@
+13:11:51	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:59:37	Ax4	1011	Quickstop input active                                                         
+15:57:01	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+16:10:53	Ax4	1011	Quickstop input active                                                         
+16:11:00	Ax4	1011	Quickstop input active                                                         
+16:11:07	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+16:18:17	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+16:24:36	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+16:31:57	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+17:14:56	Ax1	1011	Quickstop input active                                                         
+17:14:56	Ax2	1011	Quickstop input active                                                         
+19:29:40	CYC	208	Selezionato programma : CMA-Test1 |  | 
+19:29:40	CYC	201	Carico confermato.
+19:35:23	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:38:50	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+19:42:13	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:45:32	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+19:46:01	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+19:50:41	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:54:17	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+19:54:44	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+19:57:13	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:57:13	CYC	201	Carico confermato.
+20:00:35	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+20:07:15	CYC	208	Selezionato programma : TEST_LACUS |  | 
+20:07:16	CYC	201	Carico confermato.
+20:13:17	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+21:55:43	Ax1	1011	Quickstop input active                                                         
+21:55:43	Ax2	1011	Quickstop input active                                                         
+21:55:46	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:55:46	CYC	164	Caricamento stoppato, controllare errori/emergenze
+21:55:50	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:55:50	CYC	201	Carico confermato.
+21:55:50	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:55:53	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:55:55	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:55:56	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:55:58	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:56:15	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:56:16	CYC	201	Carico confermato.
+21:56:16	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:56:19	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:56:20	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:56:20	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:56:21	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:56:21	CYC	157	Impianto non pronto, selezionare AUTO mode
+21:56:26	CYC	208	Selezionato programma : TEST_LACUS |  | 
+21:56:27	CYC	208	Selezionato programma : TEST_LACUS |  | 
+22:00:11	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+22:12:53	CYC	208	Selezionato programma : TEST_LACUS |  | 
+22:12:54	CYC	201	Carico confermato.
+22:17:48	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+22:17:52	Ax4	1011	Quickstop input active                                                         
+22:18:20	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+22:18:28	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+22:19:16	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+22:19:21	CYC	186	Impossibile effettuare scarico automatico, operazione in corso
+22:19:30	Ax4	1011	Quickstop input active                                                         
+22:19:41	CYC	186	Impossibile effettuare scarico automatico, operazione in corso

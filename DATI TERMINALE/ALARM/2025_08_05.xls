@@ -1,0 +1,646 @@
+11:20:07	CYC	187	Robot not connected, not possible to load program list.
+11:20:08	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:35:48	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:39:24	CYC	208	Selected program : SPEED RUN 2 |  | 
+11:39:24	CYC	201	Load confirmed.
+11:42:12	CYC	208	Selected program : SPEED RUN 2 |  | 
+11:42:12	CYC	201	Load confirmed.
+11:47:57	CYC	208	Selected program : SPEED RUN 2 |  | 
+11:47:57	CYC	201	Load confirmed.
+11:48:08	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+11:48:08	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+11:48:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:48:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:53:04	CYC	22	Paint belt - Step exceeded
+11:53:04	CYC	22	Paint belt - Step exceeded
+11:53:04	CYC	22	Paint belt - Step exceeded
+11:53:04	CYC	22	Paint belt - Step exceeded
+12:00:26	CYC	187	Robot not connected, not possible to load program list.
+12:00:26	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:03:47	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:03:47	CYC	201	Load confirmed.
+12:03:47	CYC	157	Plant not ready, select AUTO mode
+12:04:22	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:04:23	CYC	201	Load confirmed.
+12:04:59	CYC	5	Oven belt - Max error (&) step exceeded
+12:07:31	CYC	200	Reset by Operator on VB
+12:07:39	CYC	200	Reset by Operator on VB
+12:12:09	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+12:12:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+12:12:38	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:12:38	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:13:11	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+12:13:11	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+12:13:23	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+12:13:23	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+12:14:35	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:14:35	CYC	201	Load confirmed.
+12:14:35	CYC	157	Plant not ready, select AUTO mode
+12:14:35	CYC	157	Plant not ready, select AUTO mode
+12:15:04	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:15:04	CYC	201	Load confirmed.
+12:16:16	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:16:16	CYC	164	Load can not start. Check error/emergency
+12:16:16	CYC	164	Load can not start. Check error/emergency
+12:16:21	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:16:21	CYC	201	Load confirmed.
+12:28:49	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:40:17	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:44:18	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:44:18	CYC	201	Load confirmed.
+12:46:27	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:46:27	CYC	201	Load confirmed.
+12:53:06	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:53:06	CYC	201	Load confirmed.
+13:01:06	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:04:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:04:37	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:10:19	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:10:20	CYC	201	Load confirmed.
+13:10:42	CYC	5	Oven belt - Max error (&) step exceeded
+13:22:25	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:26:45	CYC	201	Load confirmed.
+13:28:15	CYC	201	Load confirmed.
+13:29:31	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:29:32	CYC	201	Load confirmed.
+13:30:00	CYC	161	Unload not confirmed or station busy
+13:37:47	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:40:49	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:40:49	CYC	201	Load confirmed.
+13:41:16	CYC	184	Carter not open or rotation piece in high position
+13:42:44	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:42:44	Ax4	5018	Homing: Command start homing procedure                                         
+13:52:53	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:54:29	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:57:16	CYC	200	Reset by Operator on VB
+13:58:05	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:58:06	CYC	201	Load confirmed.
+14:04:17	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:04:18	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:32:51	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:34:46	Ax4	1011	Quickstop input active                                                         
+14:36:05	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:36:05	CYC	201	Load confirmed.
+14:37:19	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:37:19	CYC	201	Load confirmed.
+14:38:40	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:41:29	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:41:29	CYC	201	Load confirmed.
+14:41:36	CYC	164	Load can not start. Check error/emergency
+14:42:05	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:42:05	CYC	201	Load confirmed.
+14:52:32	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+14:52:32	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:52:33	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : oven_time_end , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+14:52:33	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+14:52:34	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:52:34	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:16:57	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:20:27	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:20:27	CYC	201	Load confirmed.
+15:21:16	CYC	159	The list is not empty. Piece not in position
+15:21:56	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:21:56	CYC	201	Load confirmed.
+15:23:36	CYC	200	Reset by Operator on VB
+15:24:29	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:24:30	CYC	201	Load confirmed.
+15:33:53	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:34:46	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:39:45	CYC	201	Load confirmed.
+15:41:38	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:41:38	CYC	201	Load confirmed.
+15:43:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:43:44	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:45:03	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:45:03	CYC	201	Load confirmed.
+15:45:45	CYC	167	Force unload piece selected
+15:49:05	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:49:05	CYC	201	Load confirmed.
+15:55:44	CYC	201	Load confirmed.
+15:58:07	CYC	173	
+15:58:18	CYC	200	Reset by Operator on VB
+15:58:21	CYC	173	
+16:01:31	Ax4	1011	Quickstop input active                                                         
+16:01:40	CYC	173	
+16:02:37	Ax4	1011	Quickstop input active                                                         
+16:05:36	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:05:36	CYC	201	Load confirmed.
+16:08:21	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:08:21	CYC	201	Load confirmed.
+16:09:59	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:10:30	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:11:50	Ax4	1011	Quickstop input active                                                         
+16:14:31	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:14:31	CYC	201	Load confirmed.
+16:16:11	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:16:30	Ax4	1011	Quickstop input active                                                         
+16:18:49	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:18:59	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:19:00	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:19:52	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:20:01	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:20:01	CYC	201	Load confirmed.
+16:20:46	CYC	200	Reset by Operator on VB
+16:20:55	CYC	6	Paint belt - Max error (&) step exceeded
+16:44:00	Ax1	4011	CTRL Controller: Command                                                       
+16:48:56	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:54:45	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : oven_time_end , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+16:54:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:54:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:55:45	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : oven_time_end , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : oven_time_end , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+16:55:45	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+16:56:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:56:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:56:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:59:33	Ax4	1011	Quickstop input active                                                         
+16:59:33	Ax4	1011	Quickstop input active                                                         
+17:02:22	Ax4	1011	Quickstop input active                                                         
+17:02:22	Ax4	1011	Quickstop input active                                                         
+17:03:29	CYC	208	Selected program : SPEED RUN 2 |  | 
+17:03:29	CYC	201	Load confirmed.
+17:06:01	CYC	6	Paint belt - Max error (&) step exceeded
+17:06:01	CYC	6	Paint belt - Max error (&) step exceeded
+17:06:54	CYC	200	Reset by Operator on VB
+17:07:04	CYC	200	Reset by Operator on VB
+17:11:55	CYC	200	Reset by Operator on VB
+17:12:33	CYC	200	Reset by Operator on VB
+17:16:14	CYC	200	Reset by Operator on VB
+17:18:42	Ax1	1011	Quickstop input active                                                         
+17:18:42	Ax2	1011	Quickstop input active                                                         
+17:18:42	Ax1	1011	Quickstop input active                                                         
+17:18:42	Ax2	1011	Quickstop input active                                                         
+17:19:11	CYC	208	Selected program : SPEED RUN 2 |  | 
+17:19:11	CYC	201	Load confirmed.
+17:21:43	CYC	200	Reset by Operator on VB
+17:21:56	CYC	208	Selected program : SPEED RUN 2 |  | 
+17:21:57	CYC	201	Load confirmed.
+17:22:55	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:17:47	CYC	201	Load confirmed.
+18:18:16	CYC	200	Reset by Operator on VB
+18:18:37	CYC	208	Selected program : SPEED RUN 2 |  | 
+18:18:37	CYC	201	Load confirmed.
+18:20:24	CYC	208	Selected program : SPEED RUN 2 |  | 
+18:20:25	CYC	201	Load confirmed.
+18:28:54	Ax4	1011	Quickstop input active                                                         
+18:29:00	CYC	173		Barriers must be reset
+18:30:11	CYC	200	Reset by Operator on VB
+18:32:17	CYC	208	Selected program : SPEED RUN 2 |  | 
+18:32:17	CYC	201	Load confirmed.
+18:34:03	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:40:46	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:42:28	CYC	208	Selected program : SPEED RUN 2 |  | 
+18:42:28	CYC	201	Load confirmed.
+18:44:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:44:38	Ax4	1011	Quickstop input active                                                         
+18:45:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:45:59	CYC	200	Reset by Operator on VB
+18:46:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:46:33	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:46:35	CYC	201	Load confirmed.
+18:53:21	CYC	208	Selected program : SPEED RUN 2 |  | 
+18:53:21	CYC	201	Load confirmed.
+18:53:46	Ax4	1011	Quickstop input active                                                         
+18:56:12	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:56:23	Ax4	1011	Quickstop input active                                                         
+18:56:47	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:57:16	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:57:24	CYC	208	Selected program : SPEED RUN 2 |  | 
+18:57:24	CYC	201	Load confirmed.
+18:59:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:00:11	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:00:11	CYC	201	Load confirmed.
+19:01:24	Ax4	1011	Quickstop input active                                                         
+19:02:21	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:02:44	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:02:44	CYC	201	Load confirmed.
+19:05:01	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:05:11	Ax4	1011	Quickstop input active                                                         
+19:06:04	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:06:04	CYC	201	Load confirmed.
+19:06:33	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:08:22	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:08:22	CYC	201	Load confirmed.
+19:09:08	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:09:45	Ax4	1011	Quickstop input active                                                         
+19:09:55	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:09:59	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:10:00	CYC	201	Load confirmed.
+19:10:02	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:10:02	CYC	201	Load confirmed.
+19:16:08	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:16:08	CYC	201	Load confirmed.
+19:16:08	CYC	161	Unload not confirmed or station busy
+19:16:09	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:16:10	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:16:11	CYC	201	Load confirmed.
+19:17:15	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:17:15	CYC	201	Load confirmed.
+19:17:15	CYC	187	Wait end of unload operation
+19:17:16	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:17:17	CYC	187	Wait end of unload operation
+19:17:17	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:17:17	CYC	187	Wait end of unload operation
+19:17:17	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:17:18	CYC	187	Wait end of unload operation
+19:17:19	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:17:30	CYC	3	Painting zone - Time Out OUT Door
+19:18:23	Ax4	1011	Quickstop input active                                                         
+19:18:54	CYC	200	Reset by Operator on VB
+19:18:56	CYC	200	Reset by Operator on VB
+19:20:22	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:20:23	CYC	201	Load confirmed.
+19:20:23	CYC	182	Belt running due to oven tiemout
+19:20:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:38	CYC	182	Belt running due to oven tiemout
+19:20:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:38	CYC	182	Belt running due to oven tiemout
+19:20:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:41	CYC	182	Belt running due to oven tiemout
+19:20:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:41	CYC	182	Belt running due to oven tiemout
+19:20:43	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:43	CYC	182	Belt running due to oven tiemout
+19:20:44	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:44	CYC	182	Belt running due to oven tiemout
+19:20:44	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:44	CYC	182	Belt running due to oven tiemout
+19:20:46	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:47	CYC	182	Belt running due to oven tiemout
+19:20:47	CYC	182	Belt running due to oven tiemout
+19:20:49	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:49	CYC	182	Belt running due to oven tiemout
+19:20:50	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:50	CYC	182	Belt running due to oven tiemout
+19:20:50	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:50	CYC	182	Belt running due to oven tiemout
+19:20:52	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:53	CYC	182	Belt running due to oven tiemout
+19:20:53	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:53	CYC	182	Belt running due to oven tiemout
+19:20:54	CYC	182	Belt running due to oven tiemout
+19:20:55	CYC	182	Belt running due to oven tiemout
+19:20:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:56	CYC	182	Belt running due to oven tiemout
+19:20:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:20:56	CYC	182	Belt running due to oven tiemout
+19:20:58	CYC	200	Reset by Operator on VB
+19:20:58	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:21:00	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:21:00	Ax4	5018	Homing: Command start homing procedure                                         
+19:21:23	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:22:06	Ax4	1011	Quickstop input active                                                         
+19:24:40	CYC	200	Reset by Operator on VB
+19:24:48	CYC	200	Reset by Operator on VB
+19:25:57	Ax1	1011	Quickstop input active                                                         
+19:25:57	Ax2	1011	Quickstop input active                                                         
+19:25:59	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:26:00	CYC	201	Load confirmed.
+19:28:00	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:28:01	CYC	201	Load confirmed.
+19:28:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:17	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:30:17	CYC	201	Load confirmed.
+19:30:18	CYC	182	Belt running due to oven tiemout
+19:30:18	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:18	CYC	182	Belt running due to oven tiemout
+19:30:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:19	CYC	182	Belt running due to oven tiemout
+19:30:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:21	CYC	182	Belt running due to oven tiemout
+19:30:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:22	CYC	182	Belt running due to oven tiemout
+19:30:23	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:24	CYC	182	Belt running due to oven tiemout
+19:30:24	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:24	CYC	182	Belt running due to oven tiemout
+19:30:25	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:25	CYC	182	Belt running due to oven tiemout
+19:30:27	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:27	CYC	182	Belt running due to oven tiemout
+19:30:27	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:28	CYC	182	Belt running due to oven tiemout
+19:30:29	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:30	CYC	182	Belt running due to oven tiemout
+19:30:30	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:30	CYC	182	Belt running due to oven tiemout
+19:30:31	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:31	CYC	182	Belt running due to oven tiemout
+19:30:33	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:33	CYC	182	Belt running due to oven tiemout
+19:30:33	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:34	CYC	182	Belt running due to oven tiemout
+19:30:34	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:35	CYC	182	Belt running due to oven tiemout
+19:30:35	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:36	CYC	182	Belt running due to oven tiemout
+19:30:37	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:37	CYC	182	Belt running due to oven tiemout
+19:30:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:38	CYC	182	Belt running due to oven tiemout
+19:30:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:41	CYC	182	Belt running due to oven tiemout
+19:30:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:41	CYC	182	Belt running due to oven tiemout
+19:30:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:42	CYC	182	Belt running due to oven tiemout
+19:30:44	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:44	CYC	182	Belt running due to oven tiemout
+19:30:44	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:44	CYC	182	Belt running due to oven tiemout
+19:30:46	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:30:46	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:47	CYC	182	Belt running due to oven tiemout
+19:30:47	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:47	CYC	182	Belt running due to oven tiemout
+19:30:48	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:48	CYC	182	Belt running due to oven tiemout
+19:30:51	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:51	CYC	182	Belt running due to oven tiemout
+19:30:51	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:52	CYC	182	Belt running due to oven tiemout
+19:30:52	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:52	CYC	182	Belt running due to oven tiemout
+19:30:54	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:54	CYC	182	Belt running due to oven tiemout
+19:30:55	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:55	CYC	182	Belt running due to oven tiemout
+19:30:57	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:57	CYC	182	Belt running due to oven tiemout
+19:30:57	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:30:58	CYC	182	Belt running due to oven tiemout
+19:30:58	CYC	182	Belt running due to oven tiemout
+19:30:59	CYC	182	Belt running due to oven tiemout
+19:30:59	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:00	CYC	182	Belt running due to oven tiemout
+19:31:00	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:00	CYC	182	Belt running due to oven tiemout
+19:31:01	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:01	CYC	182	Belt running due to oven tiemout
+19:31:03	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:03	CYC	182	Belt running due to oven tiemout
+19:31:03	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:04	CYC	182	Belt running due to oven tiemout
+19:31:05	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:06	CYC	182	Belt running due to oven tiemout
+19:31:06	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:06	CYC	182	Belt running due to oven tiemout
+19:31:07	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:07	CYC	182	Belt running due to oven tiemout
+19:31:09	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:09	CYC	182	Belt running due to oven tiemout
+19:31:09	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:10	CYC	182	Belt running due to oven tiemout
+19:31:11	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:12	CYC	182	Belt running due to oven tiemout
+19:31:12	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:12	CYC	182	Belt running due to oven tiemout
+19:31:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:13	CYC	182	Belt running due to oven tiemout
+19:31:15	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:15	CYC	182	Belt running due to oven tiemout
+19:31:15	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:16	CYC	182	Belt running due to oven tiemout
+19:31:17	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:18	CYC	182	Belt running due to oven tiemout
+19:31:18	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:18	CYC	182	Belt running due to oven tiemout
+19:31:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:19	CYC	182	Belt running due to oven tiemout
+19:31:19	CYC	200	Reset by Operator on VB
+19:31:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:31:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:32:07	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:35:01	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:36:53	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:36:53	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:36:54	CYC	201	Load confirmed.
+19:36:54	CYC	187	Wait end of unload operation
+19:36:55	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:37:05	CYC	3	Painting zone - Time Out OUT Door
+19:37:45	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+19:38:10	Ax4	1011	Quickstop input active                                                         
+19:38:10	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:39:09	CYC	201	Load confirmed.
+19:39:11	CYC	208	Selected program : SPEED RUN 2 |  | 
+19:39:27	CYC	201	Load confirmed.
+19:39:33	CYC	177	Oven auto-empty cancelled, spray station busy
+19:41:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:41:57	CYC	181	Spray booth auto-empty cancelled, tapes not ready

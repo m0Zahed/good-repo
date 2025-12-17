@@ -1,0 +1,66 @@
+11:52:42	CYC	187	Robot not connected, not possible to load program list.
+11:52:43	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:17:12	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:17:12	CYC	201	Load confirmed.
+12:30:37	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:30:37	CYC	201	Load confirmed.
+12:58:57	Ax4	1011	Quickstop input active                                                         
+12:59:22	CYC	173	
+13:04:42	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:04:42	CYC	201	Load confirmed.
+13:07:25	CYC	164	Load can not start. Check error/emergency
+13:18:08	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:18:08	CYC	201	Load confirmed.
+13:40:24	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:40:24	CYC	201	Load confirmed.
+13:55:55	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:55:55	CYC	201	Load confirmed.
+14:37:28	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:37:29	CYC	201	Load confirmed.
+14:39:37	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:39:37	CYC	201	Load confirmed.
+15:27:33	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:27:33	CYC	201	Load confirmed.
+15:29:19	CYC	208	Selected program : 1. SIRIUSMS0009 |  | 
+15:29:19	CYC	201	Load confirmed.
+15:38:59	CYC	200	Reset by Operator on VB
+15:48:03	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:02:07	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:02:12	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:03:04	CYC	208	Selected program : 1. SIRIUSMS0009 |  | 
+16:03:04	CYC	201	Load confirmed.
+16:31:14	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:31:14	CYC	201	Load confirmed.
+16:31:15	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:31:33	CYC	201	Load confirmed.
+16:51:35	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:48:24	CYC	200	Reset by Operator on VB
+17:50:21	CYC	200	Reset by Operator on VB
+17:51:18	CYC	200	Reset by Operator on VB
+17:51:27	Ax4	1011	Quickstop input active                                                         
+17:56:00	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:15:32	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:16:51	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:18:48	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:18:48	CYC	201	Load confirmed.
+18:39:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:52:06	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:56:36	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:56:36	CYC	201	Load confirmed.
+18:58:51	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:58:51	CYC	201	Load confirmed.
+19:05:39	CYC	200	Reset by Operator on VB
+19:15:03	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:15:15	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+19:58:19	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:58:19	CYC	201	Load confirmed.
+20:18:45	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+20:18:45	CYC	201	Load confirmed.
+20:40:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:40:25	CYC	167	Force unload piece selected
+20:40:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:40:35	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:40:37	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:02:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+22:45:40	CYC	187	Robot not connected, not possible to load program list.
+22:45:41	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

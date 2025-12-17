@@ -1,0 +1,49 @@
+12:28:35	CYC	187	Robot not connected, not possible to load program list.
+12:28:36	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:02:35	CYC	201	Load confirmed.
+13:10:19	Ax4	1011	Quickstop input active                                                         
+13:11:56	CYC	201	Load confirmed.
+13:32:19	CYC	201	Load confirmed.
+13:32:22	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+13:32:23	CYC	201	Load confirmed.
+13:46:15	CYC	167	Force unload piece selected
+14:10:45	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+14:10:46	CYC	201	Load confirmed.
+14:15:55	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+14:15:55	CYC	201	Load confirmed.
+14:57:37	CYC	167	Force unload piece selected
+15:35:08	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:36:46	CYC	201	Load confirmed.
+15:37:08	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:41:59	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+15:41:59	CYC	201	Load confirmed.
+16:01:26	Ax4	1011	Quickstop input active                                                         
+16:01:51	CYC	167	Force unload piece selected
+16:07:43	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+16:07:44	CYC	201	Load confirmed.
+16:08:08	CYC	182	Belt running due to oven tiemout
+16:08:35	CYC	161	Unload not confirmed or station busy
+16:08:35	CYC	6	Paint belt - Max error (&) step exceeded
+16:08:36	CYC	20	Oven belt - Step exceeded
+16:08:36	CYC	21	Oven belt - Step exceeded 2
+16:11:03	CYC	200	Reset by Operator on VB
+16:11:23	Ax4	1011	Quickstop input active                                                         
+16:12:19	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+16:17:13	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+16:17:13	CYC	201	Load confirmed.
+16:50:05	CYC	201	Load confirmed.
+17:24:53	CYC	167	Force unload piece selected
+17:50:44	CYC	201	Load confirmed.
+18:47:43	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:49:55	CYC	201	Load confirmed.
+18:55:21	CYC	201	Load confirmed.
+19:20:11	CYC	201	Load confirmed.
+19:22:38	Ax1	1011	Quickstop input active                                                         
+19:54:31	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+19:54:32	CYC	201	Load confirmed.
+20:40:03	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+20:40:03	CYC	201	Load confirmed.
+20:40:53	CYC	184	Carter not open or rotation piece in high position
+20:56:30	CYC	184	Carter not open or rotation piece in high position
+20:56:50	CYC	200	Reset by Operator on VB
+21:12:01	CYC	201	Load confirmed.

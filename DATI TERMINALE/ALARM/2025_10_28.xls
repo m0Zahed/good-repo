@@ -1,0 +1,43 @@
+11:09:02	CYC	187	Robot not connected, not possible to load program list.
+11:09:03	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:57:52	CYC	201	Load confirmed.
+12:05:04	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:05:05	CYC	201	Load confirmed.
+12:07:25	CYC	187	Robot not connected, not possible to load program list.
+12:07:26	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:14:47	CYC	187	Robot not connected, not possible to load program list.
+12:14:47	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:23:10	CYC	201	Load confirmed.
+12:53:07	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:53:07	CYC	201	Load confirmed.
+13:30:05	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:30:06	CYC	201	Load confirmed.
+13:30:22	CYC	182	Belt running due to oven tiemout
+13:30:42	CYC	161	Unload not confirmed or station busy
+13:30:48	CYC	6	Paint belt - Max error (&) step exceeded
+13:30:48	CYC	20	Oven belt - Step exceeded
+13:30:48	CYC	21	Oven belt - Step exceeded 2
+13:35:21	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:35:21	CYC	201	Load confirmed.
+13:35:40	CYC	200	Reset by Operator on VB
+14:10:17	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+14:10:18	CYC	201	Load confirmed.
+14:10:44	CYC	164	Load can not start. Check error/emergency
+14:48:19	CYC	201	Load confirmed.
+15:23:12	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+15:23:12	CYC	201	Load confirmed.
+15:23:22	CYC	164	Load can not start. Check error/emergency
+15:59:13	CYC	201	Load confirmed.
+16:36:17	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:36:18	CYC	201	Load confirmed.
+16:37:09	CYC	20	Oven belt - Step exceeded
+16:37:09	CYC	21	Oven belt - Step exceeded 2
+16:37:09	CYC	21	Oven belt - Step exceeded 2
+16:38:51	Ax1	1011	Quickstop input active                                                         
+17:48:40	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+17:48:40	CYC	201	Load confirmed.
+18:21:10	Ax4	1011	Quickstop input active                                                         
+18:22:17	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:22:17	CYC	201	Load confirmed.
+19:00:04	CYC	201	Load confirmed.
+20:11:02	Ax4	1011	Quickstop input active                                                         

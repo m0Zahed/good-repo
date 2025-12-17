@@ -1,0 +1,16 @@
+07:57:47	CYC	187	Robot non connecté, impossible de charger la liste des programmes.
+09:17:31	CYC	208	Programme sélectionné : RS_TEST |  | 
+09:17:32	CYC	201	Chargement confirmé.
+09:17:32	CYC	152	Robot 1 pas prêt. Démarrer le cycle automatique
+09:17:46	CYC	152	Robot 1 pas prêt. Démarrer le cycle automatique
+10:01:30	Ax4	1011	Quickstop input active                                                         
+10:15:51	Ax4	1011	Quickstop input active                                                         
+10:17:20	CYC	208	Programme sélectionné : TEST ORIONF |  | 
+10:35:37	CYC	186	L'opération de déchargement ne peut pas commencer. Opération automatique en cours
+10:35:43	Ax4	1011	Quickstop input active                                                         
+11:04:26	CYC	167	Impossible d'ouvrir la porte.
+11:09:18	CYC	208	Programme sélectionné : TEST ORIONF1 |  | 
+11:09:19	CYC	201	Chargement confirmé.
+11:34:09	CYC	186	L'opération de déchargement ne peut pas commencer. Opération automatique en cours
+11:34:16	Ax4	1011	Quickstop input active                                                         
+11:58:39	CYC	187	Robot non connecté, impossible de charger la liste des programmes.

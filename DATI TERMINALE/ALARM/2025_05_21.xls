@@ -1,0 +1,33 @@
+11:59:04	CYC	187	Robot not connected, not possible to load program list.
+11:59:04	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:51:40	Ax4	1011	Quickstop input active                                                         
+12:57:36	Ax4	1011	Quickstop input active                                                         
+12:57:58	Ax4	1011	Quickstop input active                                                         
+12:58:26	Ax4	1011	Quickstop input active                                                         
+15:17:08	CYC	187	Robot not connected, not possible to load program list.
+15:17:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+17:45:00	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:03:07	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:03:07	CYC	201	Load confirmed.
+18:03:07	CYC	183	Wait timeout oven station
+18:04:13	CYC	6	Paint belt - Max error (&) step exceeded
+18:27:12	Ax1	1011	Quickstop input active                                                         
+18:27:12	Ax2	1011	Quickstop input active                                                         
+18:32:45	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:32:45	CYC	201	Load confirmed.
+18:32:46	CYC	183	Wait timeout oven station
+19:01:53	Ax4	1011	Quickstop input active                                                         
+19:03:34	Ax4	1011	Quickstop input active                                                         
+19:04:04	Ax4	1011	Quickstop input active                                                         
+19:05:13	CYC	201	Load confirmed.
+19:05:13	CYC	183	Wait timeout oven station
+19:47:59	CYC	173		Barriers must be reset
+19:48:43	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:48:43	CYC	201	Load confirmed.
+20:14:43	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:15:32	Ax4	1011	Quickstop input active                                                         
+20:47:57	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:54:50	Ax4	1011	Quickstop input active                                                         
+20:55:03	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:56:00	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:56:07	Ax4	1011	Quickstop input active                                                         

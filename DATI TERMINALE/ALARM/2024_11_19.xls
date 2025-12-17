@@ -1,0 +1,59 @@
+10:58:56	CYC	173	
+11:00:23	CYC	173	
+11:39:13	CYC	208	Selected program : EMPTY CODE |  | 
+11:39:19	CYC	208	Selected program : EMPTY CODE |  | 
+11:39:20	CYC	208	Selected program : EMPTY CODE |  | 
+11:39:21	CYC	208	Selected program : EMPTY CODE |  | 
+11:40:09	CYC	208	Selected program : EMPTY CODE |  | 
+11:40:20	CYC	208	Selected program : EMPTY CODE |  | 
+11:46:10	CYC	208	Selected program : EMPTY CODE |  | 
+11:46:14	CYC	208	Selected program : EMPTY CODE |  | 
+11:48:20	CYC	208	Selected program : EMPTY CODE |  | 
+11:49:42	CYC	208	Selected program : EMPTY CODE |  | 
+11:54:21	CYC	208	Selected program : EMPTY CODE |  | 
+11:58:10	CYC	208	Selected program : EMPTY CODE |  | 
+11:58:11	CYC	184	Carter not open or rotation piece in high position
+11:58:18	CYC	184	Carter not open or rotation piece in high position
+12:01:04	CYC	184	Carter not open or rotation piece in high position
+12:01:10	CYC	184	Carter not open or rotation piece in high position
+12:01:12	CYC	184	Carter not open or rotation piece in high position
+12:01:51	CYC	184	Carter not open or rotation piece in high position
+12:01:51	CYC	184	Carter not open or rotation piece in high position
+12:01:52	CYC	184	Carter not open or rotation piece in high position
+12:02:00	CYC	184	Carter not open or rotation piece in high position
+12:12:51	CYC	201	Load confirmed.
+12:12:51	CYC	152	Robot 1 not ready. Start automatic cycle
+12:20:53	CYC	20	Oven belt - Step exceeded
+12:20:53	CYC	21	Oven belt - Step exceeded 2
+12:25:57	CYC	208	Selected program : EMPTY CODE |  | 
+12:26:20	CYC	201	Load confirmed.
+12:27:11	CYC	200	Reset by Operator on VB
+12:28:48	CYC	208	Selected program : EMPTY CODE |  | 
+12:31:45	CYC	178	Oven auto-empty cancelled, tapes not ready
+12:36:36	CYC	208	Selected program : EMPTY CODE |  | 
+12:36:56	CYC	201	Load confirmed.
+12:42:46	Ax1	1011	Quickstop input active                                                         
+12:42:46	Ax2	1011	Quickstop input active                                                         
+12:42:51	CYC	164	Load can not start. Check error/emergency
+12:42:58	CYC	208	Selected program : EMPTY CODE |  | 
+12:42:59	CYC	208	Selected program : EMPTY CODE |  | 
+12:45:40	CYC	208	Selected program : EMPTY CODE |  | 
+12:49:16	CYC	208	Selected program : EMPTY CODE |  | 
+12:51:15	CYC	208	Selected program : EMPTY CODE |  | 
+12:51:16	CYC	201	Load confirmed.
+12:53:08	CYC	156	Timeout reset Barrier
+12:53:17	CYC	156	Timeout reset Barrier
+12:53:19	CYC	156	Timeout reset Barrier
+12:54:25	CYC	208	Selected program : EMPTY CODE |  | 
+12:54:41	CYC	208	Selected program : EMPTY CODE |  | 
+12:54:41	CYC	201	Load confirmed.
+12:58:44	CYC	208	Selected program : 2024_11_18 |  | 
+12:59:45	CYC	22	Paint belt - Step exceeded
+12:59:45	CYC	22	Paint belt - Step exceeded
+13:01:52	CYC	208	Selected program : 2024_11_18 |  | 
+14:08:26	CYC	208	Selected program : EMPTY CODE |  | 
+14:08:26	CYC	201	Load confirmed.
+14:09:04	CYC	201	Load confirmed.
+14:16:07	CYC	201	Load confirmed.
+14:43:57	CYC	201	Load confirmed.
+14:46:12	CYC	201	Load confirmed.

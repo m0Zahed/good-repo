@@ -1,0 +1,62 @@
+﻿00|Led Auto
+01|Led DoorIN ouvert
+02|Led DoorOUT ouvert
+03|Led Motor on
+04|Led Ligne vide
+05|Led Reset Alarms
+06|Led Défaut Porte Ouverte
+07|Porte fermée
+08|Compteur
+09|Sémaphore feu rouge
+10|Sémaphore feu vert
+11|Sirène
+12|Confirmation du chargement de la led
+13|Led barrière chargement ok
+14|Led déchargement confirmation
+15|Led barrière de déchargement ok
+16|Porte du four ouverte
+17|Fermer la porte du four
+18|Ouverture de la porte du four
+19|Fermer la porte IN
+20|Ouverture de la porte OUT
+21|Fermeture de la porte OUT
+22|NC
+23|NC
+24|Sémaphore Rouge clair chargé
+25|Sémaphore feu jaune chargé
+26|Sémaphore feu vert chargé
+27|Sirène chargée
+28|Feu rouge sémaphore chargé
+29|Feu jaune allumé
+30|Sémaphore feu vert chargé
+31|Sirène chargée
+32|Terminal Lifebit à R1
+33|Continuos Start
+34|NC
+35|Cabin doors closed
+36|NC
+37|NC
+38|NC
+39|NC
+40|NC
+41|NC
+42|NC
+43|NC
+44|NC
+45|NC
+46|NC
+47|NC
+48|NC
+49|NC
+50|NC
+51|NC
+52|NC
+53|NC
+54|NC
+55|NC
+56|NC
+57|NC
+58|NC
+59|NC
+60|NC
+61|NC

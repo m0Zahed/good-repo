@@ -1,0 +1,6 @@
+Path programma;Nome programma;Prima prod;Ultima prod;Cont;T lavoro;T pausa;T Pistola;Prodotto;A;B;C
+RPContinuo\RP_ONLY_02.cma;RP_ONLY_02;10:54:20 AM;10:55:30 AM;1;00:00:49;00:00:22;00:00:34;0.00;0;0;0
+RPContinuo\RP_VERT.cma;RP_VERT;11:11:19 AM;11:22:28 AM;3;00:04:06;00:04:16;00:02:48;0.00;0;0;0
+RPContinuo\RP_ORIZ.cma;RP_ORIZ;11:22:27 AM;11:26:15 AM;1;00:01:22;00:02:25;00:00:56;0.00;0;0;0
+RPContinuo\RP_VERT.cma;RP_VERT;2:24:25 PM;2:25:57 PM;1;00:01:30;00:00:02;00:00:55;0.00;0;0;0
+RPContinuo\RP_ORIZ.cma;RP_ORIZ;2:30:53 PM;2:32:34 PM;1;00:01:22;00:00:19;00:00:56;0.00;0;0;0

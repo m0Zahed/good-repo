@@ -1,0 +1,76 @@
+12:32:16	CYC	187	Robot not connected, not possible to load program list.
+12:32:17	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:41:18	CYC	201	Load confirmed.
+12:41:18	CYC	157	Plant not ready, select AUTO mode
+12:47:38	CYC	159	The list is not empty. Piece not in position
+12:48:25	CYC	201	Load confirmed.
+13:10:22	CYC	201	Load confirmed.
+13:10:33	CYC	161	Unload not confirmed or station busy
+13:11:13	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+13:11:14	CYC	201	Load confirmed.
+13:11:21	CYC	167	Force unload piece selected
+13:36:13	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+13:36:13	CYC	201	Load confirmed.
+13:56:11	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+13:56:12	CYC	201	Load confirmed.
+14:33:50	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+14:33:50	CYC	201	Load confirmed.
+14:55:59	CYC	201	Load confirmed.
+15:16:46	CYC	201	Load confirmed.
+15:35:12	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:38:04	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:39:37	CYC	201	Load confirmed.
+16:00:29	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:00:29	CYC	201	Load confirmed.
+16:22:38	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:22:38	CYC	201	Load confirmed.
+16:41:16	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:41:46	CYC	167	Force unload piece selected
+16:41:46	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:41:57	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:43:35	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:43:35	CYC	201	Load confirmed.
+17:03:04	CYC	201	Load confirmed.
+17:22:43	CYC	201	Load confirmed.
+17:22:44	CYC	182	Belt running due to oven tiemout
+17:23:14	Ax4	1011	Quickstop input active                                                         
+17:24:12	CYC	200	Reset by Operator on VB
+17:24:18	Ax3	5018	Homing: Command start homing procedure                                         
+17:24:43	CYC	200	Reset by Operator on VB
+17:24:45	Ax3	5018	Homing: Command start homing procedure                                         
+17:24:55	CYC	200	Reset by Operator on VB
+17:25:23	CYC	200	Reset by Operator on VB
+17:25:26	CYC	200	Reset by Operator on VB
+17:25:55	CYC	167	Force unload piece selected
+17:26:05	CYC	200	Reset by Operator on VB
+17:28:11	CYC	200	Reset by Operator on VB
+17:28:14	CYC	200	Reset by Operator on VB
+17:28:19	CYC	200	Reset by Operator on VB
+17:28:37	CYC	200	Reset by Operator on VB
+17:30:11	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+17:30:11	CYC	201	Load confirmed.
+17:32:56	CYC	173		Barriers must be reset
+17:33:21	CYC	200	Reset by Operator on VB
+17:49:57	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+17:49:57	CYC	201	Load confirmed.
+18:17:50	CYC	167	Force unload piece selected
+18:18:07	CYC	167	Force unload piece selected
+18:18:24	CYC	167	Force unload piece selected
+18:18:45	CYC	167	Force unload piece selected
+18:19:14	Ax4	1011	Quickstop input active                                                         
+18:20:18	CYC	167	Force unload piece selected
+18:20:48	CYC	158	Sensor busy. Unload done failed
+18:20:59	CYC	167	Force unload piece selected
+18:46:04	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+18:46:04	CYC	201	Load confirmed.
+18:47:54	Ax4	1011	Quickstop input active                                                         
+18:47:56	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:47:56	CYC	201	Load confirmed.
+19:07:30	CYC	201	Load confirmed.
+19:39:52	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:39:53	CYC	201	Load confirmed.
+19:57:35	CYC	201	Load confirmed.
+21:22:40	Ax4	1011	Quickstop input active                                                         
+21:24:20	CYC	200	Reset by Operator on VB
+21:24:23	CYC	200	Reset by Operator on VB
+21:25:30	CYC	200	Reset by Operator on VB

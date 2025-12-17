@@ -1,0 +1,81 @@
+11:46:38	CYC	187	Robot not connected, not possible to load program list.
+11:46:39	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:03:22	CYC	201	Load confirmed.
+12:20:19	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+12:21:25	Ax4	1011	Quickstop input active                                                         
+12:21:42	Ax1	1011	Quickstop input active                                                         
+12:21:47	CYC	201	Load confirmed.
+12:21:57	CYC	201	Load confirmed.
+12:22:41	CYC	201	Load confirmed.
+12:22:50	CYC	201	Load confirmed.
+12:23:08	CYC	20	Oven belt - Step exceeded
+12:23:08	CYC	21	Oven belt - Step exceeded 2
+12:23:32	Ax2	1011	Quickstop input active                                                         
+12:23:38	CYC	201	Load confirmed.
+12:23:59	CYC	200	Reset by Operator on VB
+12:24:14	CYC	201	Load confirmed.
+12:35:23	CYC	173		Barriers must be reset
+12:46:21	CYC	201	Load confirmed.
+13:04:15	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:14:17	CYC	167	Force unload piece selected
+13:14:17	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:14:29	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:18:44	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+13:18:45	CYC	201	Load confirmed.
+13:36:25	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:37:52	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:39:55	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+13:39:55	CYC	201	Load confirmed.
+13:59:45	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:02:31	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:04:14	CYC	201	Load confirmed.
+14:24:34	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:27	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:42	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:43	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:44	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:45	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:45:46	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:46:07	CYC	167	Force unload piece selected
+14:46:08	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:51:08	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+14:51:09	CYC	201	Load confirmed.
+15:10:24	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:11:35	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:13:22	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:13:22	CYC	201	Load confirmed.
+15:33:11	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:47:17	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:49:13	CYC	201	Load confirmed.
+16:08:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:20:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:20:28	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:20:30	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:20:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:20:41	CYC	167	Force unload piece selected
+16:20:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:20:52	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:24:03	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:24:03	CYC	201	Load confirmed.
+16:41:13	CYC	167	Force unload piece selected
+16:48:28	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:48:28	CYC	201	Load confirmed.
+17:07:57	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:50:23	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+17:52:53	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+17:52:53	CYC	201	Load confirmed.
+18:16:52	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:39:27	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:41:40	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:41:41	CYC	201	Load confirmed.
+19:01:33	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:02:10	CYC	173		Barriers must be reset
+19:03:40	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:03:40	CYC	201	Load confirmed.
+19:27:59	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:49:17	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:51:40	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:51:40	CYC	201	Load confirmed.
+20:13:21	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+20:13:22	CYC	201	Load confirmed.

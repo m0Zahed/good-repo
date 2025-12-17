@@ -1,0 +1,47 @@
+11:54:27	CYC	187	Robot not connected, not possible to load program list.
+11:54:28	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:07:40	CYC	201	Load confirmed.
+12:49:06	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+12:49:06	CYC	201	Load confirmed.
+13:08:52	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+13:08:52	CYC	201	Load confirmed.
+13:44:23	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+13:44:24	CYC	201	Load confirmed.
+15:02:17	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:02:17	CYC	201	Load confirmed.
+16:25:37	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:25:38	CYC	201	Load confirmed.
+16:25:45	CYC	164	Load can not start. Check error/emergency
+16:42:44	CYC	201	Load confirmed.
+17:02:38	CYC	167	Force unload piece selected
+17:03:16	CYC	167	Force unload piece selected
+17:32:08	CYC	167	Force unload piece selected
+17:32:26	CYC	167	Force unload piece selected
+17:33:34	Ax4	1011	Quickstop input active                                                         
+17:33:53	CYC	167	Force unload piece selected
+17:34:20	CYC	167	Force unload piece selected
+17:35:14	Ax4	1011	Quickstop input active                                                         
+17:35:51	CYC	167	Force unload piece selected
+17:36:50	CYC	167	Force unload piece selected
+17:38:00	Ax4	1011	Quickstop input active                                                         
+17:38:22	CYC	167	Force unload piece selected
+17:41:31	CYC	201	Load confirmed.
+17:41:36	CYC	164	Load can not start. Check error/emergency
+17:50:08	CYC	173		Barriers must be reset
+17:50:41	CYC	173		Barriers must be reset
+17:52:58	CYC	173		Barriers must be reset
+17:53:34	CYC	173		Barriers must be reset
+18:02:55	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:02:56	CYC	201	Load confirmed.
+18:24:19	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:24:19	CYC	201	Load confirmed.
+18:47:14	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:47:14	CYC	201	Load confirmed.
+19:13:29	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:13:29	CYC	201	Load confirmed.
+19:13:29	CYC	187	Wait end of unload operation
+19:49:46	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:49:46	CYC	201	Load confirmed.
+20:10:41	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+20:10:41	CYC	201	Load confirmed.
+20:10:59	CYC	21	Oven belt - Step exceeded 2

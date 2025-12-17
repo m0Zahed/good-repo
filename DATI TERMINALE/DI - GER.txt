@@ -1,0 +1,88 @@
+00|Ladungsnotfall ok
+01|Ofen-Notfall ok
+02|Malen Notfall ok
+03|Entladen Notfall ok
+04|Notfallanlage ok
+05|Beladungsschranke Eingriff 
+06|Entladen Schranke Eingriff 
+07|Kabinentüren geschlossen (Sicherheit)
+08|Ext-Spannung vorhanden
+09|Ext-Spannung vorhanden
+10|Kabinentemperatur in Ordnung
+11|Automodus
+12|Taste offen TürIN
+13|Taste offen TürOUT
+14|Einschalten der Motoren
+15|Tippen +
+16|Tippen -
+17|Leere Leitung
+18|Alarme zurücksetzen
+19|Taste Ofen öffnen Tür
+20|Tür offen
+21|Notfalltaste laden
+22|Bestätigungstaste laden
+23|NC
+24|Ladung Fotozelle Start 
+25|Laden der letzten Fotozelle Ende 
+26|NC
+27|NC
+28|Tür Backofen offen
+29|Tür Backofen schließen
+30|Hauptlichtschranke Backofen Start
+31|Backofen st. Fotozelle Ende
+32|
+33|
+34|TürIN offen
+35|TürIN schließen
+36|Fotozelle Malerei Anfang
+37|Malerei St. Fotozelle Ende
+38|TürOUT öffnen
+39|TürOUT schließen
+40|St. Fotozelle entladen Start
+41|Entladen der Fotozelle Ende
+42|NC
+43|NC
+44|Notfalltaste entladen
+45|Bestätigungstaste entladen
+46|NC
+47|NC
+65|R1 Lebenszeichen
+66|R1 Programmlauf
+67|R1 Sichere Position
+68|R1 Pistole		
+69|R1 Endstücke
+70|R1 Notfall
+71|R1 Einlernmodus (Dout 150)
+72|NC (Dout 151)
+73|NC (Dout 152)		
+74|R1 SR20G Ok Arbeit (Dout 153)
+75|R1 SR20G Anomalie (Dout 154)
+76|RP Hoher Fuhrmann geschlossen (Dout 155)
+77|RP Niedriger Fuhrmann (Ausgabe 156)
+78|NC (Ausgabe 157)
+79|NC (Ausgabe 158)
+80|NC (Ausgabe 159)
+81|R1 Roboter Status		
+82|R1 programmi in Liste
+83|R1 Position X
+84|R1 Stellung Y
+85|R1 Stellung Z
+86|NC
+87|NC
+88|NC
+89|NC
+90|NC
+91|NC
+92|NC
+93|NC
+94|NC
+95|NC
+96|NC
+97|NC
+98|NC
+99|NC
+100|NC
+101|NC
+102|NC
+103|NC
+104|NC

@@ -1,0 +1,55 @@
+12:01:20	CYC	187	Robot not connected, not possible to load program list.
+12:01:21	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:02:05	CYC	167	Force unload piece selected
+12:06:28	Ax1	1011	Quickstop input active                                                         
+12:06:28	Ax2	1011	Quickstop input active                                                         
+12:18:42	CYC	208	Selected program : 1. MS-0003 |  | 
+12:18:42	CYC	201	Load confirmed.
+12:28:50	Ax4	1011	Quickstop input active                                                         
+13:14:57	CYC	208	Selected program : 1. MS-0003 |  | 
+13:14:57	CYC	201	Load confirmed.
+13:14:57	CYC	183	Wait timeout oven station
+13:44:33	CYC	22	Paint belt - Step exceeded
+13:44:33	CYC	22	Paint belt - Step exceeded
+13:47:17	Ax4	1011	Quickstop input active                                                         
+13:48:19	CYC	208	Selected program : 1. MS-0003 |  | 
+13:48:20	CYC	201	Load confirmed.
+14:38:36	Ax1	1011	Quickstop input active                                                         
+14:38:36	Ax2	1011	Quickstop input active                                                         
+15:04:06	CYC	167	Force unload piece selected
+15:20:13	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+15:20:14	CYC	201	Load confirmed.
+15:47:24	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+15:47:25	CYC	201	Load confirmed.
+16:30:50	Ax2	1011	Quickstop input active                                                         
+16:36:45	Ax4	1011	Quickstop input active                                                         
+17:02:45	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+17:02:45	CYC	201	Load confirmed.
+17:02:45	CYC	157	Plant not ready, select AUTO mode
+17:03:26	Ax1	1011	Quickstop input active                                                         
+17:03:26	Ax2	1011	Quickstop input active                                                         
+17:03:27	CYC	201	Load confirmed.
+17:04:10	CYC	200	Reset by Operator on VB
+17:04:31	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+17:04:33	Ax2	5018	Homing: Command start homing procedure                                         
+17:05:01	CYC	200	Reset by Operator on VB
+17:05:19	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+17:05:19	CYC	201	Load confirmed.
+17:05:20	Ax2	5018	Homing: Command start homing procedure                                         
+17:06:33	CYC	2	Painting zone - Time Out IN Door
+17:06:41	Ax2	1011	Quickstop input active                                                         
+17:25:27	CYC	167	Force unload piece selected
+17:46:21	CYC	201	Load confirmed.
+17:46:21	CYC	157	Plant not ready, select AUTO mode
+17:56:55	Ax1	1011	Quickstop input active                                                         
+17:56:55	Ax2	1011	Quickstop input active                                                         
+18:17:31	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+18:17:31	CYC	201	Load confirmed.
+18:44:45	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+18:45:57	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:45:57	CYC	24	Unload belt - Step exceeded
+18:51:42	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+18:51:43	CYC	201	Load confirmed.
+19:50:48	CYC	208	Selected program : 1. MS-0003 |  | 
+19:50:48	CYC	201	Load confirmed.
+20:48:08	CYC	180	Spray booth auto-empty cancelled, unload station busy

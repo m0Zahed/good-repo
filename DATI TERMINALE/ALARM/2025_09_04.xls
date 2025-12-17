@@ -1,0 +1,44 @@
+02:07:51	CYC	187	Robot not connected, not possible to load program list.
+02:07:52	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:56:05	CYC	187	Robot not connected, not possible to load program list.
+11:56:06	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:21:25	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:21:26	CYC	201	Load confirmed.
+12:31:13	CYC	167	Force unload piece selected
+13:08:53	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:08:54	CYC	201	Load confirmed.
+13:57:36	CYC	167	Force unload piece selected
+13:57:45	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:57:45	CYC	201	Load confirmed.
+13:57:45	CYC	187	Wait end of unload operation
+14:33:03	CYC	167	Force unload piece selected
+14:33:08	Ax4	1011	Quickstop input active                                                         
+14:36:06	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+14:36:07	CYC	201	Load confirmed.
+15:11:05	CYC	167	Force unload piece selected
+15:11:18	CYC	167	Force unload piece selected
+15:11:30	CYC	167	Force unload piece selected
+15:11:52	CYC	167	Force unload piece selected
+15:17:30	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+15:17:30	CYC	201	Load confirmed.
+15:48:51	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+15:48:51	CYC	201	Load confirmed.
+16:02:51	CYC	167	Force unload piece selected
+16:13:35	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:13:36	CYC	201	Load confirmed.
+16:15:16	CYC	164	Load can not start. Check error/emergency
+16:49:30	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:49:34	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:49:42	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:49:45	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:50:48	CYC	201	Load confirmed.
+17:25:15	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:50:01	CYC	200	Reset by Operator on VB
+17:50:03	CYC	200	Reset by Operator on VB
+18:04:39	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:04:39	CYC	201	Load confirmed.
+18:44:21	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:44:22	CYC	201	Load confirmed.
+19:53:06	Ax4	1011	Quickstop input active                                                         
+19:53:38	CYC	173		Barriers must be reset
+20:28:49	CYC	167	Force unload piece selected

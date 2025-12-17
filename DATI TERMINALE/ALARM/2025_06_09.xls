@@ -1,0 +1,58 @@
+12:06:14	CYC	187	Robot not connected, not possible to load program list.
+12:06:14	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:21:36	CYC	208	Selected program : 1. MS-0003 |  | 
+12:21:36	CYC	201	Load confirmed.
+12:47:18	CYC	208	Selected program : 1. MS-0003 |  | 
+12:47:19	CYC	201	Load confirmed.
+12:47:19	CYC	183	Wait timeout oven station
+14:50:39	CYC	208	Selected program : 1. MS-0003 |  | 
+14:50:39	CYC	201	Load confirmed.
+14:50:59	CYC	21	Oven belt - Step exceeded 2
+15:03:02	CYC	167	Force unload piece selected
+15:04:02	CYC	167	Force unload piece selected
+15:04:17	CYC	200	Reset by Operator on VB
+15:15:02	CYC	208	Selected program : 1. MS-0003 |  | 
+15:15:03	CYC	201	Load confirmed.
+15:18:01	Ax4	1011	Quickstop input active                                                         
+15:23:46	CYC	208	Selected program : 1. MS-0003 |  | 
+15:51:34	CYC	208	Selected program : 1. MS-0003 |  | 
+15:51:34	CYC	201	Load confirmed.
+15:52:05	CYC	167	Force unload piece selected
+16:21:04	CYC	208	Selected program : 1. MS-0003 |  | 
+16:21:05	CYC	201	Load confirmed.
+16:27:53	Ax4	1011	Quickstop input active                                                         
+16:52:09	CYC	200	Reset by Operator on VB
+16:52:11	Ax3	5018	Homing: Command start homing procedure                                         
+16:52:20	Ax4	1011	Quickstop input active                                                         
+16:52:27	CYC	200	Reset by Operator on VB
+16:52:34	CYC	200	Reset by Operator on VB
+16:52:44	Ax4	1011	Quickstop input active                                                         
+16:52:48	CYC	173	
+16:53:12	Ax3	5018	Homing: Command start homing procedure                                         
+16:53:23	CYC	200	Reset by Operator on VB
+16:53:26	CYC	200	Reset by Operator on VB
+16:53:35	Ax3	5018	Homing: Command start homing procedure                                         
+16:55:59	CYC	187	Robot not connected, not possible to load program list.
+16:55:59	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:58:33	CYC	208	Selected program : 1. MS-0003 |  | 
+16:58:33	CYC	201	Load confirmed.
+19:14:29	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:14:29	CYC	201	Load confirmed.
+19:14:49	CYC	21	Oven belt - Step exceeded 2
+19:52:03	Ax1	1011	Quickstop input active                                                         
+19:59:48	Ax4	1011	Quickstop input active                                                         
+20:09:45	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+20:09:45	CYC	201	Load confirmed.
+20:10:12	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+20:10:41	CYC	200	Reset by Operator on VB
+20:10:41	CYC	201	Load confirmed.
+20:10:43	CYC	200	Reset by Operator on VB
+20:11:58	Ax1	1011	Quickstop input active                                                         
+20:11:58	Ax2	1011	Quickstop input active                                                         
+20:12:11	Ax1	1011	Quickstop input active                                                         
+20:12:11	Ax2	1011	Quickstop input active                                                         
+20:21:18	Ax1	1011	Quickstop input active                                                         
+20:21:18	Ax2	1011	Quickstop input active                                                         
+20:25:00	CYC	173		Barriers must be reset
+20:25:03	CYC	167	Force unload piece selected
+20:52:31	Ax4	1011	Quickstop input active                                                         

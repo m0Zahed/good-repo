@@ -1,0 +1,21 @@
+11:55:01	CYC	187	Robot not connected, not possible to load program list.
+11:55:02	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:28:01	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+12:28:02	CYC	201	Load confirmed.
+12:41:15	CYC	200	Reset by Operator on VB
+13:07:29	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+13:07:30	CYC	201	Load confirmed.
+13:18:23	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+13:22:22	Ax1	1011	Quickstop input active                                                         
+13:22:22	Ax2	1011	Quickstop input active                                                         
+13:23:05	CYC	200	Reset by Operator on VB
+13:30:44	Ax4	1011	Quickstop input active                                                         
+13:33:35	CYC	173		Barriers must be reset
+14:04:13	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+14:04:13	CYC	201	Load confirmed.
+14:42:12	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+14:42:12	CYC	201	Load confirmed.
+15:17:14	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+15:17:14	CYC	201	Load confirmed.
+15:43:22	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+15:43:22	CYC	201	Load confirmed.

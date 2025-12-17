@@ -1,0 +1,26 @@
+12:14:57	CYC	187	Robot not connected, not possible to load program list.
+12:14:58	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:35:25	Ax4	4005	CTRL Controller: Command                                                       
+12:35:47	CYC	208	Selected program : SIRIUS V2 |  | 
+12:35:56	CYC	164	Load can not start. Check error/emergency
+12:44:30	CYC	173	
+12:44:55	CYC	173	
+12:46:57	CYC	173	
+15:21:13	CYC	173	
+15:22:58	CYC	187	Robot not connected, not possible to load program list.
+15:22:59	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:23:02	CYC	173		Barriers must be reset
+15:24:06	CYC	173		Barriers must be reset
+15:24:26	CYC	173		Barriers must be reset
+15:24:28	Ax4	4005	CTRL Controller: Command                                                       
+15:24:32	Ax1	1011	Quickstop input active                                                         
+15:24:32	Ax2	1011	Quickstop input active                                                         
+15:24:35	CYC	173		Barriers must be reset
+15:26:28	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+15:30:37	Ax4	1011	Quickstop input active                                                         
+15:30:45	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+15:32:35	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+15:45:18	Ax4	1011	Quickstop input active                                                         
+16:15:47	Ax4	1011	Quickstop input active                                                         
+16:17:49	Ax1	1011	Quickstop input active                                                         
+19:37:43	Ax1	1011	Quickstop input active                                                         

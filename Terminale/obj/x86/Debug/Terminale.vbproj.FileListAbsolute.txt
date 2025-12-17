@@ -1,0 +1,8 @@
+D:\Programming\Sanding\Painting\proj_test\Terminale\obj\x86\Debug\Terminale.vbproj.CoreCompileInputs.cache
+D:\Programming\Sanding\Painting\proj_test\Terminale\bin\Debug\Terminale.exe.config
+D:\Programming\Sanding\Painting\proj_test\Terminale\bin\Debug\Terminale.exe
+D:\Programming\Sanding\Painting\proj_test\Terminale\bin\Debug\Terminale.pdb
+D:\Programming\Sanding\Painting\proj_test\Terminale\bin\Debug\BR.AN.PVIServices.dll
+D:\Programming\Sanding\Painting\proj_test\Terminale\obj\x86\Debug\Terminale.vbproj.CopyComplete
+D:\Programming\Sanding\Painting\proj_test\Terminale\obj\x86\Debug\Terminale.exe
+D:\Programming\Sanding\Painting\proj_test\Terminale\obj\x86\Debug\Terminale.pdb

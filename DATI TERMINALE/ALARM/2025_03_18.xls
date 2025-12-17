@@ -1,0 +1,44 @@
+12:00:04	CYC	187	Robot not connected, not possible to load program list.
+12:42:49	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+12:42:49	CYC	201	Load confirmed.
+12:43:03	Ax1	1011	Quickstop input active                                                         
+12:43:03	Ax2	1011	Quickstop input active                                                         
+12:45:29	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+12:45:29	CYC	164	Load can not start. Check error/emergency
+12:45:42	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+12:46:51	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+12:46:52	CYC	201	Load confirmed.
+12:47:34	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+12:47:38	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+12:47:38	CYC	201	Load confirmed.
+12:47:55	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+12:48:45	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+12:49:30	Ax2	1011	Quickstop input active                                                         
+12:57:27	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+12:57:40	Ax1	1011	Quickstop input active                                                         
+12:57:40	Ax2	1011	Quickstop input active                                                         
+13:22:49	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+13:22:50	CYC	201	Load confirmed.
+13:24:40	CYC	6	Paint belt - Max error (&) step exceeded
+13:24:40	CYC	20	Oven belt - Step exceeded
+13:24:40	CYC	21	Oven belt - Step exceeded 2
+13:30:23	CYC	186	Unload operation forced manually
+13:32:10	Ax1	1011	Quickstop input active                                                         
+13:32:10	Ax2	1011	Quickstop input active                                                         
+13:34:28	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+14:15:26	Ax4	1011	Quickstop input active                                                         
+15:17:45	Ax1	1011	Quickstop input active                                                         
+15:17:45	Ax2	1011	Quickstop input active                                                         
+15:29:07	CYC	186	Unload operation forced manually
+15:43:57	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+16:28:10	Ax4	1011	Quickstop input active                                                         
+16:53:23	CYC	186	Unload operation forced manually
+16:53:24	Ax4	1011	Quickstop input active                                                         
+16:53:47	CYC	186	Unload operation forced manually
+17:51:41	Ax1	1011	Quickstop input active                                                         
+17:51:41	Ax2	1011	Quickstop input active                                                         
+17:57:46	Ax4	1011	Quickstop input active                                                         
+18:17:16	Ax1	1011	Quickstop input active                                                         
+18:17:16	Ax2	1011	Quickstop input active                                                         
+20:09:03	CYC	208	Selected program : SIRIUS |  | 
+20:09:04	CYC	201	Load confirmed.

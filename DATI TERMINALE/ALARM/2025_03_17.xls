@@ -1,0 +1,55 @@
+13:08:02	CYC	187	Robot non connesso. impossibile caricare lista programmi
+13:57:15	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+13:59:38	Ax4	1011	Quickstop input active                                                         
+14:08:27	Ax1	1011	Quickstop input active                                                         
+14:08:27	Ax2	1011	Quickstop input active                                                         
+14:28:18	CYC	208	Selected program : MIMOSA2 |  | 
+14:31:11	Ax4	1011	Quickstop input active                                                         
+14:43:19	CYC	186	Unload operation forced manually
+14:43:30	Ax4	1011	Quickstop input active                                                         
+14:44:09	CYC	186	Unload operation forced manually
+15:15:52	CYC	208	Selected program : MIMOSA2 |  | 
+15:15:53	CYC	201	Load confirmed.
+15:15:53	CYC	157	Plant not ready, select AUTO mode
+15:24:33	CYC	208	Selected program : MIMOSA2 |  | 
+15:24:33	CYC	201	Load confirmed.
+15:24:33	CYC	157	Plant not ready, select AUTO mode
+15:28:57	CYC	187	Robot not connected, not possible to load program list.
+15:34:06	CYC	208	Selected program : MIMOSA2 |  | 
+15:34:07	CYC	201	Load confirmed.
+15:41:22	Ax4	1011	Quickstop input active                                                         
+15:42:58	Ax4	1011	Quickstop input active                                                         
+15:50:29	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:51:47	CYC	186	Unload operation forced manually
+15:56:47	CYC	187	Robot not connected, not possible to load program list.
+16:03:28	Ax1	1011	Quickstop input active                                                         
+16:03:28	Ax2	1011	Quickstop input active                                                         
+16:07:16	CYC	208	Selected program : MIMOSA2 |  | 
+16:07:17	CYC	201	Load confirmed.
+16:07:24	Ax4	1011	Quickstop input active                                                         
+16:17:40	CYC	186	Unload operation forced manually
+16:22:31	CYC	208	Selected program : MIMOSA2 |  | 
+16:22:32	CYC	201	Load confirmed.
+16:32:49	CYC	208	Selected program : MIMOSA2 |  | 
+16:32:49	CYC	201	Load confirmed.
+16:41:24	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:41:35	CYC	186	Unload operation forced manually
+17:39:23	CYC	208	Selected program : MIMOSA2 |  | 
+17:39:23	CYC	201	Load confirmed.
+17:39:27	Ax1	1011	Quickstop input active                                                         
+17:39:27	Ax2	1011	Quickstop input active                                                         
+17:41:03	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+17:41:56	Ax2	1011	Quickstop input active                                                         
+17:42:39	CYC	208	Selected program : MIMOSA2 |  | 
+17:46:24	CYC	186	Unload operation forced manually
+18:11:19	CYC	186	Unload operation forced manually
+18:17:45	Ax1	1011	Quickstop input active                                                         
+18:17:45	Ax2	1011	Quickstop input active                                                         
+18:20:49	CYC	208	Selected program : MIMOSA2 |  | 
+18:20:50	CYC	201	Load confirmed.
+18:37:03	CYC	6	Paint belt - Max error (&) step exceeded
+18:37:17	CYC	20	Oven belt - Step exceeded
+18:37:17	CYC	21	Oven belt - Step exceeded 2
+19:32:49	Ax4	1011	Quickstop input active                                                         
+21:24:35	CYC	187	Robot not connected, not possible to load program list.
+21:38:12	CYC	186	Unload operation forced manually

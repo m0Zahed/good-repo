@@ -1,0 +1,53 @@
+14:13:51	CYC	187	Robot not connected, not possible to load program list.
+14:13:52	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:17:06	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+14:17:06	CYC	201	Load confirmed.
+14:35:35	CYC	201	Load confirmed.
+14:54:27	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+14:54:27	CYC	201	Load confirmed.
+15:06:58	CYC	159	The list is not empty. Piece not in position
+15:06:59	CYC	184	Carter not open or rotation piece in high position
+15:08:01	CYC	184	Carter not open or rotation piece in high position
+15:09:17	Ax4	1011	Quickstop input active                                                         
+15:14:11	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:14:12	CYC	201	Load confirmed.
+15:42:01	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+15:42:01	CYC	201	Load confirmed.
+15:45:34	Ax4	1011	Quickstop input active                                                         
+16:07:32	CYC	167	Force unload piece selected
+16:11:42	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:11:42	CYC	201	Load confirmed.
+16:37:55	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:37:56	CYC	201	Load confirmed.
+17:31:07	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+17:31:07	CYC	201	Load confirmed.
+17:33:23	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+17:34:38	CYC	159	The list is not empty. Piece not in position
+17:34:43	CYC	184	Carter not open or rotation piece in high position
+17:34:48	CYC	167	Force unload piece selected
+17:35:57	CYC	159	The list is not empty. Piece not in position
+17:36:00	CYC	184	Carter not open or rotation piece in high position
+17:36:43	Ax4	1011	Quickstop input active                                                         
+17:40:24	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+17:40:25	CYC	201	Load confirmed.
+17:46:57	CYC	164	Load can not start. Check error/emergency
+18:00:30	CYC	201	Load confirmed.
+18:04:24	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:04:24	CYC	201	Load confirmed.
+18:21:09	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:21:10	CYC	201	Load confirmed.
+18:30:30	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:30:30	CYC	201	Load confirmed.
+18:37:38	CYC	173		Barriers must be reset
+18:40:47	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:40:48	CYC	201	Load confirmed.
+18:40:55	CYC	164	Load can not start. Check error/emergency
+18:57:48	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:57:49	CYC	201	Load confirmed.
+19:00:05	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:00:05	CYC	201	Load confirmed.
+19:00:09	CYC	164	Load can not start. Check error/emergency
+19:47:19	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:47:19	CYC	201	Load confirmed.
+19:59:10	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:59:11	CYC	201	Load confirmed.

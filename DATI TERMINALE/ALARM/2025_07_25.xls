@@ -1,0 +1,17 @@
+12:02:07	CYC	187	Robot not connected, not possible to load program list.
+12:02:08	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:41:00	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:41:00	CYC	201	Load confirmed.
+12:59:07	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:59:07	CYC	201	Load confirmed.
+13:47:47	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+13:47:48	CYC	201	Load confirmed.
+14:35:51	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+14:54:51	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+14:54:51	CYC	201	Load confirmed.
+14:54:51	CYC	157	Plant not ready, select AUTO mode
+16:26:34	Ax4	1011	Quickstop input active                                                         
+17:38:43	CYC	187	Robot not connected, not possible to load program list.
+17:38:44	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:53:15	CYC	187	Robot not connected, not possible to load program list.
+18:53:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

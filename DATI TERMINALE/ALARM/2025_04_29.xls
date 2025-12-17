@@ -1,0 +1,59 @@
+11:42:28	CYC	187	Robot not connected, not possible to load program list.
+11:42:29	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:15:28	Ax4	1011	Quickstop input active                                                         
+12:15:30	CYC	208	Selected program : 2. MS-0003 V1 |  | 
+12:15:31	CYC	201	Load confirmed.
+13:04:26	CYC	208	Selected program : 2. MS-0003 V1 |  | 
+13:04:26	CYC	201	Load confirmed.
+13:04:26	CYC	183	Wait timeout oven station
+13:32:48	CYC	6	Paint belt - Max error (&) step exceeded
+13:32:55	CYC	20	Oven belt - Step exceeded
+13:32:55	CYC	21	Oven belt - Step exceeded 2
+13:35:48	Ax4	1011	Quickstop input active                                                         
+13:38:58	Ax1	1011	Quickstop input active                                                         
+13:38:58	Ax2	1011	Quickstop input active                                                         
+14:06:18	Ax4	1011	Quickstop input active                                                         
+14:06:22	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+14:06:22	CYC	201	Load confirmed.
+14:06:36	CYC	173		Barriers must be reset
+14:06:39	CYC	173		Barriers must be reset
+14:07:00	Ax1	1011	Quickstop input active                                                         
+14:07:00	Ax2	1011	Quickstop input active                                                         
+14:07:15	CYC	173		Barriers must be reset
+14:09:16	CYC	208	Selected program : 1. MS-0009 NEW GUN |  | 
+14:10:48	Ax4	1011	Quickstop input active                                                         
+14:39:30	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+14:39:30	CYC	201	Load confirmed.
+15:09:13	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+15:09:13	CYC	201	Load confirmed.
+15:37:28	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+15:37:29	CYC	201	Load confirmed.
+16:16:27	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+16:16:27	CYC	201	Load confirmed.
+16:28:34	CYC	167	Force unload piece selected
+17:10:42	Ax1	1011	Quickstop input active                                                         
+17:10:42	Ax2	1011	Quickstop input active                                                         
+17:15:52	CYC	208	Selected program : 2. MS-0003 V1 |  | 
+17:15:53	CYC	201	Load confirmed.
+17:15:53	CYC	187	Wait end of unload operation
+17:16:24	CYC	183	Wait timeout oven station
+17:41:33	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+17:41:33	CYC	201	Load confirmed.
+18:15:53	CYC	22	Paint belt - Step exceeded
+18:15:53	CYC	22	Paint belt - Step exceeded
+18:15:53	CYC	22	Paint belt - Step exceeded
+18:15:53	CYC	22	Paint belt - Step exceeded
+18:20:41	CYC	167	Force unload piece selected
+18:20:53	CYC	167	Force unload piece selected
+18:22:20	CYC	200	Reset by Operator on VB
+18:43:29	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+18:43:29	CYC	201	Load confirmed.
+18:43:29	CYC	183	Wait timeout oven station
+18:43:58	CYC	183	Wait timeout oven station
+19:13:03	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+19:13:03	CYC	201	Load confirmed.
+19:49:06	CYC	208	Selected program : 2. MS-0009 V1 |  | 
+19:49:06	CYC	201	Load confirmed.
+19:56:23	CYC	167	Force unload piece selected
+20:52:54	CYC	24	Unload belt - Step exceeded
+20:53:44	CYC	181	Spray booth auto-empty cancelled, tapes not ready

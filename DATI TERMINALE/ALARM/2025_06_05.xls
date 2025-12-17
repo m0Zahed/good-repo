@@ -1,0 +1,19 @@
+18:29:10	CYC	187	Robot not connected, not possible to load program list.
+18:29:11	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:31:39	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+18:31:39	CYC	201	Load confirmed.
+18:52:38	CYC	201	Load confirmed.
+18:56:08	CYC	2	Painting zone - Time Out IN Door
+18:56:32	Ax4	1011	Quickstop input active                                                         
+19:05:03	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+19:05:04	CYC	201	Load confirmed.
+19:05:16	CYC	183	Wait timeout oven station
+19:05:58	CYC	164	Load can not start. Check error/emergency
+19:27:38	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+19:27:39	CYC	201	Load confirmed.
+19:28:52	CYC	164	Load can not start. Check error/emergency
+19:49:34	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+19:49:34	CYC	201	Load confirmed.
+19:53:11	CYC	164	Load can not start. Check error/emergency
+20:15:08	CYC	167	Force unload piece selected
+20:39:17	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.

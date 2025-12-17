@@ -1,0 +1,83 @@
+14:53:11	CYC	173	
+14:53:52	Ax2	4005	CTRL Controller: Command                                                       
+14:54:04	CYC	173	
+14:54:25	Ax2	1011	Quickstop input active                                                         
+14:54:33	Ax1	1011	Quickstop input active                                                         
+14:54:33	Ax2	1011	Quickstop input active                                                         
+14:54:45	Ax1	1011	Quickstop input active                                                         
+14:54:45	Ax2	1011	Quickstop input active                                                         
+15:00:14	CYC	208	Selezionato programma : MIKY |  | 
+15:00:15	CYC	201	Carico confermato.
+15:02:56	CYC	208	Selezionato programma : MIKY |  | 
+15:02:57	CYC	201	Carico confermato.
+15:11:47	CYC	208	Selezionato programma : MIKY |  | 
+15:11:50	CYC	201	Carico confermato.
+15:11:50	CYC	157	Impianto non pronto, selezionare AUTO mode
+15:11:59	CYC	164	Caricamento stoppato, controllare errori/emergenze
+15:12:01	CYC	208	Selezionato programma : MIKY |  | 
+15:12:01	CYC	201	Carico confermato.
+15:12:01	CYC	157	Impianto non pronto, selezionare AUTO mode
+15:12:03	CYC	164	Caricamento stoppato, controllare errori/emergenze
+15:12:28	CYC	208	Selezionato programma : MIKY |  | 
+15:12:29	CYC	201	Carico confermato.
+15:12:29	CYC	157	Impianto non pronto, selezionare AUTO mode
+15:12:59	CYC	164	Caricamento stoppato, controllare errori/emergenze
+15:14:17	Ax1	1011	Quickstop input active                                                         
+15:14:17	Ax2	1011	Quickstop input active                                                         
+15:15:05	CYC	208	Selezionato programma : MIKY |  | 
+15:15:05	CYC	201	Carico confermato.
+15:18:32	CYC	208	Selezionato programma : MIKY |  | 
+15:18:32	CYC	201	Carico confermato.
+15:18:32	CYC	183	Attendere timeout stazione forno
+15:19:08	CYC	208	Selezionato programma : MIKY |  | 
+15:19:08	CYC	201	Carico confermato.
+15:19:24	CYC	208	Selezionato programma : MIKY |  | 
+15:19:37	CYC	208	Selezionato programma : MIKY |  | 
+15:19:37	CYC	201	Carico confermato.
+15:19:56	CYC	208	Selezionato programma : MIKY |  | 
+15:20:20	CYC	208	Selezionato programma : MIKY |  | 
+15:20:21	CYC	201	Carico confermato.
+15:27:17	CYC	187	Robot non connesso. impossibile caricare lista programmi
+15:34:27	CYC	166	Movimentazione catenarie manuale non possibile Selezionare modalità manuale e asse/i da muovere
+15:36:24	CYC	208	Selezionato programma : MIKY |  | 
+15:36:25	CYC	201	Carico confermato.
+15:36:40	Ax1	1011	Quickstop input active                                                         
+15:36:40	Ax2	1011	Quickstop input active                                                         
+15:37:30	CYC	208	Selezionato programma : MIKY |  | 
+15:37:30	CYC	201	Carico confermato.
+16:06:45	Ax4	1011	Quickstop input active                                                         
+16:42:50	CYC	208	Selezionato programma : MIKY |  | 
+16:42:51	CYC	201	Carico confermato.
+16:42:51	CYC	152	Robot 1 non pronto. Start ciclo automatico
+16:47:17	CYC	208	Selezionato programma : MIKY |  | 
+17:09:33	Ax4	1011	Quickstop input active                                                         
+17:16:28	Ax4	1011	Quickstop input active                                                         
+17:16:33	CYC	208	Selezionato programma : MIKY |  | 
+17:16:33	CYC	201	Carico confermato.
+17:16:33	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:49	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:49	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:49	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:50	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:51	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:52	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:16:54	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:17:53	Ax4	1011	Quickstop input active                                                         
+17:18:00	Ax4	1011	Quickstop input active                                                         
+17:18:36	Ax4	1011	Quickstop input active                                                         
+17:23:35	Ax4	1011	Quickstop input active                                                         
+17:25:31	Ax4	1011	Quickstop input active                                                         
+17:29:16	Ax4	1011	Quickstop input active                                                         
+17:40:45	Ax4	1011	Quickstop input active                                                         
+17:48:14	CYC	208	Selezionato programma : MIKKKY |  | 
+17:48:14	CYC	201	Carico confermato.
+17:48:14	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:51:11	CYC	208	Selezionato programma : MIKKKY |  | 
+17:51:11	CYC	184	Carter non aperti o ruotpaezzo alto
+17:51:18	CYC	184	Carter non aperti o ruotpaezzo alto
+17:51:38	CYC	201	Carico confermato.
+17:51:39	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:51:44	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:51:45	CYC	152	Robot 1 non pronto. Start ciclo automatico
+17:51:45	CYC	152	Robot 1 non pronto. Start ciclo automatico
+18:00:26	Ax4	1011	Quickstop input active                                                         

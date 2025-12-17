@@ -1,0 +1,64 @@
+11:22:00	CYC	187	Robot not connected, not possible to load program list.
+11:22:01	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:09:16	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:09:17	CYC	201	Load confirmed.
+12:09:56	CYC	164	Load can not start. Check error/emergency
+12:35:02	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:35:02	CYC	201	Load confirmed.
+12:56:23	Ax4	4005	CTRL Controller: Command                                                       
+12:57:46	Ax4	1011	Quickstop input active                                                         
+12:58:30	CYC	200	Reset by Operator on VB
+13:00:10	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:00:10	CYC	201	Load confirmed.
+13:00:11	CYC	183	Wait timeout oven station
+13:25:20	Ax4	1011	Quickstop input active                                                         
+13:25:54	CYC	167	Force unload piece selected
+13:26:10	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:26:11	CYC	201	Load confirmed.
+13:26:31	CYC	167	Force unload piece selected
+13:26:45	CYC	200	Reset by Operator on VB
+13:27:03	Ax4	1011	Quickstop input active                                                         
+13:27:11	CYC	173	
+13:27:14	CYC	173	
+13:27:36	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:27:37	CYC	201	Load confirmed.
+13:27:37	CYC	183	Wait timeout oven station
+13:27:53	Ax3	5018	Homing: Command start homing procedure                                         
+13:28:28	CYC	200	Reset by Operator on VB
+13:28:30	CYC	200	Reset by Operator on VB
+13:28:32	CYC	200	Reset by Operator on VB
+13:28:35	CYC	173	
+13:28:50	CYC	173	
+13:29:59	Ax3	5018	Homing: Command start homing procedure                                         
+13:30:10	CYC	200	Reset by Operator on VB
+13:30:12	CYC	200	Reset by Operator on VB
+13:30:14	CYC	200	Reset by Operator on VB
+13:30:21	Ax3	5018	Homing: Command start homing procedure                                         
+13:30:36	CYC	200	Reset by Operator on VB
+13:30:44	Ax3	5018	Homing: Command start homing procedure                                         
+13:31:06	Ax3	5018	Homing: Command start homing procedure                                         
+13:31:20	CYC	200	Reset by Operator on VB
+13:31:37	Ax3	5018	Homing: Command start homing procedure                                         
+13:32:17	CYC	200	Reset by Operator on VB
+13:32:18	Ax3	5018	Homing: Command start homing procedure                                         
+13:32:23	CYC	200	Reset by Operator on VB
+13:32:32	Ax3	5018	Homing: Command start homing procedure                                         
+13:34:15	CYC	187	Robot not connected, not possible to load program list.
+13:34:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:35:37	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:35:38	CYC	201	Load confirmed.
+13:35:48	CYC	164	Load can not start. Check error/emergency
+13:36:43	CYC	183	Wait timeout oven station
+14:01:33	CYC	201	Load confirmed.
+14:03:48	CYC	167	Force unload piece selected
+15:16:08	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:16:09	CYC	201	Load confirmed.
+15:16:09	CYC	183	Wait timeout oven station
+15:47:43	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:47:44	CYC	201	Load confirmed.
+15:47:44	CYC	183	Wait timeout oven station
+16:17:03	CYC	201	Load confirmed.
+17:09:56	CYC	208	Selected program : 999. MS-0009 V.2 DISTANCE -200BP |  | 
+17:09:57	CYC	201	Load confirmed.
+18:06:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:33:19	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode

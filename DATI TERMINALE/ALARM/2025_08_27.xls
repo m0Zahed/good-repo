@@ -1,0 +1,70 @@
+12:03:06	CYC	187	Robot not connected, not possible to load program list.
+12:03:07	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:18:54	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+12:18:54	CYC	201	Load confirmed.
+12:19:12	CYC	5	Oven belt - Max error (&) step exceeded
+12:19:12	CYC	5	Oven belt - Max error (&) step exceeded
+12:19:13	CYC	5	Oven belt - Max error (&) step exceeded
+12:19:13	CYC	5	Oven belt - Max error (&) step exceeded
+12:19:14	CYC	5	Oven belt - Max error (&) step exceeded
+12:19:14	CYC	5	Oven belt - Max error (&) step exceeded
+12:19:52	Ax4	1011	Quickstop input active                                                         
+12:20:18	Ax4	1011	Quickstop input active                                                         
+12:20:19	CYC	200	Reset by Operator on VB
+12:20:21	CYC	173		Barriers must be reset
+12:20:24	CYC	200	Reset by Operator on VB
+12:20:50	Ax4	1011	Quickstop input active                                                         
+12:21:33	CYC	200	Reset by Operator on VB
+12:21:35	CYC	200	Reset by Operator on VB
+12:22:41	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+12:22:42	CYC	201	Load confirmed.
+12:31:21	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+12:31:22	CYC	201	Load confirmed.
+12:54:01	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+12:54:01	CYC	201	Load confirmed.
+13:13:47	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:14:56	Ax4	1011	Quickstop input active                                                         
+13:15:41	CYC	158	Sensor busy. Unload done failed
+13:15:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:17:31	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:17:46	CYC	200	Reset by Operator on VB
+13:17:54	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:18:01	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:19:35	CYC	208	Selected program : 1. MS-ASPEN.TEST |  | 
+13:19:35	CYC	201	Load confirmed.
+13:41:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:03:45	CYC	200	Reset by Operator on VB
+14:08:14	CYC	208	Selected program : 1. MS-ASPEN.TEST |  | 
+14:08:14	CYC	201	Load confirmed.
+14:43:45	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+14:43:45	CYC	201	Load confirmed.
+14:51:58	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+14:51:58	CYC	201	Load confirmed.
+14:57:49	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:32:16	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:38:21	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+15:38:21	CYC	201	Load confirmed.
+15:46:19	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+15:46:19	CYC	201	Load confirmed.
+15:55:51	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:11:48	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:33:38	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:47:12	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:03:40	CYC	167	Force unload piece selected
+18:04:09	CYC	167	Force unload piece selected
+18:14:57	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+18:14:57	CYC	201	Load confirmed.
+18:36:32	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:36:33	CYC	201	Load confirmed.
+18:56:14	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:59:16	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:59:28	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:01:48	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+19:01:49	CYC	201	Load confirmed.
+19:10:00	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+19:10:00	CYC	201	Load confirmed.
+19:28:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:54:40	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:23:32	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:30:57	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:59:09	CYC	180	Spray booth auto-empty cancelled, unload station busy

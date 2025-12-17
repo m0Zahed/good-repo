@@ -1,0 +1,184 @@
+11:46:51	CYC	187	Robot not connected, not possible to load program list.
+11:46:52	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:07:25	CYC	187	Robot not connected, not possible to load program list.
+12:07:26	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:15:11	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_str_oven_t , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , No connection available to the PLC 
+12:15:11	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:15:11	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:24:05	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:24:05	CYC	201	Load confirmed.
+12:24:05	CYC	157	Plant not ready, select AUTO mode
+12:24:05	CYC	157	Plant not ready, select AUTO mode
+12:24:09	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:24:37	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:24:37	CYC	201	Load confirmed.
+12:25:47	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:25:48	CYC	201	Load confirmed.
+12:27:58	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:27:59	CYC	201	Load confirmed.
+12:36:27	CYC	180	Spray booth auto-empty cancelled, unload station busy
+12:36:27	CYC	180	Spray booth auto-empty cancelled, unload station busy
+12:44:35	Ax4	1011	Quickstop input active                                                         
+12:44:35	Ax4	1011	Quickstop input active                                                         
+12:47:25	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:47:25	CYC	201	Load confirmed.
+12:48:33	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:48:34	CYC	164	Load can not start. Check error/emergency
+12:48:34	CYC	164	Load can not start. Check error/emergency
+12:48:37	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:48:38	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:48:41	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:48:42	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:48:44	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:48:45	CYC	201	Load confirmed.
+12:57:24	CYC	208	Selected program : SPEED RUN 2 |  | 
+12:57:27	CYC	164	Load can not start. Check error/emergency
+12:57:27	CYC	164	Load can not start. Check error/emergency
+12:57:29	CYC	201	Load confirmed.
+13:15:51	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:15:51	CYC	201	Load confirmed.
+13:17:11	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:17:12	CYC	201	Load confirmed.
+13:19:20	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:19:22	CYC	164	Load can not start. Check error/emergency
+13:19:22	CYC	164	Load can not start. Check error/emergency
+13:19:23	CYC	208	Selected program : SPEED RUN 2 |  | 
+13:19:23	CYC	201	Load confirmed.
+13:52:12	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:00:07	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:00:08	CYC	201	Load confirmed.
+14:01:05	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:01:05	CYC	201	Load confirmed.
+14:03:20	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:03:21	CYC	201	Load confirmed.
+14:16:16	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:19:18	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:19:19	CYC	201	Load confirmed.
+14:20:19	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:20:19	CYC	164	Load can not start. Check error/emergency
+14:20:22	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:20:25	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:20:28	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:20:29	CYC	201	Load confirmed.
+14:22:53	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:22:53	CYC	201	Load confirmed.
+14:27:06	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:27:07	CYC	201	Load confirmed.
+14:30:39	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:30:39	CYC	201	Load confirmed.
+14:32:09	CYC	21	Oven belt - Step exceeded 2
+14:34:31	CYC	165	Belts stopped. Piece in unload station has overcome maximum safe position.
+14:38:43	CYC	187	Robot not connected, not possible to load program list.
+14:38:44	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:38:44	CYC	187	Robot not connected, not possible to load program list.
+14:38:44	CYC	187	Robot not connected, not possible to load program list.
+14:46:41	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:46:41	CYC	201	Load confirmed.
+14:47:42	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:47:42	CYC	201	Load confirmed.
+14:50:45	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:50:45	CYC	201	Load confirmed.
+14:54:17	CYC	208	Selected program : SPEED RUN 2 |  | 
+14:54:17	CYC	201	Load confirmed.
+14:59:59	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:00:00	CYC	201	Load confirmed.
+15:04:00	CYC	161	Unload not confirmed or station busy
+15:18:52	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:18:53	CYC	201	Load confirmed.
+15:22:20	CYC	201	Load confirmed.
+15:27:52	CYC	22	Paint belt - Step exceeded
+15:27:52	CYC	22	Paint belt - Step exceeded
+15:27:52	CYC	22	Paint belt - Step exceeded
+15:27:52	CYC	22	Paint belt - Step exceeded
+15:32:13	Ax4	1011	Quickstop input active                                                         
+15:38:42	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:40:10	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:40:10	CYC	201	Load confirmed.
+15:40:10	CYC	157	Plant not ready, select AUTO mode
+15:40:57	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:40:57	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:40:57	CYC	201	Load confirmed.
+15:41:53	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:41:53	CYC	201	Load confirmed.
+15:45:08	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:45:08	CYC	201	Load confirmed.
+15:46:28	CYC	22	Paint belt - Step exceeded
+15:46:28	CYC	22	Paint belt - Step exceeded
+15:48:25	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:48:25	CYC	164	Load can not start. Check error/emergency
+15:48:29	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:48:30	CYC	201	Load confirmed.
+15:53:54	CYC	208	Selected program : SPEED RUN 2 |  | 
+15:53:54	CYC	201	Load confirmed.
+15:57:42	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:58:41	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:00:40	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:00:40	CYC	201	Load confirmed.
+16:01:42	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:01:42	CYC	201	Load confirmed.
+16:06:47	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:06:47	CYC	201	Load confirmed.
+16:11:49	CYC	187	Robot not connected, not possible to load program list.
+16:11:49	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:11:54	CYC	187	Robot not connected, not possible to load program list.
+16:14:26	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:14:26	CYC	201	Load confirmed.
+16:14:26	CYC	157	Plant not ready, select AUTO mode
+16:14:32	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:15:05	CYC	201	Load confirmed.
+16:16:14	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:16:14	CYC	201	Load confirmed.
+16:22:11	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:22:11	CYC	201	Load confirmed.
+16:25:22	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:25:22	CYC	164	Load can not start. Check error/emergency
+16:25:27	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:25:29	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:25:29	CYC	201	Load confirmed.
+16:38:52	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:40:36	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:40:36	CYC	201	Load confirmed.
+16:41:34	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:41:34	CYC	201	Load confirmed.
+16:43:14	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:43:14	CYC	201	Load confirmed.
+16:46:54	CYC	208	Selected program : SPEED RUN 2 |  | 
+16:46:54	CYC	201	Load confirmed.
+16:49:20	CYC	180	Spray booth auto-empty cancelled, unload station busy

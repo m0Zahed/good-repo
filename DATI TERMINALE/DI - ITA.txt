@@ -1,0 +1,88 @@
+﻿00|Emergenza Carico ok
+01|Emergenza Forno ok
+02|Emergenza Verniciatura ok
+03|Emergenza Scarico ok
+04|Emeregenza impianto ok
+05|Intervento barriere carico
+06|Intervento barriere scarico
+07|Porte verniciatura chiuse (safety)
+08|Presenza tensione esterna
+09|Presenza tensione esterna
+10|Temperatura quadro ok
+11|Modalità Auto
+12|Pulsante apri Porta IN 
+13|Pulsante apri Porta OUT
+14|Accendi motori
+15|Jog -
+16|Jog +
+17|Svuota linea
+18|Reset allarmi
+19|Pulsante apri Porta forno
+20|Porte aperte
+21|Pulsante emergenza carico
+22|Pulsante conferma carico
+23|NC
+24|Fotocellula inizo carico
+25|Fotocellula fine carico
+26|NC
+27|NC
+28|Porta Forno aperta
+29|Porta Forno chiusa
+30|Fotocellula inizo forno
+31|Fotocellula fine forno
+32|
+33|
+34|PortaIN aperta
+35|PortaIN chiusa
+36|Fotocellula inizio verniciatura
+37|Fotocellula fine verniciatura
+38|PortaOUT aperta
+39|PortaOUT chiusa
+40|Fotocellula inizo scarico
+41|Fotocellula fine scarico
+42|NC
+43|NC
+44|Pulsante emergenza scarico
+45|Pulsante conferma scarico
+46|NC
+47|NC
+65|R1 Lifebit (Dout 144)
+66|R1 Program Run (Dout 145)
+67|R1 FuoriIngombro (Dout 146)
+68|R1 Pistola (Dout 147)		
+69|R1 Fine pezzi (Dout 148)	
+70|R1 Emergenza (Dout 149)
+71|R1 Teach mode (Dout 150)
+72|NC (Dout 151)
+73|NC (Dout 152)		
+74|R1 SR20G Ok lavoro (Dout 153)
+75|R1 SR20G Anomalia (Dout 154)
+76|RP High Carter Closed (Dout 156)
+77|RP Low Carter (Dout 157)
+78|NC (Dout 158)
+79|NC (Dout 159)
+80|NC (Dout 160)
+81|R1 Robot Status		
+82|R1 programmi in lista
+83|R1 posizione X
+84|R1 posizione Y
+85|R1 posizione Z
+86|NC
+87|NC
+88|NC
+89|NC
+90|NC
+91|NC
+92|NC
+93|NC
+94|NC
+95|NC
+96|NC
+97|NC
+98|NC
+99|NC
+100|NC
+101|NC
+102|NC
+103|NC
+104|NC

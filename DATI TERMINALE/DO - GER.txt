@@ -1,0 +1,62 @@
+﻿00 |LED Auto
+01 |Led TürIN offen
+02 |Led Tür offen
+03 |Led Motor ein
+04 |Led Leere Zeile
+05 |Led Alarme zurücksetzen
+06 |Türen geschlossen
+07 |Zählstunde
+08 |Lampe rotes Licht
+09 |Lampe grünes Licht
+10 |Sirene
+11 |Led load bestätigt
+12 |Led Ladesperre ok
+13 |Led entladen bestätigt
+14 |Led Entladen Barriere ok
+15 |NC
+16 |Offene TürIN
+17 |Tür öffnen
+18 |Tür schließenIN
+19 |Tür schließenOUT
+20 |NC
+21 |NC
+22 |NC
+23 |NC
+24 |NC
+25 |NC
+26 |NC
+27 |NC
+28 |NC
+29 |NC
+30 |NC
+31 |NC
+32 |Terminal-Lebensbit zu R1
+33 |Index cmp R2 zu R1
+34 |Fernstart R1
+35 |Neue Zeichenkette R1
+36 |R2 X-Position
+37 |R2 Y-Position
+38 |R2 Z-Position
+39 |NC
+40 |NC
+41 |NC
+42 |Terminal-Lebensbit zu R2
+43 |Index cmp R1 bis R2
+44 |Fernstart R2
+45 |Neuer String R2
+46 |R1 X-Position
+47 |R1 Y-Position
+48 |R1 Z Position
+49 |NC
+50 |NC
+51 |NC
+52 |NC
+53 |NC
+54 |R1 Automatisch Halten
+55 |R2 Automatisch Halten
+56 |R1 cmp start stdby
+57 |R2 cmp start stdby
+58 |RP High Carter geschlossen
+59 |Cabin doors closed
+60 |NC
+61 |NC

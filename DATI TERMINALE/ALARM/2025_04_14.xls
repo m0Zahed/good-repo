@@ -1,0 +1,269 @@
+12:08:08	CYC	187	Robot not connected, not possible to load program list.
+12:08:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:36:57	Ax1	1011	Quickstop input active                                                         
+12:36:57	Ax2	1011	Quickstop input active                                                         
+12:37:24	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+12:37:24	CYC	201	Load confirmed.
+12:47:37	Ax4	1011	Quickstop input active                                                         
+13:30:17	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:30:17	CYC	201	Load confirmed.
+13:31:11	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:31:15	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:31:17	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:31:59	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:32:05	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:32:06	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:32:09	CYC	164	Load can not start. Check error/emergency
+13:32:09	Ax1	1011	Quickstop input active                                                         
+13:32:09	Ax2	1011	Quickstop input active                                                         
+13:32:10	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:32:11	CYC	201	Load confirmed.
+13:32:57	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:33:51	Ax1	1011	Quickstop input active                                                         
+13:33:51	Ax2	1011	Quickstop input active                                                         
+13:40:43	CYC	165	Belts stopped. Piece in unload station has overcome maximum safe position.
+13:42:30	CYC	187	Robot not connected, not possible to load program list.
+13:42:31	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:56:38	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:56:41	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:57:02	CYC	201	Load confirmed.
+13:57:02	CYC	183	Wait timeout oven station
+13:58:08	CYC	183	Wait timeout oven station
+13:58:17	CYC	183	Wait timeout oven station
+13:58:38	CYC	164	Load can not start. Check error/emergency
+14:06:16	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:17	CYC	201	Load confirmed.
+14:06:48	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:49	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:50	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:51	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:52	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:53	CYC	164	Load can not start. Check error/emergency
+14:06:53	Ax1	1011	Quickstop input active                                                         
+14:06:53	Ax2	1011	Quickstop input active                                                         
+14:06:54	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:06:54	CYC	201	Load confirmed.
+14:18:07	CYC	164	Load can not start. Check error/emergency
+14:18:33	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:18:33	CYC	201	Load confirmed.
+14:22:59	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:26:42	Ax1	1011	Quickstop input active                                                         
+14:26:42	Ax2	1011	Quickstop input active                                                         
+14:29:42	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:30:12	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:39:12	Ax4	1011	Quickstop input active                                                         
+14:39:51	Ax4	1011	Quickstop input active                                                         
+14:43:27	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:43:28	CYC	201	Load confirmed.
+14:58:57	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:58:58	CYC	201	Load confirmed.
+14:58:58	CYC	183	Wait timeout oven station
+14:59:34	CYC	183	Wait timeout oven station
+14:59:35	CYC	183	Wait timeout oven station
+14:59:36	CYC	183	Wait timeout oven station
+15:36:44	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:36:44	CYC	201	Load confirmed.
+15:37:10	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:37:10	CYC	201	Load confirmed.
+15:37:18	Ax4	1011	Quickstop input active                                                         
+15:37:29	CYC	173	
+15:37:51	Ax4	1011	Quickstop input active                                                         
+15:37:55	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:37:58	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:37:58	CYC	201	Load confirmed.
+15:38:07	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:38:09	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:38:09	CYC	201	Load confirmed.
+15:38:10	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:38:10	CYC	201	Load confirmed.
+15:38:12	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:38:13	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:38:14	CYC	201	Load confirmed.
+15:38:34	CYC	173	
+15:38:36	CYC	173	
+15:38:57	Ax4	1011	Quickstop input active                                                         
+15:39:32	Ax1	1011	Quickstop input active                                                         
+15:39:32	Ax2	1011	Quickstop input active                                                         
+15:39:34	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:39:35	CYC	201	Load confirmed.
+15:40:00	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:40:01	CYC	201	Load confirmed.
+15:40:03	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:40:03	CYC	201	Load confirmed.
+15:40:03	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:40:07	CYC	201	Load confirmed.
+15:40:12	Ax4	1011	Quickstop input active                                                         
+15:40:51	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:40:52	CYC	201	Load confirmed.
+15:41:06	CYC	164	Load can not start. Check error/emergency
+15:41:06	Ax1	1011	Quickstop input active                                                         
+15:41:06	Ax2	1011	Quickstop input active                                                         
+15:41:07	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:41:07	CYC	201	Load confirmed.
+15:41:14	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:41:15	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:41:22	CYC	201	Load confirmed.
+15:41:23	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:41:23	CYC	201	Load confirmed.
+15:41:24	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:41:24	CYC	201	Load confirmed.
+15:41:30	Ax4	1011	Quickstop input active                                                         
+15:41:58	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:41:59	CYC	201	Load confirmed.
+15:42:03	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:42:06	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:42:06	CYC	201	Load confirmed.
+15:42:13	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:42:20	CYC	201	Load confirmed.
+15:42:20	Ax4	1011	Quickstop input active                                                         
+15:42:24	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:42:29	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+15:42:30	CYC	201	Load confirmed.
+15:44:42	Ax4	1011	Quickstop input active                                                         
+15:44:52	CYC	201	Load confirmed.
+15:45:23	Ax4	1011	Quickstop input active                                                         
+15:46:01	CYC	173	
+15:49:02	Ax4	1011	Quickstop input active                                                         
+15:49:29	Ax4	1011	Quickstop input active                                                         
+15:51:23	CYC	200	Reset by Operator on VB
+16:10:17	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:10:17	Ax4	1011	Quickstop input active                                                         
+16:13:33	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+16:13:34	CYC	201	Load confirmed.
+16:34:28	CYC	20	Oven belt - Step exceeded
+16:34:28	CYC	21	Oven belt - Step exceeded 2
+16:34:38	CYC	22	Paint belt - Step exceeded
+16:34:38	CYC	22	Paint belt - Step exceeded
+16:43:09	CYC	187	Robot not connected, not possible to load program list.
+16:43:10	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+16:46:16	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+16:46:16	CYC	201	Load confirmed.
+16:46:16	CYC	157	Plant not ready, select AUTO mode
+16:46:40	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+16:46:41	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+16:46:41	CYC	201	Load confirmed.
+16:49:16	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+16:49:16	CYC	201	Load confirmed.
+16:52:00	Ax4	1011	Quickstop input active                                                         
+16:56:24	Ax2	1011	Quickstop input active                                                         
+17:11:31	Ax1	1011	Quickstop input active                                                         
+17:11:39	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+17:11:39	CYC	201	Load confirmed.
+17:12:13	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+17:12:17	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+17:12:24	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+17:12:58	Ax1	1011	Quickstop input active                                                         
+17:12:58	Ax2	1011	Quickstop input active                                                         
+17:12:58	CYC	164	Load can not start. Check error/emergency
+17:12:59	CYC	201	Load confirmed.
+17:13:24	CYC	200	Reset by Operator on VB
+17:14:05	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+17:14:06	CYC	201	Load confirmed.
+17:14:25	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+17:14:43	Ax1	1011	Quickstop input active                                                         
+17:14:43	Ax2	1011	Quickstop input active                                                         
+17:39:08	CYC	165	Belts stopped. Piece in unload station has overcome maximum safe position.
+17:41:55	Ax4	1011	Quickstop input active                                                         
+17:42:32	CYC	173	
+17:42:34	CYC	173	
+18:31:33	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+18:35:59	Ax4	1011	Quickstop input active                                                         
+18:36:31	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+18:36:37	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+19:02:32	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:02:33	CYC	201	Load confirmed.
+19:03:03	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:03:05	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:03:18	CYC	201	Load confirmed.
+19:03:18	CYC	157	Plant not ready, select AUTO mode
+19:04:13	Ax1	1011	Quickstop input active                                                         
+19:04:13	Ax2	1011	Quickstop input active                                                         
+19:04:14	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:04:14	CYC	201	Load confirmed.
+19:04:16	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:04:47	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:04:48	CYC	201	Load confirmed.
+19:04:57	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:05:29	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:05:33	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:05:54	CYC	201	Load confirmed.
+19:05:54	CYC	157	Plant not ready, select AUTO mode
+19:05:55	CYC	157	Plant not ready, select AUTO mode
+19:47:30	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:47:30	CYC	201	Load confirmed.
+19:47:30	CYC	157	Plant not ready, select AUTO mode
+19:47:37	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:48:05	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:48:06	CYC	201	Load confirmed.
+19:48:06	CYC	157	Plant not ready, select AUTO mode
+19:48:10	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+19:51:39	Ax4	1011	Quickstop input active                                                         
+19:52:06	Ax4	1011	Quickstop input active                                                         
+19:56:59	Ax4	1011	Quickstop input active                                                         
+19:57:13	CYC	3	Painting zone - Time Out OUT Door
+19:57:21	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+19:57:27	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+19:57:44	CYC	3	Painting zone - Time Out OUT Door
+19:57:59	CYC	3	Painting zone - Time Out OUT Door
+19:58:19	CYC	3	Painting zone - Time Out OUT Door
+19:59:07	CYC	3	Painting zone - Time Out OUT Door
+19:59:32	CYC	3	Painting zone - Time Out OUT Door
+19:59:44	CYC	2	Painting zone - Time Out IN Door
+19:59:58	CYC	3	Painting zone - Time Out OUT Door
+20:00:34	Ax4	4005	CTRL Controller: Command                                                       
+20:00:53	CYC	2	Painting zone - Time Out IN Door
+20:01:00	Ax4	1011	Quickstop input active                                                         
+20:01:28	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+20:03:39	CYC	187	Robot not connected, not possible to load program list.
+20:03:40	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:04:55	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+20:05:51	Ax4	1011	Quickstop input active                                                         
+20:08:06	Ax4	1011	Quickstop input active                                                         
+20:08:23	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:08:33	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+20:10:21	CYC	3	Painting zone - Time Out OUT Door
+20:10:52	CYC	2	Painting zone - Time Out IN Door
+20:11:45	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+20:11:50	Ax4	1011	Quickstop input active                                                         
+20:11:57	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+20:12:27	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+20:14:59	Ax4	1011	Quickstop input active                                                         
+20:19:26	CYC	3	Painting zone - Time Out OUT Door
+20:22:27	CYC	3	Painting zone - Time Out OUT Door
+20:22:37	CYC	3	Painting zone - Time Out OUT Door
+20:22:54	CYC	3	Painting zone - Time Out OUT Door
+20:23:05	CYC	3	Painting zone - Time Out OUT Door
+20:23:15	CYC	3	Painting zone - Time Out OUT Door
+20:23:25	CYC	3	Painting zone - Time Out OUT Door
+20:23:49	CYC	3	Painting zone - Time Out OUT Door
+20:24:06	Ax4	1011	Quickstop input active                                                         
+20:25:50	CYC	187	Robot not connected, not possible to load program list.
+20:25:51	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:27:06	CYC	3	Painting zone - Time Out OUT Door
+20:27:41	CYC	3	Painting zone - Time Out OUT Door
+20:27:59	CYC	3	Painting zone - Time Out OUT Door
+20:28:00	CYC	3	Painting zone - Time Out OUT Door
+20:28:01	CYC	3	Painting zone - Time Out OUT Door
+20:28:20	CYC	3	Painting zone - Time Out OUT Door
+20:28:30	CYC	3	Painting zone - Time Out OUT Door
+20:28:48	CYC	3	Painting zone - Time Out OUT Door
+20:29:03	CYC	3	Painting zone - Time Out OUT Door
+20:29:17	CYC	3	Painting zone - Time Out OUT Door
+20:29:47	CYC	3	Painting zone - Time Out OUT Door
+20:31:49	CYC	3	Painting zone - Time Out OUT Door
+20:33:46	CYC	3	Painting zone - Time Out OUT Door
+20:33:56	CYC	3	Painting zone - Time Out OUT Door
+20:34:26	CYC	3	Painting zone - Time Out OUT Door
+20:34:36	CYC	3	Painting zone - Time Out OUT Door
+20:36:04	CYC	3	Painting zone - Time Out OUT Door
+20:39:38	CYC	187	Robot not connected, not possible to load program list.
+20:39:39	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:41:45	CYC	3	Painting zone - Time Out OUT Door
+20:42:03	CYC	3	Painting zone - Time Out OUT Door
+20:42:06	CYC	3	Painting zone - Time Out OUT Door
+20:42:41	CYC	3	Painting zone - Time Out OUT Door
+20:42:53	CYC	3	Painting zone - Time Out OUT Door
+20:43:14	CYC	200	Reset by Operator on VB
+20:43:33	CYC	3	Painting zone - Time Out OUT Door
+20:44:00	CYC	3	Painting zone - Time Out OUT Door
+20:45:45	CYC	3	Painting zone - Time Out OUT Door

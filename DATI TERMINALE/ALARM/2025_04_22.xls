@@ -1,0 +1,41 @@
+11:39:35	CYC	187	Robot not connected, not possible to load program list.
+11:39:36	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:30:34	Ax4	1011	Quickstop input active                                                         
+13:16:12	Ax1	1011	Quickstop input active                                                         
+13:16:12	Ax2	1011	Quickstop input active                                                         
+13:52:23	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+13:53:14	CYC	21	Oven belt - Step exceeded 2
+14:11:21	Ax4	1011	Quickstop input active                                                         
+14:16:26	CYC	201	Load confirmed.
+14:16:26	CYC	183	Wait timeout oven station
+14:16:42	CYC	183	Wait timeout oven station
+14:16:45	CYC	183	Wait timeout oven station
+14:16:46	CYC	183	Wait timeout oven station
+15:02:17	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+15:02:17	CYC	201	Load confirmed.
+15:46:03	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+15:46:03	CYC	201	Load confirmed.
+16:24:34	Ax4	1011	Quickstop input active                                                         
+16:32:30	CYC	201	Load confirmed.
+16:32:30	CYC	157	Plant not ready, select AUTO mode
+17:14:58	Ax1	1011	Quickstop input active                                                         
+17:14:58	Ax2	1011	Quickstop input active                                                         
+17:15:38	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+17:17:04	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+17:17:04	CYC	201	Load confirmed.
+17:30:44	Ax4	1011	Quickstop input active                                                         
+17:55:04	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:01:29	CYC	167	Force unload piece selected
+18:05:12	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+18:06:04	Ax4	1011	Quickstop input active                                                         
+18:06:53	CYC	167	Force unload piece selected
+18:07:31	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+18:07:32	CYC	201	Load confirmed.
+18:07:51	CYC	161	Unload not confirmed or station busy
+18:09:35	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+18:23:38	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+18:23:39	CYC	201	Load confirmed.
+19:03:22	CYC	201	Load confirmed.
+19:45:07	CYC	208	Selected program : 1. SIRIUS V3 NEW GUN |  | 
+19:45:08	CYC	201	Load confirmed.
+20:24:08	CYC	180	Spray booth auto-empty cancelled, unload station busy

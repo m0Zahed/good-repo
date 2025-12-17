@@ -1,0 +1,62 @@
+00|Led Auto
+01|Led DoorIN open
+02|Led DoorOUT open
+03|Led Motor on
+04|Led Empty line
+05|Led Reset alarms
+06|Led Porta Frono aperta
+07|Doors closed
+08|Count hour
+09|Lamp red light
+10|Lamp green light
+11|Siren
+12|Led load confirmed
+13|Led load barrier ok
+14|Led unload confirmed
+15|Led unload barrier ok
+16|Open Door oven
+17|Close Door oven
+18|Open DoorIN
+19|Open DoorOUT
+20|Close DoorIN
+21|Close DoorOUT
+22|NC
+23|NC
+24|Red Lamp load station
+25|Yellow Lamp load station
+26|Green Lamp load station
+27|Siren load station
+28|Red Lamp unload station
+29|Yellow Lamp unload station
+30|Green Lamp unload station
+31|Siren unload station
+32|Terminal Lifebit to R1
+33|Continuos Start
+34|NC
+35|Cabin doors closed
+36|NC
+37|NC
+38|NC
+39|NC
+40|NC
+41|NC
+42|NC
+43|NC
+44|NC
+45|NC
+46|NC
+47|NC
+48|NC
+49|NC
+50|NC
+51|NC
+52|NC
+53|NC
+54|NC
+55|NC
+56|NC
+57|NC
+58|NC
+59|NC
+60|NC
+61|NC

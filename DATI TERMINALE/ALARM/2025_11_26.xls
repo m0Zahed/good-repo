@@ -1,0 +1,116 @@
+11:55:29	CYC	187	Robot not connected, not possible to load program list.
+11:55:30	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:01:00	CYC	201	Load confirmed.
+13:04:43	CYC	167	Force unload piece selected
+13:04:52	CYC	167	Force unload piece selected
+13:34:55	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+13:34:55	CYC	201	Load confirmed.
+13:41:23	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+13:41:23	CYC	201	Load confirmed.
+14:11:05	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+14:11:05	CYC	201	Load confirmed.
+14:18:33	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+14:18:34	CYC	201	Load confirmed.
+14:40:56	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+14:40:56	CYC	201	Load confirmed.
+14:41:03	CYC	164	Load can not start. Check error/emergency
+15:06:49	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+15:06:49	CYC	201	Load confirmed.
+15:45:55	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:46:18	CYC	208	Selected program : 1. MS-0008 V10 |  | 
+15:46:19	CYC	201	Load confirmed.
+15:47:16	CYC	200	Reset by Operator on VB
+16:05:47	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+16:05:47	CYC	201	Load confirmed.
+16:13:08	Ax4	1011	Quickstop input active                                                         
+16:16:48	Ax1	1011	Quickstop input active                                                         
+16:16:48	Ax2	1011	Quickstop input active                                                         
+16:17:11	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+16:17:12	CYC	201	Load confirmed.
+16:30:37	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+16:30:38	CYC	201	Load confirmed.
+16:41:43	CYC	20	Oven belt - Step exceeded
+16:41:43	CYC	21	Oven belt - Step exceeded 2
+16:45:51	CYC	201	Load confirmed.
+16:45:51	CYC	157	Plant not ready, select AUTO mode
+16:45:57	Ax1	1011	Quickstop input active                                                         
+16:45:57	Ax2	1011	Quickstop input active                                                         
+16:46:04	CYC	201	Load confirmed.
+16:46:19	CYC	157	Plant not ready, select AUTO mode
+16:46:32	CYC	200	Reset by Operator on VB
+16:46:47	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+16:46:47	CYC	201	Load confirmed.
+16:46:47	CYC	157	Plant not ready, select AUTO mode
+16:46:52	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+16:46:53	CYC	201	Load confirmed.
+16:47:11	CYC	157	Plant not ready, select AUTO mode
+16:47:12	CYC	157	Plant not ready, select AUTO mode
+16:47:12	CYC	157	Plant not ready, select AUTO mode
+16:47:13	CYC	157	Plant not ready, select AUTO mode
+16:47:18	CYC	200	Reset by Operator on VB
+16:47:35	CYC	201	Load confirmed.
+16:51:21	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+16:51:21	CYC	201	Load confirmed.
+17:13:31	Ax4	1011	Quickstop input active                                                         
+17:13:40	CYC	167	Force unload piece selected
+17:13:48	CYC	167	Force unload piece selected
+17:14:51	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+17:14:51	CYC	201	Load confirmed.
+17:14:53	CYC	164	Load can not start. Check error/emergency
+17:16:39	CYC	200	Reset by Operator on VB
+17:16:43	Ax4	4005	CTRL Controller: Command                                                       
+17:17:01	CYC	200	Reset by Operator on VB
+17:17:01	Ax4	1011	Quickstop input active                                                         
+17:17:04	Ax4	4005	CTRL Controller: Command                                                       
+17:17:35	Ax4	1011	Quickstop input active                                                         
+17:23:17	Ax1	1011	Quickstop input active                                                         
+17:23:17	Ax2	1011	Quickstop input active                                                         
+17:36:13	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+17:36:14	CYC	201	Load confirmed.
+17:51:44	Ax4	1011	Quickstop input active                                                         
+17:52:01	Ax4	1011	Quickstop input active                                                         
+17:52:04	CYC	173	
+17:52:11	CYC	167	Force unload piece selected
+17:55:05	CYC	200	Reset by Operator on VB
+17:55:15	Ax4	1011	Quickstop input active                                                         
+17:58:22	CYC	200	Reset by Operator on VB
+17:59:09	CYC	200	Reset by Operator on VB
+17:59:49	CYC	200	Reset by Operator on VB
+18:00:45	CYC	200	Reset by Operator on VB
+18:31:22	CYC	200	Reset by Operator on VB
+18:33:51	CYC	187	Robot not connected, not possible to load program list.
+18:33:52	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:34:01	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+18:35:46	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+18:36:05	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+18:44:37	Ax1	1011	Quickstop input active                                                         
+18:56:04	CYC	201	Load confirmed.
+18:56:06	CYC	201	Load confirmed.
+18:56:18	CYC	201	Load confirmed.
+18:56:22	CYC	201	Load confirmed.
+18:56:49	CYC	200	Reset by Operator on VB
+18:57:09	CYC	201	Load confirmed.
+18:57:29	CYC	164	Load can not start. Check error/emergency
+18:58:08	CYC	201	Load confirmed.
+19:07:08	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:09:17	Ax4	1011	Quickstop input active                                                         
+19:09:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:09:24	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:09:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:09:36	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:11:15	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+19:11:15	CYC	201	Load confirmed.
+19:14:58	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+19:14:58	CYC	201	Load confirmed.
+19:40:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:41:24	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:41:25	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:41:25	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:41:31	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:59:37	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+19:59:38	CYC	201	Load confirmed.
+20:10:42	CYC	167	Force unload piece selected
+20:13:37	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:28:46	CYC	201	Load confirmed.
+20:32:51	CYC	180	Spray booth auto-empty cancelled, unload station busy
+21:42:21	CYC	180	Spray booth auto-empty cancelled, unload station busy

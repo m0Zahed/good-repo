@@ -1,0 +1,62 @@
+00|Led Auto
+01|Led PortaIN aperta
+02|Led PortaOUT aperta
+03|Led Motor on
+04|Led Svuota linea
+05|Led Reset allarmi
+06|Led Porta Frono aperta
+07|Porte chiuse
+08|Contaore
+09|Semaforo luce rossa
+10|Semaforo luce verde
+11|Sirena
+12|Led conferma carico
+13|Led barriera carico ok
+14|Led conferma scarico
+15|Led barriera scarico ok
+16|Apri Porta Forno
+17|Chiudi Porta Forno
+18|Apri PortaIN
+19|Chiudi PortaIN
+20|Apri PortaOUT
+21|Chiudi PortaOUT
+22|NC
+23|NC
+24|Semaforo luce rossa carico
+25|Semaforo luce giallo carico
+26|Semaforo luce verde carico
+27|Sirena carico
+28|Semaforo luce rossa carico
+29|Semaforo luce giallo carico
+30|Semaforo luce verde carico
+31|Sirena carico
+32|Terminal Lifebit to R1
+33|STart continuo
+34|NC
+35|Porte chiuse
+36|NC
+37|NC
+38|NC
+39|NC
+40|NC
+41|NC
+42|NC
+43|NC
+44|NC
+45|NC
+46|NC
+47|NC
+48|NC
+49|NC
+50|NC
+51|NC
+52|NC
+53|NC
+54|NC
+55|NC
+56|NC
+57|NC
+58|NC
+59|NC
+60|NC
+61|NC

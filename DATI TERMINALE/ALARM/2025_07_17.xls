@@ -1,0 +1,108 @@
+12:01:07	CYC	187	Robot not connected, not possible to load program list.
+12:01:08	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:23:12	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:23:12	CYC	201	Load confirmed.
+12:27:14	CYC	187	Robot not connected, not possible to load program list.
+12:27:15	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:33:29	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:33:29	CYC	201	Load confirmed.
+12:34:09	CYC	183	Wait timeout oven station
+12:41:35	CYC	164	Load can not start. Check error/emergency
+12:57:03	CYC	184	Carter not open or rotation piece in high position
+13:06:04	CYC	184	Carter not open or rotation piece in high position
+13:06:05	CYC	184	Carter not open or rotation piece in high position
+13:06:06	CYC	184	Carter not open or rotation piece in high position
+13:06:06	CYC	184	Carter not open or rotation piece in high position
+13:06:06	CYC	184	Carter not open or rotation piece in high position
+13:06:07	CYC	184	Carter not open or rotation piece in high position
+13:06:07	CYC	184	Carter not open or rotation piece in high position
+13:06:07	CYC	184	Carter not open or rotation piece in high position
+13:06:07	CYC	184	Carter not open or rotation piece in high position
+13:06:08	CYC	184	Carter not open or rotation piece in high position
+13:06:22	CYC	200	Reset by Operator on VB
+13:22:29	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:22:29	CYC	201	Load confirmed.
+13:23:40	CYC	167	Force unload piece selected
+13:25:01	CYC	164	Load can not start. Check error/emergency
+13:48:33	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:48:33	CYC	201	Load confirmed.
+14:12:32	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:12:33	CYC	201	Load confirmed.
+14:31:11	CYC	173	
+14:36:04	CYC	167	Force unload piece selected
+14:36:11	CYC	167	Force unload piece selected
+14:36:21	Ax4	1011	Quickstop input active                                                         
+14:36:44	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:37:03	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:37:31	CYC	167	Force unload piece selected
+14:37:54	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:38:57	Ax4	1011	Quickstop input active                                                         
+14:39:10	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:39:47	Ax4	1011	Quickstop input active                                                         
+14:40:20	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:41:35	CYC	22	Paint belt - Step exceeded
+14:41:35	CYC	22	Paint belt - Step exceeded
+14:43:35	Ax4	1011	Quickstop input active                                                         
+14:45:46	CYC	2	Painting zone - Time Out IN Door
+14:46:40	CYC	2	Painting zone - Time Out IN Door
+14:51:00	CYC	2	Painting zone - Time Out IN Door
+14:51:31	CYC	200	Reset by Operator on VB
+14:51:46	CYC	200	Reset by Operator on VB
+14:53:25	CYC	187	Robot not connected, not possible to load program list.
+14:53:26	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:06:39	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:06:39	CYC	201	Load confirmed.
+15:25:30	CYC	173		Barriers must be reset
+15:28:46	CYC	22	Paint belt - Step exceeded
+15:28:46	CYC	22	Paint belt - Step exceeded
+15:28:46	CYC	22	Paint belt - Step exceeded
+15:28:46	CYC	22	Paint belt - Step exceeded
+15:29:09	Ax4	1011	Quickstop input active                                                         
+15:31:25	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:31:26	CYC	201	Load confirmed.
+15:56:33	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:56:33	CYC	201	Load confirmed.
+15:56:34	CYC	183	Wait timeout oven station
+15:57:25	CYC	183	Wait timeout oven station
+15:57:33	CYC	183	Wait timeout oven station
+15:57:34	CYC	183	Wait timeout oven station
+16:21:15	Ax4	1011	Quickstop input active                                                         
+16:21:22	CYC	167	Force unload piece selected
+16:21:31	CYC	167	Force unload piece selected
+16:21:49	CYC	22	Paint belt - Step exceeded
+16:21:49	CYC	22	Paint belt - Step exceeded
+16:23:24	Ax4	1011	Quickstop input active                                                         
+16:26:31	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:26:32	CYC	201	Load confirmed.
+16:49:52	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:49:52	CYC	201	Load confirmed.
+17:08:56	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:16:27	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+17:16:27	CYC	201	Load confirmed.
+17:37:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:48:57	CYC	167	Force unload piece selected
+17:50:31	CYC	22	Paint belt - Step exceeded
+17:50:31	CYC	22	Paint belt - Step exceeded
+17:50:31	CYC	22	Paint belt - Step exceeded
+17:50:31	CYC	22	Paint belt - Step exceeded
+18:14:57	Ax4	1011	Quickstop input active                                                         
+18:16:14	CYC	6	Paint belt - Max error (&) step exceeded
+18:18:27	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:18:28	CYC	201	Load confirmed.
+18:41:10	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:41:10	CYC	201	Load confirmed.
+18:41:10	CYC	183	Wait timeout oven station
+19:14:39	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:14:39	CYC	201	Load confirmed.
+19:36:18	CYC	22	Paint belt - Step exceeded
+19:36:18	CYC	22	Paint belt - Step exceeded
+19:36:18	CYC	22	Paint belt - Step exceeded
+19:36:18	CYC	22	Paint belt - Step exceeded
+19:55:25	Ax4	1011	Quickstop input active                                                         
+19:55:35	CYC	167	Force unload piece selected
+19:58:57	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:58:57	CYC	201	Load confirmed.
+20:31:44	Ax4	1011	Quickstop input active                                                         
+20:49:52	CYC	22	Paint belt - Step exceeded
+20:49:52	CYC	22	Paint belt - Step exceeded
+20:50:18	Ax4	1011	Quickstop input active                                                         

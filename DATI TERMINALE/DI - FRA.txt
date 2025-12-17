@@ -1,0 +1,88 @@
+﻿00|Une urgence charge ok
+01|Une urgence four ok
+02|Peinture d'urgence ok
+03|Décharger l'urgence ok
+04|Installation d'urgence ok
+05|Intervention de la barrière de chargement 
+06|Intervention de la barrière de déchargement 
+07|Portes de cabine fermées (sécurité)
+08|Présence tension externe
+09|Présence tension externe
+10|Température de l'armoire ok
+11|Mode automatique
+12|Bouton ouvert DoorIN
+13|Bouton ouvert DoorOUT
+14|Interrupteur sur les moteurs
+15|Jog -
+16|Jog +
+17|Ligne vide
+18|Réinitialisation des alarmes
+19|Bouton d'ouverture de la porte du four
+20|Porte ouverte
+21|Bouton d'urgence de chargement
+22|Bouton de confirmation de chargement
+23|NC
+24|Charge de la cellule photoélectrique de l'étage 
+25|Charge de la photocellule st. fin 
+26|NC
+27|NC
+28|Porte du four ouverte
+29|Fermeture de la porte du four
+30|Début de la photocellule du four
+31|Fin de la cellule photoélectrique du four
+32|
+33|
+34|PorteIN ouverte
+35|Fermeture de la porte
+36|Painting st. photcell start
+37|Peinture de la cellule photoélectrique de l'étage fin
+38|PorteOUT ouverte
+39|DoorOUT close
+40|Décharger st. photcell début
+41|Décharger st. photcell fin
+42|NC
+43|NC
+44|Décharger le bouton d'urgence
+45|Décharger le bouton confirmé
+46|NC
+47|NC
+65|R1 Lifebit
+66|R1 Exécution du programme
+67|R1 Position de sécurité
+68|R1 Pistolet (Dout 147)		
+69|R1 Pièces finales (Dout 148)
+70|R1 Urgence (Dout 149)
+71|R1 Mode d'apprentissage (Dout 150)
+72|NC (Dout 151)
+73|NC (Dout 152)		
+74|R1 SR20G Ok work (Dout 153)
+75|R1 SR20G Anomalie (Dout 154)
+76|RP Haut Carter Fermé (Dout 156)
+77|RP Low Carter (Dout 157)
+78|NC (Dout 158)
+79|NC (Dout 159)
+80|NC (Dout 160)
+81|R1 Statut du robot		
+82|R1 programmi in lista
+83|R1 position X
+84|R1 position Y
+85|R1 position Z
+86|NC
+87|NC
+88|NC
+89|NC
+90|NC
+91|NC
+92|NC
+93|NC
+94|NC
+95|NC
+96|NC
+97|NC
+98|NC
+99|NC
+100|NC
+101|NC
+102|NC
+103|NC
+104|NC

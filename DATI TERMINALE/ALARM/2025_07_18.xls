@@ -1,0 +1,54 @@
+11:59:20	CYC	187	Robot not connected, not possible to load program list.
+11:59:21	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:05:47	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:05:48	CYC	201	Load confirmed.
+12:24:41	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:24:42	CYC	201	Load confirmed.
+12:24:42	CYC	183	Wait timeout oven station
+12:47:08	Ax4	1011	Quickstop input active                                                         
+12:48:54	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:48:54	CYC	201	Load confirmed.
+13:11:20	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:11:20	CYC	201	Load confirmed.
+13:36:00	CYC	201	Load confirmed.
+13:57:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:06:33	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:06:33	CYC	201	Load confirmed.
+14:27:15	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:01:05	Ax4	1011	Quickstop input active                                                         
+15:02:11	CYC	200	Reset by Operator on VB
+15:02:13	Ax3	5018	Homing: Command start homing procedure                                         
+15:02:42	Ax3	5018	Homing: Command start homing procedure                                         
+15:03:14	CYC	200	Reset by Operator on VB
+15:03:21	Ax3	5018	Homing: Command start homing procedure                                         
+15:03:26	CYC	200	Reset by Operator on VB
+15:03:34	Ax3	5018	Homing: Command start homing procedure                                         
+15:03:44	Ax3	5018	Homing: Command start homing procedure                                         
+15:04:04	Ax3	5018	Homing: Command start homing procedure                                         
+15:05:57	CYC	187	Robot not connected, not possible to load program list.
+15:05:58	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:10:25	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:10:26	CYC	201	Load confirmed.
+15:19:30	Ax4	1011	Quickstop input active                                                         
+15:30:45	CYC	184	Carter not open or rotation piece in high position
+15:30:59	CYC	184	Carter not open or rotation piece in high position
+15:31:44	CYC	184	Carter not open or rotation piece in high position
+15:33:30	CYC	159	The list is not empty. Piece not in position
+15:33:41	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:33:41	CYC	6	Paint belt - Max error (&) step exceeded
+15:34:00	CYC	200	Reset by Operator on VB
+15:34:00	CYC	24	Unload belt - Step exceeded
+15:34:06	CYC	200	Reset by Operator on VB
+15:34:17	Ax4	5018	Homing: Command start homing procedure                                         
+15:35:08	Ax4	5018	Homing: Command start homing procedure                                         
+15:35:26	Ax4	5018	Homing: Command start homing procedure                                         
+15:35:37	Ax4	1011	Quickstop input active                                                         
+15:37:30	CYC	200	Reset by Operator on VB
+15:39:27	CYC	187	Robot not connected, not possible to load program list.
+15:39:28	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+15:40:55	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:40:56	CYC	201	Load confirmed.
+16:03:34	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:03:34	CYC	201	Load confirmed.
+16:49:21	CYC	201	Load confirmed.
+16:55:45	CYC	180	Spray booth auto-empty cancelled, unload station busy

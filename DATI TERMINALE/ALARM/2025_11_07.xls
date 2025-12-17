@@ -1,0 +1,40 @@
+12:51:03	CYC	187	Robot not connected, not possible to load program list.
+12:51:04	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:57:15	CYC	201	Load confirmed.
+12:57:32	CYC	5	Oven belt - Max error (&) step exceeded
+12:57:33	CYC	5	Oven belt - Max error (&) step exceeded
+12:57:33	CYC	5	Oven belt - Max error (&) step exceeded
+12:57:34	CYC	5	Oven belt - Max error (&) step exceeded
+12:57:34	CYC	5	Oven belt - Max error (&) step exceeded
+12:57:35	CYC	5	Oven belt - Max error (&) step exceeded
+12:59:15	Ax1	1011	Quickstop input active                                                         
+12:59:15	Ax2	1011	Quickstop input active                                                         
+13:03:04	Ax4	1011	Quickstop input active                                                         
+13:03:51	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+13:04:23	Ax4	1011	Quickstop input active                                                         
+13:04:43	CYC	167	Force unload piece selected
+13:04:46	CYC	173		Barriers must be reset
+13:04:47	CYC	173		Barriers must be reset
+13:04:51	CYC	167	Force unload piece selected
+13:05:49	CYC	200	Reset by Operator on VB
+13:07:25	Ax1	1011	Quickstop input active                                                         
+13:07:25	Ax2	1011	Quickstop input active                                                         
+13:09:41	CYC	201	Load confirmed.
+13:37:39	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:43:30	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:11:52	CYC	201	Load confirmed.
+16:22:40	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+16:22:41	CYC	201	Load confirmed.
+16:29:35	CYC	20	Oven belt - Step exceeded
+16:29:35	CYC	21	Oven belt - Step exceeded 2
+17:01:06	CYC	201	Load confirmed.
+17:01:06	CYC	157	Plant not ready, select AUTO mode
+17:01:26	CYC	201	Load confirmed.
+17:09:37	Ax4	1011	Quickstop input active                                                         
+17:10:45	CYC	201	Load confirmed.
+17:11:14	CYC	164	Load can not start. Check error/emergency
+17:11:25	CYC	208	Selected program : 1. MS-0002 V1 |  | 
+17:11:25	CYC	201	Load confirmed.
+18:00:08	CYC	20	Oven belt - Step exceeded
+18:00:08	CYC	21	Oven belt - Step exceeded 2
+18:27:47	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode

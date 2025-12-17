@@ -1,0 +1,198 @@
+12:05:55	CYC	187	Robot not connected, not possible to load program list.
+12:05:56	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:48:37	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:48:37	CYC	201	Load confirmed.
+13:28:14	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:28:15	CYC	201	Load confirmed.
+13:28:15	CYC	183	Wait timeout oven station
+13:28:53	CYC	6	Paint belt - Max error (&) step exceeded
+13:35:46	CYC	187	Robot not connected, not possible to load program list.
+13:35:46	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:38:18	Ax2	1011	Quickstop input active                                                         
+13:50:14	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:50:14	CYC	201	Load confirmed.
+13:58:28	CYC	183	Wait timeout oven station
+13:58:53	CYC	6	Paint belt - Max error (&) step exceeded
+14:54:47	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:54:48	CYC	201	Load confirmed.
+14:54:48	CYC	183	Wait timeout oven station
+15:28:55	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:28:55	CYC	201	Load confirmed.
+15:28:55	CYC	183	Wait timeout oven station
+16:02:34	Ax4	1011	Quickstop input active                                                         
+16:02:46	CYC	201	Load confirmed.
+16:02:46	CYC	183	Wait timeout oven station
+16:44:36	CYC	6	Paint belt - Max error (&) step exceeded
+16:45:22	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:22	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:23	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:23	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:24	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:24	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:24	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:25	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:25	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:26	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:26	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:26	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:27	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:27	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:27	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:28	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:28	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:29	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:29	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:30	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:30	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:31	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:31	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:32	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:32	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:33	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:33	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:34	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:34	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:35	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:35	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:36	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:36	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:37	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:37	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:37	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:38	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:38	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:39	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:39	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:39	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:40	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:40	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:41	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:41	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:42	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:42	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:43	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:43	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:44	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:44	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:45	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:45	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:46	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:46	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:47	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:47	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:48	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:48	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:48	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:49	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:49	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:49	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:50	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:50	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:51	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:51	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:52	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:52	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:53	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:53	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:54	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:54	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:55	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:55	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:56	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:56	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:57	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:57	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:58	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:58	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:59	CYC	5	Oven belt - Max error (&) step exceeded
+16:45:59	CYC	5	Oven belt - Max error (&) step exceeded
+16:46:00	CYC	5	Oven belt - Max error (&) step exceeded
+16:46:00	CYC	5	Oven belt - Max error (&) step exceeded
+16:46:00	CYC	5	Oven belt - Max error (&) step exceeded
+16:50:20	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:50:20	CYC	201	Load confirmed.
+16:51:50	CYC	167	Force unload piece selected
+16:52:12	CYC	167	Force unload piece selected
+16:52:41	CYC	167	Force unload piece selected
+16:53:00	CYC	200	Reset by Operator on VB
+16:55:36	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:56:33	CYC	200	Reset by Operator on VB
+16:56:36	CYC	200	Reset by Operator on VB
+16:56:59	CYC	201	Load confirmed.
+16:57:12	Ax1	1011	Quickstop input active                                                         
+17:09:21	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:22	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:22	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:23	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:23	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:23	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:24	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:24	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:24	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:25	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:25	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:26	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:26	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:26	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:27	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:27	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:28	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:28	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:29	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:29	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:30	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:30	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:31	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:31	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:32	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:32	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:33	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:33	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:34	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:34	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:35	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:35	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:35	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:36	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:36	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:36	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:37	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:37	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:37	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:38	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:38	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:39	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:39	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:40	CYC	5	Oven belt - Max error (&) step exceeded
+17:09:40	CYC	5	Oven belt - Max error (&) step exceeded
+17:17:17	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+17:17:17	CYC	201	Load confirmed.
+17:19:35	CYC	187	Robot not connected, not possible to load program list.
+17:19:36	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+17:21:31	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+17:21:31	CYC	201	Load confirmed.
+17:57:20	CYC	167	Force unload piece selected
+18:10:29	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:10:30	CYC	201	Load confirmed.
+18:27:51	CYC	22	Paint belt - Step exceeded
+18:27:51	CYC	22	Paint belt - Step exceeded
+18:27:51	CYC	22	Paint belt - Step exceeded
+18:27:51	CYC	22	Paint belt - Step exceeded
+18:30:43	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:30:43	CYC	201	Load confirmed.
+18:31:39	CYC	200	Reset by Operator on VB
+18:31:43	CYC	200	Reset by Operator on VB
+18:38:17	Ax4	1011	Quickstop input active                                                         
+18:40:00	CYC	167	Force unload piece selected
+18:44:24	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:44:47	CYC	21	Oven belt - Step exceeded 2
+18:52:28	Ax1	1011	Quickstop input active                                                         
+19:35:00	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:35:00	CYC	201	Load confirmed.
+19:35:00	CYC	183	Wait timeout oven station
+19:53:46	CYC	164	Load can not start. Check error/emergency
+20:05:31	CYC	201	Load confirmed.
+20:30:27	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:39:11	CYC	6	Paint belt - Max error (&) step exceeded
+20:39:32	CYC	159	The list is not empty. Piece not in position
+21:03:45	CYC	180	Spray booth auto-empty cancelled, unload station busy

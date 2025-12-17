@@ -1,0 +1,80 @@
+11:43:26	CYC	187	Robot not connected, not possible to load program list.
+11:43:27	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:15:13	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+12:15:14	CYC	201	Load confirmed.
+12:37:15	Ax4	1011	Quickstop input active                                                         
+12:40:31	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+12:40:32	CYC	201	Load confirmed.
+12:40:32	CYC	183	Wait timeout oven station
+12:41:13	CYC	183	Wait timeout oven station
+12:41:15	CYC	183	Wait timeout oven station
+12:41:20	CYC	183	Wait timeout oven station
+12:41:21	CYC	183	Wait timeout oven station
+12:41:44	CYC	183	Wait timeout oven station
+12:41:45	CYC	183	Wait timeout oven station
+12:41:46	CYC	183	Wait timeout oven station
+12:41:46	CYC	183	Wait timeout oven station
+12:41:46	CYC	183	Wait timeout oven station
+12:42:46	CYC	6	Paint belt - Max error (&) step exceeded
+13:00:23	Ax1	1011	Quickstop input active                                                         
+13:13:24	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:13:24	CYC	201	Load confirmed.
+13:13:54	CYC	167	Force unload piece selected
+13:16:58	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+13:16:59	CYC	201	Load confirmed.
+13:18:52	CYC	200	Reset by Operator on VB
+13:19:10	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+13:20:44	Ax4	1011	Quickstop input active                                                         
+13:53:08	CYC	184	Carter not open or rotation piece in high position
+13:55:24	CYC	200	Reset by Operator on VB
+13:55:37	Ax4	1011	Quickstop input active                                                         
+13:56:23	Ax1	1011	Quickstop input active                                                         
+13:56:23	Ax2	1011	Quickstop input active                                                         
+13:56:40	CYC	173		Barriers must be reset
+13:57:24	Ax4	1011	Quickstop input active                                                         
+14:01:39	Ax1	1011	Quickstop input active                                                         
+14:01:39	Ax2	1011	Quickstop input active                                                         
+14:02:19	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:04:21	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:04:22	CYC	201	Load confirmed.
+14:04:54	CYC	208	Selected program : 1. ORION NEW GUN |  | 
+14:04:54	CYC	201	Load confirmed.
+14:05:17	CYC	167	Force unload piece selected
+14:07:42	Ax4	1011	Quickstop input active                                                         
+14:54:10	CYC	208	Selected program : 1. MS_0001 NEW GUN |  | 
+14:54:11	CYC	201	Load confirmed.
+14:59:52	Ax4	1011	Quickstop input active                                                         
+15:20:24	CYC	208	Selected program : SPEED_RUN |  | 
+15:20:24	CYC	201	Load confirmed.
+15:21:15	CYC	167	Force unload piece selected
+15:21:35	CYC	167	Force unload piece selected
+15:23:25	CYC	208	Selected program : SPEED_RUN |  | 
+15:24:40	Ax4	1011	Quickstop input active                                                         
+15:26:35	CYC	208	Selected program : SPEED_RUN |  | 
+15:26:35	CYC	201	Load confirmed.
+15:28:20	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:28:49	Ax4	1011	Quickstop input active                                                         
+15:37:43	Ax4	1011	Quickstop input active                                                         
+15:38:35	Ax4	1011	Quickstop input active                                                         
+16:52:47	Ax1	1011	Quickstop input active                                                         
+16:52:47	Ax2	1011	Quickstop input active                                                         
+17:06:05	CYC	208	Selected program : 1. MS_0001 NEW GUN |  | 
+17:06:05	CYC	201	Load confirmed.
+17:08:00	Ax4	1011	Quickstop input active                                                         
+17:49:39	CYC	208	Selected program : 1. MS_0001 NEW GUN |  | 
+17:49:39	CYC	201	Load confirmed.
+17:49:39	CYC	183	Wait timeout oven station
+17:49:51	CYC	183	Wait timeout oven station
+17:49:53	CYC	183	Wait timeout oven station
+17:49:55	CYC	183	Wait timeout oven station
+17:50:09	CYC	201	Load confirmed.
+18:21:31	CYC	208	Selected program : 1. MS_0001 NEW GUN |  | 
+18:21:31	CYC	201	Load confirmed.
+18:30:59	CYC	24	Unload belt - Step exceeded
+18:31:06	Ax4	1011	Quickstop input active                                                         
+18:32:05	Ax4	1011	Quickstop input active                                                         
+18:50:25	CYC	208	Selected program : 1. MS_0001 NEW GUN |  | 
+18:50:25	CYC	201	Load confirmed.
+19:33:02	CYC	208	Selected program : 1. MS_0001 NEW GUN |  | 
+19:33:02	CYC	201	Load confirmed.
+20:12:01	Ax4	1011	Quickstop input active                                                         

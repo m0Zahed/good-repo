@@ -1,0 +1,37 @@
+12:00:35	CYC	187	Robot not connected, not possible to load program list.
+12:00:36	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:10:41	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+12:10:41	CYC	201	Load confirmed.
+12:15:59	CYC	200	Reset by Operator on VB
+12:35:36	CYC	167	Force unload piece selected
+14:32:58	Ax1	1011	Quickstop input active                                                         
+14:42:38	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+14:42:39	CYC	201	Load confirmed.
+14:42:59	CYC	21	Oven belt - Step exceeded 2
+14:51:41	CYC	159	The list is not empty. Piece not in position
+14:51:58	CYC	159	The list is not empty. Piece not in position
+14:54:39	Ax4	1011	Quickstop input active                                                         
+15:08:05	Ax4	1011	Quickstop input active                                                         
+15:18:46	Ax1	1011	Quickstop input active                                                         
+16:09:20	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:09:20	CYC	201	Load confirmed.
+16:25:39	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:25:39	CYC	201	Load confirmed.
+16:41:19	CYC	200	Reset by Operator on VB
+16:42:35	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:42:35	CYC	201	Load confirmed.
+16:42:35	CYC	157	Plant not ready, select AUTO mode
+16:43:05	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+16:43:06	CYC	201	Load confirmed.
+17:54:27	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+17:54:28	CYC	201	Load confirmed.
+18:28:26	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+18:28:27	CYC	201	Load confirmed.
+18:49:10	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+18:49:10	CYC	201	Load confirmed.
+19:10:34	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+19:10:35	CYC	201	Load confirmed.
+20:26:14	CYC	208	Selected program : 1. MS-0008 V3 |  | 
+20:26:14	CYC	201	Load confirmed.
+21:06:21	CYC	187	Robot not connected, not possible to load program list.
+21:06:22	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

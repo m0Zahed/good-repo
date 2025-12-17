@@ -1,0 +1,88 @@
+00|Load emergency ok
+01|Oven emergency ok
+02|Painting emergency ok
+03|Unload emergency ok
+04|Emergency plant ok
+05|Load barrier intervention 
+06|Unload barrier intervention 
+07|Cabin doors closed (safety)
+08|Ext voltage presence
+09|Ext voltage presence
+10|Cabinet temperature ok
+11|Auto mode
+12|Button open DoorIN
+13|Button open DoorOUT
+14|Switch ON motors
+15|Jog -
+16|Jog +
+17|Empty line
+18|Reset alarms
+19|Button open oven Door
+20|Door open
+21|Load emergency button
+22|Load confirm button
+23|NC
+24|Load st. photocell start 
+25|Load st. photocell end 
+26|NC
+27|NC
+28|Door Oven open
+29|Door Oven close
+30|Oven st. photcell start
+31|Oven st. photcell end
+32|
+33|
+34|DoorIN open
+35|DoorIN close
+36|Painting st. photcell start
+37|Painting st. photcell end
+38|DoorOUT open
+39|DoorOUT close
+40|Unload st. photcell start
+41|Unload st. photcell end
+42|NC
+43|NC
+44|Unload emergency button
+45|Unload confirmed button
+46|NC
+47|NC
+65|R1 Lifebit
+66|R1 Program Run
+67|R1 Safe position
+68|R1 Gun (Dout 147)		
+69|R1 End pieces (Dout 148)
+70|R1 Emergency (Dout 149)
+71|R1 Teach mode (Dout 150)
+72|NC (Dout 151)
+73|NC (Dout 152)		
+74|R1 SR20G Ok work (Dout 153)
+75|R1 SR20G Anomaly (Dout 154)
+76|RP High Carter Closed (Dout 156)
+77|RP Low Carter (Dout 157)
+78|NC (Dout 158)
+79|NC (Dout 159)
+80|NC (Dout 160)
+81|R1 Robot Status		
+82|R1 programmi in lista
+83|R1 posizione X
+84|R1 posizione Y
+85|R1 posizione Z
+86|NC
+87|NC
+88|NC
+89|NC
+90|NC
+91|NC
+92|NC
+93|NC
+94|NC
+95|NC
+96|NC
+97|NC
+98|NC
+99|NC
+100|NC
+101|NC
+102|NC
+103|NC
+104|NC

@@ -1,0 +1,71 @@
+11:18:24	CYC	187	Robot not connected, not possible to load program list.
+11:18:25	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:12:05	CYC	201	Load confirmed.
+12:12:23	CYC	5	Oven belt - Max error (&) step exceeded
+12:12:23	CYC	5	Oven belt - Max error (&) step exceeded
+12:12:24	CYC	5	Oven belt - Max error (&) step exceeded
+12:12:24	CYC	5	Oven belt - Max error (&) step exceeded
+12:12:24	CYC	5	Oven belt - Max error (&) step exceeded
+12:12:25	CYC	5	Oven belt - Max error (&) step exceeded
+12:16:56	Ax1	1011	Quickstop input active                                                         
+12:16:56	Ax2	1011	Quickstop input active                                                         
+12:19:13	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+12:19:13	Ax4	1011	Quickstop input active                                                         
+12:19:18	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+12:19:24	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+12:20:06	CYC	200	Reset by Operator on VB
+12:23:38	Ax4	1011	Quickstop input active                                                         
+12:24:02	CYC	167	Force unload piece selected
+12:24:07	CYC	167	Force unload piece selected
+12:29:37	CYC	201	Load confirmed.
+12:29:37	CYC	157	Plant not ready, select AUTO mode
+12:34:37	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:34:42	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:34:42	CYC	201	Load confirmed.
+12:34:42	CYC	157	Plant not ready, select AUTO mode
+12:34:47	CYC	164	Load can not start. Check error/emergency
+12:34:47	Ax1	1011	Quickstop input active                                                         
+12:35:01	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:35:02	CYC	201	Load confirmed.
+12:35:02	CYC	157	Plant not ready, select AUTO mode
+12:35:16	CYC	157	Plant not ready, select AUTO mode
+12:35:18	CYC	157	Plant not ready, select AUTO mode
+12:35:34	CYC	201	Load confirmed.
+13:08:15	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+13:08:16	CYC	201	Load confirmed.
+13:33:14	CYC	184	Carter not open or rotation piece in high position
+13:40:06	Ax4	1011	Quickstop input active                                                         
+13:40:07	CYC	184	Carter not open or rotation piece in high position
+13:40:09	CYC	184	Carter not open or rotation piece in high position
+13:40:13	CYC	184	Carter not open or rotation piece in high position
+13:53:37	CYC	184	Carter not open or rotation piece in high position
+13:53:38	CYC	184	Carter not open or rotation piece in high position
+13:55:06	CYC	159	The list is not empty. Piece not in position
+13:55:17	CYC	6	Paint belt - Max error (&) step exceeded
+13:55:37	CYC	24	Unload belt - Step exceeded
+13:56:14	CYC	200	Reset by Operator on VB
+13:56:47	Ax4	1011	Quickstop input active                                                         
+13:58:23	Ax4	1011	Quickstop input active                                                         
+13:58:28	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+13:58:39	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+13:58:41	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+13:59:13	CYC	3	Painting zone - Time Out OUT Door
+13:59:30	CYC	179	Spray booth auto-empty cancelled, plant not in auto mode
+14:00:45	CYC	200	Reset by Operator on VB
+14:04:38	CYC	200	Reset by Operator on VB
+14:04:52	CYC	200	Reset by Operator on VB
+14:05:42	CYC	200	Reset by Operator on VB
+14:07:19	CYC	200	Reset by Operator on VB
+14:07:24	CYC	167	Force unload piece selected
+14:10:13	CYC	187	Robot not connected, not possible to load program list.
+14:10:14	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:30:33	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+14:30:33	CYC	201	Load confirmed.
+15:09:09	CYC	167	Force unload piece selected
+15:27:55	Ax1	1011	Quickstop input active                                                         
+15:27:55	Ax2	1011	Quickstop input active                                                         
+15:56:23	CYC	200	Reset by Operator on VB
+15:58:47	CYC	200	Reset by Operator on VB
+16:00:11	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:08:26	Ax4	1011	Quickstop input active                                                         
+16:11:47	CYC	201	Load confirmed.

@@ -1,0 +1,15 @@
+18:25:21	CYC	187	Robot not connected, not possible to load program list.
+18:25:22	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:35:55	CYC	208	Selected program : 1. MS-0008 V1 |  | 
+18:35:56	CYC	201	Load confirmed.
+18:35:56	CYC	157	Plant not ready, select AUTO mode
+18:36:59	CYC	208	Selected program : 1. MS-0008 V1 |  | 
+18:36:59	CYC	164	Load can not start. Check error/emergency
+18:37:03	CYC	208	Selected program : 1. MS-0008 V1 |  | 
+18:37:34	CYC	173	
+18:37:39	CYC	173	
+18:38:20	CYC	173	
+18:45:02	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:52:54	CYC	187	Robot not connected, not possible to load program list.
+18:52:54	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:54:12	CYC	201	Load confirmed.

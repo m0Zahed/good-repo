@@ -1,0 +1,66 @@
+11:59:52	CYC	187	Robot not connected, not possible to load program list.
+12:45:14	CYC	186	Unload operation forced manually
+12:45:24	CYC	186	Unload operation forced manually
+12:45:25	Ax4	5018	Homing: Command start homing procedure                                         
+12:51:16	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+12:51:31	CYC	186	Unload operation forced manually
+12:51:32	Ax4	5018	Homing: Command start homing procedure                                         
+12:51:50	CYC	186	Unload operation forced manually
+12:51:52	Ax4	5018	Homing: Command start homing procedure                                         
+12:53:07	Ax4	1011	Quickstop input active                                                         
+13:01:56	CYC	187	Robot not connected, not possible to load program list.
+13:03:25	Ax4	1011	Quickstop input active                                                         
+13:06:06	CYC	187	Robot not connected, not possible to load program list.
+13:28:31	CYC	201	Load confirmed.
+13:28:31	CYC	157	Plant not ready, select AUTO mode
+13:28:54	CYC	187	Robot not connected, not possible to load program list.
+13:29:01	CYC	187	Robot not connected, not possible to load program list.
+13:29:10	CYC	187	Robot not connected, not possible to load program list.
+13:29:21	CYC	187	Robot not connected, not possible to load program list.
+13:29:22	CYC	187	Robot not connected, not possible to load program list.
+13:29:35	CYC	187	Robot not connected, not possible to load program list.
+13:29:35	CYC	187	Robot not connected, not possible to load program list.
+13:29:35	CYC	187	Robot not connected, not possible to load program list.
+13:29:35	CYC	187	Robot not connected, not possible to load program list.
+13:29:39	CYC	187	Robot not connected, not possible to load program list.
+13:29:39	CYC	187	Robot not connected, not possible to load program list.
+13:32:36	Ax4	1011	Quickstop input active                                                         
+13:33:35	CYC	200	Reset by Operator on VB
+13:35:43	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+13:50:26	Ax4	1011	Quickstop input active                                                         
+14:21:57	CYC	186	Unload operation forced manually
+14:38:54	Ax1	1011	Quickstop input active                                                         
+14:38:54	Ax2	1011	Quickstop input active                                                         
+15:00:24	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+15:00:25	CYC	201	Load confirmed.
+15:00:25	CYC	157	Plant not ready, select AUTO mode
+15:00:45	CYC	157	Plant not ready, select AUTO mode
+15:01:34	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+15:01:42	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+15:33:47	Ax4	1011	Quickstop input active                                                         
+15:44:50	CYC	186	Unload operation forced manually
+15:47:43	Ax1	1011	Quickstop input active                                                         
+15:47:43	Ax2	1011	Quickstop input active                                                         
+16:04:24	CYC	208	Selected program : BLACK_MIMOSA |  | 
+16:04:24	CYC	201	Load confirmed.
+16:10:55	CYC	208	Selected program : BLACK_MIMOSA |  | 
+16:38:00	Ax4	1011	Quickstop input active                                                         
+16:49:22	CYC	186	Unload operation forced manually
+17:47:00	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+17:47:00	CYC	201	Load confirmed.
+17:49:16	Ax4	1011	Quickstop input active                                                         
+18:34:13	Ax4	1011	Quickstop input active                                                         
+18:35:14	Ax4	4005	CTRL Controller: Command                                                       
+18:35:15	Ax4	1011	Quickstop input active                                                         
+18:35:28	Ax4	4005	CTRL Controller: Command                                                       
+18:35:34	Ax4	1011	Quickstop input active                                                         
+18:39:49	CYC	158	Sensor busy. Unload done failed
+18:50:31	CYC	158	Sensor busy. Unload done failed
+18:50:48	CYC	186	Unload operation forced manually
+18:53:01	Ax1	1011	Quickstop input active                                                         
+18:53:01	Ax2	1011	Quickstop input active                                                         
+18:54:43	CYC	208	Selected program : MIMOSA 14_03_25 |  | 
+19:07:41	CYC	186	Unload operation forced manually
+19:28:08	Ax1	1011	Quickstop input active                                                         
+19:28:08	Ax2	1011	Quickstop input active                                                         
+21:02:47	CYC	187	Robot not connected, not possible to load program list.

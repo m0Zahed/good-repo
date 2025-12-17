@@ -1,0 +1,56 @@
+00|Load Step [mm]|2450
+01|Load Speed|-50
+02|Load Acceleration|-120
+03|Load Bit/mm|-1.72
+04|Load Stop delay [mm]|0
+05|Oven Step [mm]|2455
+06|Oven Speed|-50
+07|Oven Acceleration|-120
+08|Oven Bit/mm|-1.72
+09|Oven Stop delay [mm]|0
+10|Paint Step [mm]|4500
+11|Paint Speed|-50
+12|Paint Acceleration|-120
+13|Paint Bit/mm|-1.72
+14|Paint Stop delay [mm]|15
+15|Unload Step [mm]|2455
+16|Unload Speed|-50
+17|Unload Acceleration|-120
+18|Unload Bit/mm|-1.72
+19|Unload Stop delay [mm]|0
+20|NC|0
+21|Slow down Step Oven[mm]|500
+22|Slow down Step Paint[mm]|500
+23|Slow down Step Unload[mm]|500
+24|Unload ST1 offset[mm]|0
+25|Unload ST2 offset[mm]|0
+26|Force Unload step[mm] |2800
+27|Slow down Velocity|-10
+28|Tapes zero pos. threshold [mm]|3
+29|Tape manual Velocity1 [mm/s]|-60
+30|Tape manual Acceleration [mm/s^2]|140
+31|Piece Lenght|2450
+32|Belt max error %|0
+33|Max unload position after photocell unload ST2[mm]|3200
+34|Double unload station|0
+35|Mute Siren|1
+36|Enable Door Oven|0
+37|Door Oven Timeout [s]|0
+38|Enable DoorIN|1
+39|DoorIN Timeout [s]|8
+40|Enable DoorOUT|1
+41|DoorOUT Timeout [s]|8
+42|NC|0
+43|Load cofirm delay [s]|1
+44|Unload cofirm delay [s]|1
+45|Timeout barrier|10
+46|Timeout Oven [min]|59
+47|Timeout Paint Booth [min]|5
+48|Enable Auto empty Oven|1
+49|Enable Auto empty Paint|1
+50|Enable IMA com error|1
+51|Robot1 Abilitato|1
+52|Robot2 Abilitato|0
+53|Enable remote program list|0
+54|Enable send stats to server|0
+Lng|ENG

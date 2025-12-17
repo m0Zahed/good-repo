@@ -1,0 +1,23 @@
+11:23:48	CYC	187	Robot not connected, not possible to load program list.
+11:23:49	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:48:46	CYC	187	Robot not connected, not possible to load program list.
+11:48:47	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:39:48	CYC	208	Selected program : SIRIUS V2 |  | 
+12:39:48	CYC	201	Load confirmed.
+13:17:50	CYC	208	Selected program : SIRIUS V2 |  | 
+13:17:50	CYC	201	Load confirmed.
+13:35:59	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+13:45:54	CYC	208	Selected program : SIRIUS V2 |  | 
+13:45:55	CYC	201	Load confirmed.
+14:56:01	CYC	173		Barriers must be reset
+14:56:19	CYC	208	Selected program : SIRIUS V2 |  | 
+14:56:21	CYC	201	Load confirmed.
+14:56:30	CYC	164	Load can not start. Check error/emergency
+15:35:50	Ax1	1011	Quickstop input active                                                         
+15:35:50	Ax2	1011	Quickstop input active                                                         
+15:39:46	Ax4	1011	Quickstop input active                                                         
+15:40:07	CYC	208	Selected program : SIRIUS V2 |  | 
+15:40:07	CYC	201	Load confirmed.
+15:59:31	CYC	208	Selected program : SIRIUS V2 |  | 
+15:59:31	CYC	201	Load confirmed.
+16:43:03	CYC	180	Spray booth auto-empty cancelled, unload station busy

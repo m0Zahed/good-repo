@@ -1,0 +1,45 @@
+11:08:47	CYC	187	Robot not connected, not possible to load program list.
+11:08:48	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:20:23	CYC	173		Barriers must be reset
+11:20:45	CYC	201	Load confirmed.
+11:57:51	CYC	167	Force unload piece selected
+12:17:15	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:17:15	CYC	201	Load confirmed.
+12:17:15	CYC	183	Wait timeout oven station
+12:18:56	CYC	164	Load can not start. Check error/emergency
+12:47:28	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:47:29	CYC	201	Load confirmed.
+13:18:59	Ax4	1011	Quickstop input active                                                         
+13:20:48	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:20:48	CYC	201	Load confirmed.
+14:32:01	CYC	167	Force unload piece selected
+14:32:15	Ax4	1011	Quickstop input active                                                         
+14:48:22	CYC	208	Selected program : 1. MS-0008 V1 |  | 
+14:48:22	CYC	201	Load confirmed.
+15:33:33	CYC	167	Force unload piece selected
+15:33:34	CYC	167	Force unload piece selected
+16:15:35	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:15:35	CYC	201	Load confirmed.
+16:34:53	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+16:34:54	CYC	201	Load confirmed.
+16:34:54	CYC	183	Wait timeout oven station
+16:35:46	CYC	183	Wait timeout oven station
+17:03:05	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+17:03:06	CYC	201	Load confirmed.
+17:03:06	CYC	183	Wait timeout oven station
+17:30:20	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+17:30:20	CYC	201	Load confirmed.
+18:04:57	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:04:57	CYC	201	Load confirmed.
+18:48:48	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:55:14	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+18:55:15	CYC	201	Load confirmed.
+19:11:40	CYC	201	Load confirmed.
+19:17:39	CYC	164	Load can not start. Check error/emergency
+19:50:09	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+19:50:10	CYC	201	Load confirmed.
+19:59:00	CYC	164	Load can not start. Check error/emergency
+20:12:12	CYC	208	Selected program : 1. MS-0008 V2 |  | 
+20:12:13	CYC	201	Load confirmed.
+20:51:09	CYC	167	Force unload piece selected
+20:51:24	Ax4	1011	Quickstop input active                                                         

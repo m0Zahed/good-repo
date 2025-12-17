@@ -1,0 +1,172 @@
+13:12:03	CYC	187	Robot non connesso. impossibile caricare lista programmi
+13:48:54	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:09:45	Ax4	1011	Quickstop input active                                                         
+14:15:19	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:15:20	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:15:20	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:22:10	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:22:10	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:22:13	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:22:15	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:22:15	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:24:53	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:24:53	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:24:53	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:24:53	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:24:54	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:28:06	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:40:35	CYC	187	Robot non connesso. impossibile caricare lista programmi
+14:42:01	CYC	186	Forzato scarico manualmente
+14:45:05	CYC	208	Selezionato programma : TEST_LACUS |  | 
+14:51:57	CYC	186	Forzato scarico manualmente
+14:52:33	CYC	208	Selezionato programma : TEST_LACUS |  | 
+14:52:33	CYC	201	Carico confermato.
+14:54:57	Ax4	1011	Quickstop input active                                                         
+14:58:23	CYC	208	Selezionato programma : TEST_LACUS |  | 
+14:58:23	CYC	201	Carico confermato.
+15:03:13	CYC	180	Autosvuotamento cabina spruzzatura annullato, presenza pezzo in stazione scarico
+15:03:36	CYC	186	Forzato scarico manualmente
+15:07:44	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:07:45	CYC	201	Carico confermato.
+15:08:17	CYC	164	Caricamento stoppato, controllare errori/emergenze
+15:08:18	Ax1	1011	Quickstop input active                                                         
+15:08:18	Ax2	1011	Quickstop input active                                                         
+15:08:29	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:08:29	CYC	201	Carico confermato.
+15:09:51	CYC	208	Selezionato programma : TEST_LACUS |  | 
+15:10:29	CYC	186	Forzato scarico manualmente
+15:11:03	CYC	186	Forzato scarico manualmente
+15:13:10	CYC	186	Forzato scarico manualmente
+17:13:26	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:13:26	CYC	201	Carico confermato.
+17:16:07	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:16:08	CYC	201	Carico confermato.
+17:16:43	CYC	20	Error nastro forno - superato massimo step
+17:16:43	CYC	21	Error nastro forno - superato massimo step 2
+17:19:31	Ax1	1011	Quickstop input active                                                         
+17:19:31	Ax2	1011	Quickstop input active                                                         
+17:28:21	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+17:29:27	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:29:27	CYC	201	Carico confermato.
+17:30:42	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:30:42	CYC	201	Carico confermato.
+17:30:42	CYC	182	Nastri in movimento per timeout forno o cabina spruzzatura
+17:31:03	CYC	20	Error nastro forno - superato massimo step
+17:31:03	CYC	21	Error nastro forno - superato massimo step 2
+17:36:48	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+17:41:49	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:41:49	CYC	201	Carico confermato.
+17:48:52	CYC	208	Selezionato programma : TEST_LACUS |  | 
+17:48:52	CYC	201	Carico confermato.
+17:49:26	CYC	184	Carter non aperti o ruotpaezzo alto
+17:52:16	CYC	184	Carter non aperti o ruotpaezzo alto
+17:53:09	CYC	162	Robot 1 non fuori ingombro
+17:53:20	CYC	5	Nastro forno - Superato max errore step
+17:53:20	CYC	5	Nastro forno - Superato max errore step
+17:53:21	CYC	6	Nastro verniciatura - Superato max errore step
+17:53:44	CYC	24	Error nastro scarico - superato massimo step
+18:55:04	CYC	166	Movimentazione catenarie manuale non possibile Selezionare modalità manuale e asse/i da muovere
+18:56:16	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+18:56:46	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+18:59:27	CYC	208	Selezionato programma : TEST_LACUS |  | 
+18:59:27	CYC	201	Carico confermato.
+19:00:58	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:00:59	CYC	201	Carico confermato.
+19:01:31	CYC	184	Carter non aperti o ruotpaezzo alto
+19:02:51	CYC	162	Robot 1 non fuori ingombro
+19:03:01	CYC	5	Nastro forno - Superato max errore step
+19:03:02	CYC	6	Nastro verniciatura - Superato max errore step
+19:03:25	CYC	24	Error nastro scarico - superato massimo step
+19:04:05	Ax2	1011	Quickstop input active                                                         
+19:09:12	CYC	165	Nastri stoppati pezzo in scarico ha superato posizione massima sicurezza
+19:12:47	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:12:47	CYC	201	Carico confermato.
+19:12:47	CYC	157	Impianto non pronto, selezionare AUTO mode
+19:13:01	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:13:11	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:13:11	CYC	201	Carico confermato.
+19:14:26	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:14:26	CYC	201	Carico confermato.
+19:17:23	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:17:24	CYC	201	Carico confermato.
+19:18:25	CYC	186	Forzato scarico manualmente
+19:18:54	CYC	186	Forzato scarico manualmente
+19:19:07	CYC	186	Forzato scarico manualmente
+19:20:23	Ax1	1011	Quickstop input active                                                         
+19:20:23	Ax2	1011	Quickstop input active                                                         
+19:21:35	CYC	186	Forzato scarico manualmente
+19:21:42	CYC	186	Forzato scarico manualmente
+19:29:50	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:31:34	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:31:35	CYC	201	Carico confermato.
+19:34:22	CYC	186	Forzato scarico manualmente
+19:36:24	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:37:33	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:37:33	CYC	201	Carico confermato.
+19:40:11	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+19:40:11	CYC	186	Forzato scarico manualmente
+19:43:12	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:43:12	CYC	201	Carico confermato.
+19:45:23	CYC	5	Nastro forno - Superato max errore step
+19:46:11	CYC	21	Error nastro forno - superato massimo step 2
+19:46:12	CYC	21	Error nastro forno - superato massimo step 2
+19:46:12	CYC	21	Error nastro forno - superato massimo step 2
+19:46:13	CYC	21	Error nastro forno - superato massimo step 2
+19:46:13	CYC	21	Error nastro forno - superato massimo step 2
+19:46:14	CYC	21	Error nastro forno - superato massimo step 2
+19:46:14	CYC	21	Error nastro forno - superato massimo step 2
+19:46:15	CYC	21	Error nastro forno - superato massimo step 2
+19:46:15	CYC	21	Error nastro forno - superato massimo step 2
+19:46:16	CYC	21	Error nastro forno - superato massimo step 2
+19:46:16	CYC	21	Error nastro forno - superato massimo step 2
+19:46:17	CYC	21	Error nastro forno - superato massimo step 2
+19:46:17	CYC	21	Error nastro forno - superato massimo step 2
+19:46:18	CYC	21	Error nastro forno - superato massimo step 2
+19:46:18	CYC	21	Error nastro forno - superato massimo step 2
+19:46:19	CYC	21	Error nastro forno - superato massimo step 2
+19:46:19	CYC	21	Error nastro forno - superato massimo step 2
+19:46:20	CYC	21	Error nastro forno - superato massimo step 2
+19:46:20	CYC	21	Error nastro forno - superato massimo step 2
+19:46:21	CYC	21	Error nastro forno - superato massimo step 2
+19:46:21	CYC	21	Error nastro forno - superato massimo step 2
+19:46:22	CYC	21	Error nastro forno - superato massimo step 2
+19:46:22	CYC	21	Error nastro forno - superato massimo step 2
+19:46:23	CYC	21	Error nastro forno - superato massimo step 2
+19:46:23	CYC	21	Error nastro forno - superato massimo step 2
+19:46:24	CYC	21	Error nastro forno - superato massimo step 2
+19:46:24	CYC	21	Error nastro forno - superato massimo step 2
+19:46:25	CYC	21	Error nastro forno - superato massimo step 2
+19:46:25	CYC	21	Error nastro forno - superato massimo step 2
+19:46:26	CYC	21	Error nastro forno - superato massimo step 2
+19:46:26	CYC	21	Error nastro forno - superato massimo step 2
+19:46:27	CYC	21	Error nastro forno - superato massimo step 2
+19:46:27	CYC	21	Error nastro forno - superato massimo step 2
+19:46:28	CYC	21	Error nastro forno - superato massimo step 2
+19:46:28	CYC	21	Error nastro forno - superato massimo step 2
+19:46:29	CYC	21	Error nastro forno - superato massimo step 2
+19:46:29	CYC	21	Error nastro forno - superato massimo step 2
+19:49:46	CYC	186	Forzato scarico manualmente
+19:51:10	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:52:24	CYC	208	Selezionato programma : TEST_LACUS |  | 
+19:52:24	CYC	201	Carico confermato.
+20:00:15	CYC	186	Forzato scarico manualmente
+20:01:33	Ax1	1011	Quickstop input active                                                         
+20:01:33	Ax2	1011	Quickstop input active                                                         
+20:02:22	CYC	186	Forzato scarico manualmente
+20:02:41	CYC	208	Selezionato programma : TEST_LACUS |  | 
+20:02:41	CYC	201	Carico confermato.
+20:05:23	CYC	208	Selezionato programma : TEST_LACUS |  | 
+20:05:24	CYC	201	Carico confermato.
+20:08:03	CYC	186	Forzato scarico manualmente
+20:12:13	CYC	186	Forzato scarico manualmente
+20:48:26	CYC	208	Selezionato programma : TEST_LACUS |  | 
+20:48:26	CYC	201	Carico confermato.
+21:07:28	CYC	186	Forzato scarico manualmente
+21:10:20	Ax1	1011	Quickstop input active                                                         
+21:10:20	Ax2	1011	Quickstop input active                                                         
+21:11:11	Ax1	1011	Quickstop input active                                                         
+21:11:11	Ax2	1011	Quickstop input active                                                         
+21:11:29	CYC	208	Selezionato programma : 13_03_25 |  | 
+21:33:12	CYC	186	Forzato scarico manualmente
+21:40:22	Ax1	1011	Quickstop input active                                                         
+21:40:22	Ax2	1011	Quickstop input active                                                         

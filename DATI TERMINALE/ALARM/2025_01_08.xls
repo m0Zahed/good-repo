@@ -1,0 +1,27 @@
+12:56:55	Ax1	1011	Quickstop input active                                                         
+12:56:55	Ax2	1011	Quickstop input active                                                         
+13:01:03	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+13:07:33	CYC	208	Selezionato programma : MIKY |  | 
+13:07:34	CYC	201	Carico confermato.
+13:07:34	CYC	152	Robot 1 non pronto. Start ciclo automatico
+13:17:28	CYC	208	Selezionato programma : MIKY |  | 
+13:40:31	CYC	208	Selezionato programma : RS_TEST |  | 
+13:51:19	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+13:53:28	CYC	208	Selezionato programma : RS_TEST |  | 
+13:53:28	CYC	201	Carico confermato.
+13:58:33	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+14:06:35	CYC	208	Selezionato programma : RS_TEST |  | 
+14:06:35	CYC	201	Carico confermato.
+14:06:35	CYC	157	Impianto non pronto, selezionare AUTO mode
+14:06:48	CYC	208	Selezionato programma : RS_TEST |  | 
+14:06:57	CYC	208	Selezionato programma : RS_TEST |  | 
+14:06:57	CYC	201	Carico confermato.
+14:08:02	CYC	166	Movimentazione catenarie manuale non possibile Selezionare modalità manuale e asse/i da muovere
+14:08:55	CYC	208	Selezionato programma : RS_TEST |  | 
+16:00:32	CYC	208	Selezionato programma : RS_TEST |  | 
+16:00:32	CYC	201	Carico confermato.
+16:06:20	CYC	167	Impossibile aprire porte. Selezionare modalità manuale.
+16:33:40	Ax4	1011	Quickstop input active                                                         
+16:47:22	CYC	166	Movimentazione catenarie manuale non possibile Selezionare modalità manuale e asse/i da muovere
+16:48:45	CYC	208	Selezionato programma : RS_TEST |  | 
+16:52:33	Ax4	1011	Quickstop input active                                                         

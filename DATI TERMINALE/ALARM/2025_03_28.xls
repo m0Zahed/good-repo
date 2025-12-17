@@ -1,0 +1,62 @@
+11:44:11	CYC	187	Robot not connected, not possible to load program list.
+11:57:50	CYC	187	Robot not connected, not possible to load program list.
+11:57:50	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:36:52	Ax1	4005	CTRL Controller: Command                                                       
+13:36:52	Ax2	4005	CTRL Controller: Command                                                       
+13:36:52	Ax3	4005	CTRL Controller: Command                                                       
+13:36:52	Ax4	4005	CTRL Controller: Command                                                       
+13:57:23	Ax1	1011	Quickstop input active                                                         
+13:57:23	Ax2	1011	Quickstop input active                                                         
+13:57:23	Ax3	1011	Quickstop input active                                                         
+13:57:23	Ax4	1011	Quickstop input active                                                         
+13:58:06	CYC	187	Robot not connected, not possible to load program list.
+13:58:12	CYC	187	Robot not connected, not possible to load program list.
+14:01:51	CYC	187	Robot not connected, not possible to load program list.
+14:01:59	CYC	187	Robot not connected, not possible to load program list.
+14:02:20	CYC	187	Robot not connected, not possible to load program list.
+14:04:33	CYC	187	Robot not connected, not possible to load program list.
+14:04:34	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:06:13	CYC	208	Selected program : SIRIUS VER.1 |  | 
+14:06:13	CYC	201	Load confirmed.
+14:09:33	CYC	186	Unload operation forced manually
+14:22:59	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+14:23:08	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+15:01:22	Ax4	1011	Quickstop input active                                                         
+15:07:10	Ax1	1011	Quickstop input active                                                         
+15:07:10	Ax2	1011	Quickstop input active                                                         
+15:10:45	Ax4	4005	CTRL Controller: Command                                                       
+15:10:58	CYC	186	Unload operation forced manually
+15:11:18	CYC	186	Unload operation forced manually
+15:11:22	CYC	2	Painting zone - Time Out IN Door
+15:11:58	CYC	186	Unload operation forced manually
+15:12:28	Ax4	1011	Quickstop input active                                                         
+15:12:54	Ax4	1011	Quickstop input active                                                         
+15:13:35	CYC	173	
+15:13:40	Ax4	1011	Quickstop input active                                                         
+15:18:06	CYC	173	
+15:37:46	Ax4	1011	Quickstop input active                                                         
+15:40:04	Ax4	1011	Quickstop input active                                                         
+15:43:28	CYC	200	Reset by Operator on VB
+15:44:32	Ax4	1011	Quickstop input active                                                         
+15:48:31	Ax1	1011	Quickstop input active                                                         
+15:49:46	Ax4	1011	Quickstop input active                                                         
+15:54:38	CYC	173	
+15:54:39	Ax4	4005	CTRL Controller: Command                                                       
+15:54:43	Ax4	1011	Quickstop input active                                                         
+15:55:13	CYC	167	Not possible to open door. Please select terminal manual mode and switch off motor.
+15:57:16	Ax4	1011	Quickstop input active                                                         
+15:57:39	Ax1	1011	Quickstop input active                                                         
+16:49:15	CYC	208	Selected program : SIRIUS VER.1 |  | 
+16:49:16	CYC	201	Load confirmed.
+16:49:55	CYC	186	Unload operation forced manually
+16:51:31	CYC	186	Unload operation forced manually
+17:00:12	CYC	186	Unload operation forced manually
+17:46:50	Ax1	1011	Quickstop input active                                                         
+17:46:50	Ax2	1011	Quickstop input active                                                         
+18:24:50	CYC	2	Painting zone - Time Out IN Door
+18:33:01	Ax4	1011	Quickstop input active                                                         
+20:09:26	CYC	186	Unload operation forced manually
+20:09:59	CYC	200	Reset by Operator on VB
+20:12:14	CYC	187	Robot not connected, not possible to load program list.
+20:12:15	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:15:18	CYC	165	Belts stopped. Piece in unload station has overcome maximum safe position.

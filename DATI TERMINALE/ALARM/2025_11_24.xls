@@ -1,0 +1,77 @@
+12:40:39	CYC	187	Robot not connected, not possible to load program list.
+12:40:40	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:47:02	CYC	201	Load confirmed.
+13:14:37	CYC	201	Load confirmed.
+13:31:16	CYC	173	
+13:31:32	CYC	200	Reset by Operator on VB
+13:40:04	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:40:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+13:41:54	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+13:42:12	CYC	173	
+13:42:48	CYC	200	Reset by Operator on VB
+13:43:15	Ax4	4005	CTRL Controller: Command                                                       
+13:43:26	CYC	200	Reset by Operator on VB
+13:43:27	Ax4	1011	Quickstop input active                                                         
+13:43:28	Ax4	4005	CTRL Controller: Command                                                       
+13:44:00	Ax4	1011	Quickstop input active                                                         
+13:55:27	Ax1	1011	Quickstop input active                                                         
+13:55:49	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+13:55:50	CYC	201	Load confirmed.
+14:02:21	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+14:02:24	CYC	164	Load can not start. Check error/emergency
+14:02:24	Ax2	1011	Quickstop input active                                                         
+14:02:25	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+14:02:25	CYC	201	Load confirmed.
+14:02:29	CYC	164	Load can not start. Check error/emergency
+14:02:57	CYC	208	Selected program : 1. MS-0010 V.1 |  | 
+14:02:57	CYC	201	Load confirmed.
+14:03:59	CYC	187	Robot not connected, not possible to load program list.
+14:03:59	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:07:38	Ax4	1011	Quickstop input active                                                         
+14:19:00	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+14:20:58	CYC	201	Load confirmed.
+14:21:12	CYC	161	Unload not confirmed or station busy
+14:22:31	CYC	201	Load confirmed.
+14:51:39	CYC	201	Load confirmed.
+15:06:49	CYC	167	Force unload piece selected
+15:41:33	CYC	201	Load confirmed.
+16:24:25	CYC	201	Load confirmed.
+16:24:42	CYC	164	Load can not start. Check error/emergency
+16:24:42	CYC	21	Oven belt - Step exceeded 2
+16:25:22	CYC	201	Load confirmed.
+16:54:16	CYC	201	Load confirmed.
+16:54:20	CYC	164	Load can not start. Check error/emergency
+16:55:14	CYC	201	Load confirmed.
+16:55:20	CYC	164	Load can not start. Check error/emergency
+17:10:43	CYC	173		Barriers must be reset
+17:11:10	CYC	200	Reset by Operator on VB
+17:26:34	CYC	201	Load confirmed.
+17:56:04	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:31:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:31:59	Ax4	1011	Quickstop input active                                                         
+18:32:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:32:20	CYC	173		Barriers must be reset
+18:32:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:32:23	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:32:55	CYC	200	Reset by Operator on VB
+18:33:49	Ax4	1011	Quickstop input active                                                         
+18:40:04	CYC	201	Load confirmed.
+18:44:03	CYC	201	Load confirmed.
+19:15:26	CYC	173		Barriers must be reset
+19:15:52	CYC	201	Load confirmed.
+19:23:19	CYC	164	Load can not start. Check error/emergency
+19:33:47	CYC	200	Reset by Operator on VB
+19:40:56	CYC	201	Load confirmed.
+19:41:46	CYC	201	Load confirmed.
+19:42:21	CYC	200	Reset by Operator on VB
+19:42:37	CYC	201	Load confirmed.
+19:42:51	CYC	164	Load can not start. Check error/emergency
+20:11:07	CYC	201	Load confirmed.
+20:11:09	CYC	201	Load confirmed.
+20:32:13	CYC	180	Spray booth auto-empty cancelled, unload station busy
+21:02:44	Ax4	1011	Quickstop input active                                                         
+21:02:45	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:02:59	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:03:02	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+21:04:52	CYC	201	Load confirmed.
+21:27:16	Ax4	1011	Quickstop input active                                                         

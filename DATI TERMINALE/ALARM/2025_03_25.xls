@@ -1,0 +1,45 @@
+11:57:20	CYC	187	Robot not connected, not possible to load program list.
+13:36:33	CYC	208	Selected program : SIRIUS BLACK VER.2 |  | 
+13:36:34	CYC	201	Load confirmed.
+13:39:13	Ax4	1011	Quickstop input active                                                         
+13:55:15	CYC	186	Unload operation forced manually
+15:25:20	Ax1	1011	Quickstop input active                                                         
+15:25:20	Ax2	1011	Quickstop input active                                                         
+15:48:57	CYC	186	Unload operation forced manually
+15:49:04	CYC	186	Unload operation forced manually
+15:49:05	Ax4	5018	Homing: Command start homing procedure                                         
+16:02:06	Ax4	1011	Quickstop input active                                                         
+16:06:40	CYC	208	Selected program : SIRIUS BLACK VER.2 |  | 
+16:06:40	CYC	201	Load confirmed.
+16:06:53	CYC	208	Selected program : SIRIUS BLACK VER.2 |  | 
+16:07:07	CYC	201	Load confirmed.
+16:07:07	CYC	157	Plant not ready, select AUTO mode
+16:07:10	CYC	157	Plant not ready, select AUTO mode
+16:07:13	CYC	157	Plant not ready, select AUTO mode
+16:10:21	CYC	187	Robot not connected, not possible to load program list.
+16:10:49	CYC	187	Robot not connected, not possible to load program list.
+16:10:50	CYC	187	Robot not connected, not possible to load program list.
+16:10:57	CYC	187	Robot not connected, not possible to load program list.
+16:10:58	CYC	187	Robot not connected, not possible to load program list.
+16:11:00	CYC	187	Robot not connected, not possible to load program list.
+16:11:01	CYC	187	Robot not connected, not possible to load program list.
+16:11:24	CYC	187	Robot not connected, not possible to load program list.
+16:11:31	CYC	187	Robot not connected, not possible to load program list.
+16:11:31	CYC	187	Robot not connected, not possible to load program list.
+16:11:51	CYC	187	Robot not connected, not possible to load program list.
+16:12:07	CYC	187	Robot not connected, not possible to load program list.
+16:16:06	CYC	208	Selected program : SIRIUS BLACK VER.2 |  | 
+16:16:07	CYC	201	Load confirmed.
+16:39:06	Ax4	1011	Quickstop input active                                                         
+17:58:50	Ax1	1011	Quickstop input active                                                         
+17:58:50	Ax2	1011	Quickstop input active                                                         
+17:59:43	CYC	208	Selected program : SIRIUS BLACK VER.2 |  | 
+17:59:43	CYC	201	Load confirmed.
+18:10:10	Ax4	1011	Quickstop input active                                                         
+19:43:27	CYC	186	Unload operation forced manually
+19:45:00	CYC	186	Unload operation forced manually
+19:45:12	Ax4	1011	Quickstop input active                                                         
+19:45:52	CYC	186	Unload operation forced manually
+20:18:18	CYC	208	Selected program : SIRIUS FLANGE |  | 
+20:18:18	CYC	201	Load confirmed.
+20:41:07	CYC	186	Unload operation forced manually

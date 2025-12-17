@@ -1,0 +1,24 @@
+19:52:16	CYC	187	Robot not connected, not possible to load program list.
+19:52:17	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+19:54:09	CYC	200	Reset by Operator on VB
+19:54:15	CYC	200	Reset by Operator on VB
+19:54:29	CYC	200	Reset by Operator on VB
+19:59:46	CYC	6	Paint belt - Max error (&) step exceeded
+19:59:49	CYC	20	Oven belt - Step exceeded
+19:59:49	CYC	21	Oven belt - Step exceeded 2
+20:00:23	CYC	200	Reset by Operator on VB
+20:01:33	Ax1	1011	Quickstop input active                                                         
+20:01:33	Ax2	1011	Quickstop input active                                                         
+20:04:55	CYC	187	Robot not connected, not possible to load program list.
+20:04:56	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:06:31	Ax1	4005	CTRL Controller: Command                                                       
+20:06:31	Ax2	4005	CTRL Controller: Command                                                       
+20:07:00	Ax1	1011	Quickstop input active                                                         
+20:07:00	Ax2	1011	Quickstop input active                                                         
+20:17:55	CYC	208	Selected program : 1. MS-0007 V.2 |  | 
+20:17:55	CYC	201	Load confirmed.
+20:27:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:54:58	CYC	187	Robot not connected, not possible to load program list.
+20:54:59	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+20:57:36	CYC	187	Robot not connected, not possible to load program list.
+20:57:37	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

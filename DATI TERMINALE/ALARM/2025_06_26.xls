@@ -1,0 +1,55 @@
+12:19:21	CYC	187	Robot not connected, not possible to load program list.
+12:19:22	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:31:05	CYC	208	Selected program : 1. MS-0003 |  | 
+12:31:09	CYC	208	Selected program : 1. MS-0003 |  | 
+12:32:02	CYC	208	Selected program : 1. MS-0003 |  | 
+12:32:03	CYC	201	Load confirmed.
+12:56:21	CYC	208	Selected program : 1. MS-0003 |  | 
+12:56:23	CYC	201	Load confirmed.
+13:28:43	CYC	208	Selected program : 1. MS-0003 |  | 
+13:28:46	CYC	201	Load confirmed.
+14:04:31	CYC	208	Selected program : 1. MS-0003 |  | 
+14:04:33	CYC	201	Load confirmed.
+15:02:24	CYC	6	Paint belt - Max error (&) step exceeded
+15:02:28	CYC	20	Oven belt - Step exceeded
+15:02:29	CYC	21	Oven belt - Step exceeded 2
+15:05:11	CYC	208	Selected program : 1. MS-0003 |  | 
+15:05:12	CYC	201	Load confirmed.
+15:05:32	CYC	21	Oven belt - Step exceeded 2
+15:06:09	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+15:09:14	Ax4	1011	Quickstop input active                                                         
+15:09:40	Ax4	1011	Quickstop input active                                                         
+15:12:23	Ax1	1011	Quickstop input active                                                         
+15:34:47	CYC	208	Selected program : 1. MS-0003 |  | 
+15:34:48	CYC	201	Load confirmed.
+15:36:09	CYC	167	Force unload piece selected
+15:36:46	CYC	167	Force unload piece selected
+15:36:55	CYC	167	Force unload piece selected
+15:37:13	CYC	167	Force unload piece selected
+15:38:16	CYC	167	Force unload piece selected
+15:38:51	CYC	167	Force unload piece selected
+15:39:06	CYC	167	Force unload piece selected
+15:39:53	CYC	167	Force unload piece selected
+15:40:14	CYC	167	Force unload piece selected
+15:41:18	CYC	167	Force unload piece selected
+15:41:40	CYC	167	Force unload piece selected
+15:42:30	CYC	158	Sensor busy. Unload done failed
+15:43:05	CYC	167	Force unload piece selected
+16:04:41	CYC	208	Selected program : 1. MS-0003 |  | 
+16:04:42	CYC	201	Load confirmed.
+16:33:58	Ax4	1011	Quickstop input active                                                         
+16:34:11	CYC	167	Force unload piece selected
+16:34:36	CYC	22	Paint belt - Step exceeded
+16:34:36	CYC	22	Paint belt - Step exceeded
+16:34:49	CYC	167	Force unload piece selected
+16:35:04	CYC	200	Reset by Operator on VB
+16:52:11	CYC	208	Selected program : 1. MS-0003 |  | 
+16:52:12	CYC	201	Load confirmed.
+17:44:49	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+17:47:28	CYC	208	Selected program : 1. MS-0003 |  | 
+17:47:29	CYC	201	Load confirmed.
+18:28:26	CYC	208	Selected program : 1. MS-0003 V2 |  | 
+18:28:28	CYC	201	Load confirmed.
+18:56:42	Ax4	1011	Quickstop input active                                                         
+19:25:54	CYC	208	Selected program : 1. MS-0003 V2 |  | 
+19:25:54	CYC	201	Load confirmed.

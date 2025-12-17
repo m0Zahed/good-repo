@@ -1,0 +1,38 @@
+11:56:50	CYC	187	Robot not connected, not possible to load program list.
+11:56:51	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:34:25	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+12:34:25	CYC	201	Load confirmed.
+13:09:14	CYC	200	Reset by Operator on VB
+13:09:24	CYC	200	Reset by Operator on VB
+13:09:37	CYC	200	Reset by Operator on VB
+13:09:43	CYC	200	Reset by Operator on VB
+13:09:52	CYC	200	Reset by Operator on VB
+13:32:39	CYC	187	Robot not connected, not possible to load program list.
+13:32:40	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:41:43	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:45:08	CYC	187	Robot not connected, not possible to load program list.
+13:45:09	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+13:46:11	CYC	167	Force unload piece selected
+13:59:01	CYC	159	The list is not empty. Piece not in position
+13:59:20	CYC	159	The list is not empty. Piece not in position
+13:59:21	CYC	159	The list is not empty. Piece not in position
+13:59:43	CYC	159	The list is not empty. Piece not in position
+13:59:45	CYC	159	The list is not empty. Piece not in position
+13:59:45	CYC	159	The list is not empty. Piece not in position
+14:01:44	CYC	187	Robot not connected, not possible to load program list.
+14:01:44	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:26:42	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:26:43	CYC	201	Load confirmed.
+14:46:51	Ax4	1011	Quickstop input active                                                         
+14:53:26	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+14:53:27	CYC	201	Load confirmed.
+15:23:44	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:23:45	CYC	201	Load confirmed.
+15:51:47	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+15:51:47	CYC	201	Load confirmed.
+16:09:14	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:09:15	CYC	201	Load confirmed.
+16:37:20	Ax4	1011	Quickstop input active                                                         
+16:37:30	CYC	167	Force unload piece selected
+17:45:12	CYC	187	Robot not connected, not possible to load program list.
+17:45:13	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

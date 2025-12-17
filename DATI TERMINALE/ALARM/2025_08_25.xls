@@ -1,0 +1,51 @@
+12:38:20	CYC	187	Robot not connected, not possible to load program list.
+12:38:21	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+14:15:36	CYC	208	Selected program : 1. MS-0008 ACRY |  | 
+14:15:36	CYC	201	Load confirmed.
+14:44:19	CYC	208	Selected program : 1. MS-0008 ACRY |  | 
+14:44:19	CYC	201	Load confirmed.
+14:59:00	CYC	201	Load confirmed.
+15:14:58	Ax4	1011	Quickstop input active                                                         
+15:14:58	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:15:04	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:39:45	CYC	208	Selected program : 1. MS-0008 ACRY |  | 
+15:39:46	CYC	201	Load confirmed.
+16:04:20	CYC	208	Selected program : 1. MS-0008 ACRY |  | 
+16:04:21	CYC	201	Load confirmed.
+16:11:45	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:12:52	Ax4	1011	Quickstop input active                                                         
+16:12:59	CYC	173		Barriers must be reset
+16:12:59	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:13:21	CYC	180	Spray booth auto-empty cancelled, unload station busy
+16:13:31	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+16:14:56	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:14:56	CYC	201	Load confirmed.
+16:41:41	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+16:41:41	CYC	201	Load confirmed.
+16:49:37	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:11:29	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:16:34	Ax1	1011	Quickstop input active                                                         
+18:16:34	Ax2	1011	Quickstop input active                                                         
+18:19:43	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:19:43	CYC	201	Load confirmed.
+18:19:44	CYC	164	Load can not start. Check error/emergency
+18:19:58	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:19:59	CYC	201	Load confirmed.
+18:32:29	Ax4	1011	Quickstop input active                                                         
+18:35:40	CYC	180	Spray booth auto-empty cancelled, unload station busy
+18:39:20	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+18:39:53	Ax4	1011	Quickstop input active                                                         
+18:42:39	CYC	200	Reset by Operator on VB
+18:43:03	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:43:03	CYC	201	Load confirmed.
+18:43:47	Ax3	5018	Homing: Command start homing procedure                                         
+18:44:30	CYC	167	Force unload piece selected
+18:46:01	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+18:46:02	CYC	201	Load confirmed.
+19:12:57	CYC	180	Spray booth auto-empty cancelled, unload station busy
+19:53:20	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+19:54:21	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+19:54:21	CYC	201	Load confirmed.
+20:19:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+20:22:17	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:48:10	CYC	180	Spray booth auto-empty cancelled, unload station busy

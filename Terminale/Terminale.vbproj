@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{F63EE824-DD3B-4CC6-91F5-ABFA608E46A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>Terminale</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Terminale.ico</ApplicationIcon>
+    <StartupObject>Terminale.My.MyApplication</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BR.AN.PVIServices">
+      <HintPath>..\..\New folder\CMA\Release\BR.AN.PVIServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormPrincipale.Designer.vb">
+      <DependentUpon>FormPrincipale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCodeList.Designer.vb">
+      <DependentUpon>frmCodeList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCodeList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditCode.Designer.vb">
+      <DependentUpon>frmEditCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmList.Designer.vb">
+      <DependentUpon>frmList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrograms.Designer.vb">
+      <DependentUpon>FrmPrograms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrograms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTouchKey.Designer.vb">
+      <DependentUpon>frmTouchKey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTouchKey.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTouchNum.Designer.vb">
+      <DependentUpon>frmTouchNum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTouchNum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My\MyApplication.vb" />
+    <Compile Include="My\MyComputer.vb" />
+    <Compile Include="My\MyProject.vb" />
+    <Compile Include="My\MySettings.Designer.vb">
+      <DependentUpon>MySettings.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="My\MySettingsProperty.vb" />
+    <Compile Include="My\Resources\Resources.vb" />
+    <Compile Include="Path.vb" />
+    <Compile Include="PosPiano.vb" />
+    <Compile Include="ucTouchKey.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTouchNum.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormPrincipale.resources">
+      <LogicalName>Terminale.FormPrincipale.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCodeList.resources">
+      <LogicalName>Terminale.frmCodeList.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditCode.resources">
+      <LogicalName>Terminale.frmEditCode.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmList.resources">
+      <LogicalName>Terminale.frmList.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrograms.resources">
+      <LogicalName>Terminale.FrmPrograms.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTouchKey.resources">
+      <LogicalName>Terminale.frmTouchKey.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTouchNum.resources">
+      <LogicalName>Terminale.frmTouchNum.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resources">
+      <LogicalName>Terminale.Resources.resources</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+    <None Include="init.ini" />
+    <None Include="My\MySettings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>MySettings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

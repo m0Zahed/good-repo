@@ -1,0 +1,35 @@
+12:00:32	CYC	187	Robot not connected, not possible to load program list.
+12:00:33	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:08:54	CYC	173		Barriers must be reset
+12:13:05	CYC	201	Load confirmed.
+12:30:57	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+12:30:57	CYC	201	Load confirmed.
+12:30:57	CYC	183	Wait timeout oven station
+12:32:33	CYC	164	Load can not start. Check error/emergency
+12:55:40	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+12:55:40	CYC	201	Load confirmed.
+12:58:26	CYC	167	Force unload piece selected
+13:18:22	CYC	208	Selected program : 1. MS-0006 V1 |  | 
+13:18:22	CYC	201	Load confirmed.
+13:21:29	Ax4	1011	Quickstop input active                                                         
+13:41:12	CYC	208	Selected program : 1. MS-0003 |  | 
+13:41:12	CYC	201	Load confirmed.
+13:43:21	CYC	164	Load can not start. Check error/emergency
+14:32:26	CYC	180	Spray booth auto-empty cancelled, unload station busy
+14:32:39	CYC	158	Sensor busy. Unload done failed
+14:32:43	Ax4	1011	Quickstop input active                                                         
+15:20:40	CYC	208	Selected program : 1. MS-0003 |  | 
+15:20:41	CYC	201	Load confirmed.
+15:21:00	CYC	21	Oven belt - Step exceeded 2
+15:21:45	CYC	200	Reset by Operator on VB
+15:22:00	Ax4	1011	Quickstop input active                                                         
+15:54:56	Ax1	1011	Quickstop input active                                                         
+15:55:22	CYC	208	Selected program : 1. MS-0003 |  | 
+15:55:23	CYC	201	Load confirmed.
+15:56:12	CYC	208	Selected program : 1. MS-0003 |  | 
+15:56:40	CYC	200	Reset by Operator on VB
+15:56:40	CYC	201	Load confirmed.
+15:57:06	CYC	208	Selected program : 1. MS-0003 |  | 
+15:57:06	CYC	201	Load confirmed.
+15:59:55	Ax4	1011	Quickstop input active                                                         
+16:48:35	Ax4	1011	Quickstop input active                                                         

@@ -1,0 +1,67 @@
+11:49:03	CYC	187	Robot not connected, not possible to load program list.
+11:49:04	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+11:52:00	CYC	201	Load confirmed.
+11:54:24	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+11:54:24	CYC	201	Load confirmed.
+12:03:54	CYC	201	Load confirmed.
+12:08:49	CYC	200	Reset by Operator on VB
+12:18:37	CYC	201	Load confirmed.
+12:43:56	CYC	201	Load confirmed.
+12:45:13	CYC	173	
+12:58:38	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+12:58:38	CYC	201	Load confirmed.
+13:15:34	Ax1	1011	Quickstop input active                                                         
+13:15:34	Ax2	1011	Quickstop input active                                                         
+13:15:44	Ax2	1011	Quickstop input active                                                         
+13:17:39	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+13:17:47	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+13:21:30	Ax1	1011	Quickstop input active                                                         
+13:23:38	Ax4	1011	Quickstop input active                                                         
+13:23:53	CYC	167	Force unload piece selected
+13:24:02	Ax4	1011	Quickstop input active                                                         
+13:48:52	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+13:48:52	CYC	201	Load confirmed.
+14:36:56	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+14:36:57	CYC	201	Load confirmed.
+14:52:10	CYC	173	
+15:05:20	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+15:05:20	CYC	201	Load confirmed.
+15:07:17	CYC	180	Spray booth auto-empty cancelled, unload station busy
+15:09:24	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:09:31	Ax4	1011	Quickstop input active                                                         
+15:09:31	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:09:40	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:09:46	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+15:10:10	CYC	201	Load confirmed.
+15:38:43	CYC	167	Force unload piece selected
+15:40:47	CYC	208	Selected program : 1. MS-0004 V1 |  | 
+15:40:47	CYC	201	Load confirmed.
+15:44:38	Ax1	1011	Quickstop input active                                                         
+16:13:27	Ax4	1011	Quickstop input active                                                         
+16:13:44	CYC	201	Load confirmed.
+16:37:13	CYC	201	Load confirmed.
+16:44:47	CYC	201	Load confirmed.
+17:15:19	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:15:21	CYC	201	Load confirmed.
+17:15:35	Ax4	1011	Quickstop input active                                                         
+17:15:37	CYC	5	Oven belt - Max error (&) step exceeded
+17:15:38	CYC	5	Oven belt - Max error (&) step exceeded
+17:15:41	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:15:44	CYC	180	Spray booth auto-empty cancelled, unload station busy
+17:16:00	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+17:16:54	CYC	200	Reset by Operator on VB
+17:17:23	Ax4	1011	Quickstop input active                                                         
+17:18:14	CYC	3	Painting zone - Time Out OUT Door
+17:18:24	Ax4	1011	Quickstop input active                                                         
+17:20:59	Ax1	1011	Quickstop input active                                                         
+17:20:59	Ax2	1011	Quickstop input active                                                         
+17:23:51	CYC	187	Robot not connected, not possible to load program list.
+17:23:52	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+18:35:07	CYC	187	Robot not connected, not possible to load program list.
+18:35:08	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+19:11:53	CYC	201	Load confirmed.
+19:11:53	CYC	157	Plant not ready, select AUTO mode
+19:13:50	CYC	157	Plant not ready, select AUTO mode
+19:29:26	CYC	201	Load confirmed.
+19:53:10	CYC	187	Robot not connected, not possible to load program list.
+19:53:11	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 

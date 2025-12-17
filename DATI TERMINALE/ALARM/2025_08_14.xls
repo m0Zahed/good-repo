@@ -1,0 +1,41 @@
+11:58:57	CYC	187	Robot not connected, not possible to load program list.
+11:58:58	CYC	100	var_connect : Variable error : cmd_Oven_auto_step , Identification error 
+12:21:23	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:21:23	CYC	201	Load confirmed.
+12:28:17	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:28:17	CYC	201	Load confirmed.
+12:38:28	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+12:38:29	CYC	201	Load confirmed.
+12:59:51	CYC	22	Paint belt - Step exceeded
+12:59:51	CYC	22	Paint belt - Step exceeded
+12:59:51	CYC	22	Paint belt - Step exceeded
+12:59:51	CYC	22	Paint belt - Step exceeded
+13:04:18	Ax4	1011	Quickstop input active                                                         
+13:12:13	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:12:14	CYC	201	Load confirmed.
+13:24:29	CYC	22	Paint belt - Step exceeded
+13:24:29	CYC	22	Paint belt - Step exceeded
+13:26:37	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:28:35	Ax4	1011	Quickstop input active                                                         
+13:32:32	CYC	208	Selected program : 1. MS-0009 V2 |  | 
+13:32:33	CYC	201	Load confirmed.
+13:56:09	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+13:56:09	CYC	201	Load confirmed.
+14:06:13	CYC	201	Load confirmed.
+14:39:03	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+14:39:04	CYC	201	Load confirmed.
+16:31:22	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+16:31:23	CYC	201	Load confirmed.
+17:17:17	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+17:17:17	CYC	201	Load confirmed.
+17:57:09	Ax4	1011	Quickstop input active                                                         
+18:24:32	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+18:24:33	CYC	201	Load confirmed.
+19:04:54	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+19:04:54	CYC	201	Load confirmed.
+19:55:49	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+19:55:49	CYC	201	Load confirmed.
+20:38:33	CYC	208	Selected program : 1. MS-0003 V4 |  | 
+20:38:34	CYC	201	Load confirmed.
+21:21:57	CYC	180	Spray booth auto-empty cancelled, unload station busy
+21:22:11	CYC	181	Spray booth auto-empty cancelled, tapes not ready

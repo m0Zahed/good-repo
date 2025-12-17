@@ -1,0 +1,416 @@
+11:56:06	CYC	187	Robot not connected, not possible to load program list.
+13:27:25	CYC	208	Selected program : MNTNCE_POS |  | 
+13:27:36	Ax1	1011	Quickstop input active                                                         
+13:27:36	Ax2	1011	Quickstop input active                                                         
+13:34:43	Ax4	1011	Quickstop input active                                                         
+13:35:48	CYC	208	Selected program : MNTNCE_POS |  | 
+13:35:49	CYC	201	Load confirmed.
+13:35:49	CYC	157	Plant not ready, select AUTO mode
+13:35:59	CYC	157	Plant not ready, select AUTO mode
+13:36:14	CYC	208	Selected program : MNTNCE_POS |  | 
+13:36:47	CYC	208	Selected program : SIRIUS |  | 
+14:32:59	CYC	186	Unload operation forced manually
+15:22:46	Ax1	1011	Quickstop input active                                                         
+15:22:46	Ax2	1011	Quickstop input active                                                         
+15:36:24	CYC	208	Selected program : SIRIUS |  | 
+15:36:24	CYC	201	Load confirmed.
+15:40:07	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+15:40:07	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+15:50:26	Ax4	1011	Quickstop input active                                                         
+15:50:26	Ax4	1011	Quickstop input active                                                         
+15:50:53	Ax4	5005	Basis movements: Start movement in negative direction                          
+15:50:53	Ax4	5005	Basis movements: Start movement in negative direction                          
+15:51:27	CYC	22	Paint belt - Step exceeded
+15:51:27	CYC	22	Paint belt - Step exceeded
+15:51:27	CYC	22	Paint belt - Step exceeded
+15:51:27	CYC	22	Paint belt - Step exceeded
+15:53:16	CYC	186	Unload operation forced manually
+15:53:16	CYC	186	Unload operation forced manually
+15:55:08	Ax1	1011	Quickstop input active                                                         
+15:55:08	Ax2	1011	Quickstop input active                                                         
+15:55:08	Ax1	1011	Quickstop input active                                                         
+15:55:08	Ax2	1011	Quickstop input active                                                         
+15:56:40	CYC	208	Selected program : TEST_MIKY |  | 
+15:58:28	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : stato_ciclica , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_R1_in , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_R2_in , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_IN_vb , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : IMA_OUT_vb , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : vis_error_list , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : vis_error , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : axis_status , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : man_ax , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : reset_auto , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : cmd_master , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : MainStepDone , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+15:58:28	CYC	100	var_connect : Variable error : par_VB , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : presence , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : debug_var , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : ax_status , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : DIn , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : DOut , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : FDout , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : force_out , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : abs_enc , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorIN , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : cmd_TogglePaintDoorOUT , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : Prog_Code , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : Terminal_ErrCode , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : LoadTape , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : OvenTape , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : PaintTape , No connection available to the PLC 
+15:58:29	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : UnloadTape , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : reset_error_vb , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : waiting_resume , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : clk_oven , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : clk_paint , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : DI_Force_Unload , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+15:58:30	CYC	100	var_connect : Variable error : flag_force_unload , No connection available to the PLC 
+16:01:08	Ax4	1011	Quickstop input active                                                         
+16:01:08	Ax4	1011	Quickstop input active                                                         
+16:07:15	Ax4	1011	Quickstop input active                                                         
+16:07:15	Ax4	1011	Quickstop input active                                                         
+16:16:13	Ax4	5005	Basis movements: Start movement in negative direction                          
+16:16:13	Ax4	5005	Basis movements: Start movement in negative direction                          
+16:16:46	CYC	22	Paint belt - Step exceeded
+16:16:46	CYC	22	Paint belt - Step exceeded
+16:16:46	CYC	22	Paint belt - Step exceeded
+16:16:46	CYC	22	Paint belt - Step exceeded
+16:19:56	Ax4	1011	Quickstop input active                                                         
+16:19:56	Ax4	1011	Quickstop input active                                                         
+16:24:24	Ax4	1011	Quickstop input active                                                         
+16:24:24	Ax4	1011	Quickstop input active                                                         
+16:30:33	CYC	24	Unload belt - Step exceeded
+16:30:33	CYC	24	Unload belt - Step exceeded
+16:32:24	CYC	24	Unload belt - Step exceeded
+16:32:24	CYC	24	Unload belt - Step exceeded
+16:34:13	Ax4	1011	Quickstop input active                                                         
+16:34:13	Ax4	1011	Quickstop input active                                                         
+16:35:17	Ax4	5005	Basis movements: Start movement in negative direction                          
+16:35:17	Ax4	5005	Basis movements: Start movement in negative direction                          
+16:49:53	Ax4	1011	Quickstop input active                                                         
+16:52:31	Ax4	1011	Quickstop input active                                                         
+16:52:54	CYC	22	Paint belt - Step exceeded
+16:52:54	CYC	22	Paint belt - Step exceeded
+16:52:54	CYC	22	Paint belt - Step exceeded
+16:52:54	CYC	22	Paint belt - Step exceeded
+16:54:22	Ax4	1011	Quickstop input active                                                         
+16:58:02	Ax4	1011	Quickstop input active                                                         
+17:05:31	Ax4	1011	Quickstop input active                                                         
+17:07:51	Ax4	1011	Quickstop input active                                                         
+17:08:18	Ax4	1011	Quickstop input active                                                         
+17:09:55	CYC	166	Not possible to move manually the belts. Please check manual mode is selected and choose axis to move.
+17:11:07	Ax4	1011	Quickstop input active                                                         
+17:11:09	Ax3	5018	Homing: Command start homing procedure                                         
+17:11:13	CYC	174	Spray Belt stopped, risk of collision out  door
+17:13:29	CYC	22	Paint belt - Step exceeded
+17:13:29	CYC	22	Paint belt - Step exceeded
+17:13:29	CYC	22	Paint belt - Step exceeded
+17:13:29	CYC	22	Paint belt - Step exceeded
+17:13:29	CYC	22	Paint belt - Step exceeded
+17:13:29	CYC	22	Paint belt - Step exceeded
+17:13:30	CYC	22	Paint belt - Step exceeded
+17:13:30	CYC	22	Paint belt - Step exceeded
+17:13:30	CYC	22	Paint belt - Step exceeded
+17:13:30	CYC	22	Paint belt - Step exceeded
+17:13:30	CYC	22	Paint belt - Step exceeded
+17:13:30	CYC	22	Paint belt - Step exceeded
+17:13:31	CYC	22	Paint belt - Step exceeded
+17:13:31	CYC	22	Paint belt - Step exceeded
+17:13:31	CYC	22	Paint belt - Step exceeded
+17:13:31	CYC	22	Paint belt - Step exceeded
+17:13:32	CYC	22	Paint belt - Step exceeded
+17:13:32	CYC	22	Paint belt - Step exceeded
+17:13:32	CYC	22	Paint belt - Step exceeded
+17:13:32	CYC	22	Paint belt - Step exceeded
+17:13:32	CYC	22	Paint belt - Step exceeded
+17:13:32	CYC	22	Paint belt - Step exceeded
+17:13:33	CYC	22	Paint belt - Step exceeded
+17:13:33	CYC	22	Paint belt - Step exceeded
+17:13:33	CYC	22	Paint belt - Step exceeded
+17:13:33	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:34	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:35	CYC	22	Paint belt - Step exceeded
+17:13:36	CYC	22	Paint belt - Step exceeded
+17:13:36	CYC	22	Paint belt - Step exceeded
+17:13:36	CYC	22	Paint belt - Step exceeded
+17:13:36	CYC	22	Paint belt - Step exceeded
+17:13:36	CYC	22	Paint belt - Step exceeded
+17:13:36	CYC	22	Paint belt - Step exceeded
+17:13:37	CYC	22	Paint belt - Step exceeded
+17:13:37	CYC	22	Paint belt - Step exceeded
+17:13:37	CYC	22	Paint belt - Step exceeded
+17:13:37	CYC	22	Paint belt - Step exceeded
+17:13:37	CYC	22	Paint belt - Step exceeded
+17:13:37	CYC	22	Paint belt - Step exceeded
+17:13:38	CYC	22	Paint belt - Step exceeded
+17:13:38	CYC	22	Paint belt - Step exceeded
+17:13:38	CYC	22	Paint belt - Step exceeded
+17:13:38	CYC	22	Paint belt - Step exceeded
+17:13:38	CYC	22	Paint belt - Step exceeded
+17:13:38	CYC	22	Paint belt - Step exceeded
+17:13:39	CYC	22	Paint belt - Step exceeded
+17:13:39	CYC	22	Paint belt - Step exceeded
+17:13:39	CYC	22	Paint belt - Step exceeded
+17:13:39	CYC	22	Paint belt - Step exceeded
+17:13:39	CYC	22	Paint belt - Step exceeded
+17:13:39	CYC	22	Paint belt - Step exceeded
+17:13:40	CYC	22	Paint belt - Step exceeded
+17:13:40	CYC	22	Paint belt - Step exceeded
+17:13:40	CYC	22	Paint belt - Step exceeded
+17:13:40	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:41	CYC	22	Paint belt - Step exceeded
+17:13:42	CYC	22	Paint belt - Step exceeded
+17:13:42	CYC	22	Paint belt - Step exceeded
+17:13:42	CYC	22	Paint belt - Step exceeded
+17:13:42	CYC	22	Paint belt - Step exceeded
+17:13:42	CYC	22	Paint belt - Step exceeded
+17:13:42	CYC	22	Paint belt - Step exceeded
+17:13:43	CYC	22	Paint belt - Step exceeded
+17:13:43	CYC	22	Paint belt - Step exceeded
+17:13:43	CYC	22	Paint belt - Step exceeded
+17:13:43	CYC	22	Paint belt - Step exceeded
+17:13:44	CYC	22	Paint belt - Step exceeded
+17:13:44	CYC	22	Paint belt - Step exceeded
+17:13:44	CYC	22	Paint belt - Step exceeded
+17:13:44	CYC	22	Paint belt - Step exceeded
+17:13:45	CYC	22	Paint belt - Step exceeded
+17:13:45	CYC	22	Paint belt - Step exceeded
+17:13:45	CYC	22	Paint belt - Step exceeded
+17:13:45	CYC	22	Paint belt - Step exceeded
+17:13:45	CYC	22	Paint belt - Step exceeded
+17:13:45	CYC	22	Paint belt - Step exceeded
+17:13:46	CYC	22	Paint belt - Step exceeded
+17:13:46	CYC	22	Paint belt - Step exceeded
+17:13:46	CYC	22	Paint belt - Step exceeded
+17:13:46	CYC	22	Paint belt - Step exceeded
+17:13:46	CYC	22	Paint belt - Step exceeded
+17:13:46	CYC	22	Paint belt - Step exceeded
+17:13:47	CYC	22	Paint belt - Step exceeded
+17:13:47	CYC	22	Paint belt - Step exceeded
+17:13:47	CYC	22	Paint belt - Step exceeded
+17:13:47	CYC	22	Paint belt - Step exceeded
+17:13:47	CYC	22	Paint belt - Step exceeded
+17:13:47	CYC	22	Paint belt - Step exceeded
+17:13:48	CYC	22	Paint belt - Step exceeded
+17:13:48	CYC	22	Paint belt - Step exceeded
+17:13:48	CYC	22	Paint belt - Step exceeded
+17:13:48	CYC	22	Paint belt - Step exceeded
+17:13:48	CYC	22	Paint belt - Step exceeded
+17:13:48	CYC	22	Paint belt - Step exceeded
+17:13:49	CYC	22	Paint belt - Step exceeded
+17:13:49	CYC	22	Paint belt - Step exceeded
+17:13:49	CYC	22	Paint belt - Step exceeded
+17:13:49	CYC	22	Paint belt - Step exceeded
+17:13:49	CYC	22	Paint belt - Step exceeded
+17:13:49	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:50	CYC	22	Paint belt - Step exceeded
+17:13:51	CYC	22	Paint belt - Step exceeded
+17:13:51	CYC	22	Paint belt - Step exceeded
+17:13:51	CYC	22	Paint belt - Step exceeded
+17:13:51	CYC	22	Paint belt - Step exceeded
+17:13:52	CYC	22	Paint belt - Step exceeded
+17:13:52	CYC	22	Paint belt - Step exceeded
+17:13:52	CYC	22	Paint belt - Step exceeded
+17:13:52	CYC	22	Paint belt - Step exceeded
+17:13:52	CYC	22	Paint belt - Step exceeded
+17:13:52	CYC	22	Paint belt - Step exceeded
+17:13:53	CYC	22	Paint belt - Step exceeded
+17:13:53	CYC	22	Paint belt - Step exceeded
+17:13:53	CYC	22	Paint belt - Step exceeded
+17:13:53	CYC	22	Paint belt - Step exceeded
+17:13:53	CYC	22	Paint belt - Step exceeded
+17:13:53	CYC	22	Paint belt - Step exceeded
+17:13:54	CYC	22	Paint belt - Step exceeded
+17:13:54	CYC	22	Paint belt - Step exceeded
+17:13:54	CYC	22	Paint belt - Step exceeded
+17:13:54	CYC	22	Paint belt - Step exceeded
+17:13:55	CYC	22	Paint belt - Step exceeded
+17:13:55	CYC	22	Paint belt - Step exceeded
+17:13:55	CYC	22	Paint belt - Step exceeded
+17:13:55	CYC	22	Paint belt - Step exceeded
+17:13:56	CYC	22	Paint belt - Step exceeded
+17:13:56	CYC	22	Paint belt - Step exceeded
+17:13:56	CYC	22	Paint belt - Step exceeded
+17:13:56	CYC	22	Paint belt - Step exceeded
+17:13:57	CYC	22	Paint belt - Step exceeded
+17:13:57	CYC	22	Paint belt - Step exceeded
+17:13:57	CYC	22	Paint belt - Step exceeded
+17:13:57	CYC	22	Paint belt - Step exceeded
+17:13:58	CYC	22	Paint belt - Step exceeded
+17:13:58	CYC	22	Paint belt - Step exceeded
+17:13:58	CYC	22	Paint belt - Step exceeded
+17:13:58	CYC	22	Paint belt - Step exceeded
+17:13:59	CYC	22	Paint belt - Step exceeded
+17:13:59	CYC	22	Paint belt - Step exceeded
+17:13:59	CYC	22	Paint belt - Step exceeded
+17:13:59	CYC	22	Paint belt - Step exceeded
+17:14:00	CYC	22	Paint belt - Step exceeded
+17:14:00	CYC	22	Paint belt - Step exceeded
+17:14:00	CYC	22	Paint belt - Step exceeded
+17:14:00	CYC	22	Paint belt - Step exceeded
+17:14:01	CYC	22	Paint belt - Step exceeded
+17:14:01	CYC	22	Paint belt - Step exceeded
+17:14:01	CYC	22	Paint belt - Step exceeded
+17:14:01	CYC	22	Paint belt - Step exceeded
+17:14:01	CYC	22	Paint belt - Step exceeded
+17:14:01	CYC	22	Paint belt - Step exceeded
+17:14:02	CYC	22	Paint belt - Step exceeded
+17:14:02	CYC	22	Paint belt - Step exceeded
+17:14:02	CYC	22	Paint belt - Step exceeded
+17:14:02	CYC	22	Paint belt - Step exceeded
+17:14:03	CYC	22	Paint belt - Step exceeded
+17:14:03	CYC	22	Paint belt - Step exceeded
+17:15:23	Ax3	1011	Quickstop input active                                                         
+17:17:35	Ax4	1011	Quickstop input active                                                         
+17:20:32	CYC	208	Selected program : SIRIUS |  | 
+17:20:32	CYC	201	Load confirmed.
+17:20:34	CYC	5	Oven belt - Max error (&) step exceeded
+17:20:40	Ax4	1011	Quickstop input active                                                         
+17:21:01	Ax1	1011	Quickstop input active                                                         
+17:21:01	Ax2	1011	Quickstop input active                                                         
+17:22:05	CYC	208	Selected program : SIRIUS |  | 
+17:22:07	CYC	5	Oven belt - Max error (&) step exceeded
+17:22:07	CYC	5	Oven belt - Max error (&) step exceeded
+17:22:12	Ax4	1011	Quickstop input active                                                         
+17:25:28	Ax4	1011	Quickstop input active                                                         
+17:30:20	Ax4	1011	Quickstop input active                                                         
+17:33:03	CYC	187	Robot not connected, not possible to load program list.
+17:39:08	CYC	208	Selected program : SIRIUS |  | 
+17:39:08	CYC	201	Load confirmed.
+17:40:01	Ax4	1011	Quickstop input active                                                         
+17:42:30	CYC	184	Carter not open or rotation piece in high position
+17:42:41	CYC	184	Carter not open or rotation piece in high position
+17:42:42	CYC	184	Carter not open or rotation piece in high position
+17:42:59	CYC	184	Carter not open or rotation piece in high position
+17:42:59	CYC	184	Carter not open or rotation piece in high position
+17:43:03	CYC	6	Paint belt - Max error (&) step exceeded
+17:43:23	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+17:43:26	CYC	24	Unload belt - Step exceeded
+17:45:22	CYC	186	Unload operation forced manually
+18:18:20	Ax1	1011	Quickstop input active                                                         
+18:18:20	Ax2	1011	Quickstop input active                                                         
+18:32:09	CYC	173	
+18:32:13	CYC	173	
+19:15:00	CYC	208	Selected program : BLACK_SIRIUS |  | 
+20:12:16	Ax4	1011	Quickstop input active                                                         
+20:12:38	CYC	181	Spray booth auto-empty cancelled, tapes not ready
+20:16:45	CYC	186	Unload operation forced manually
+20:18:48	CYC	187	Robot not connected, not possible to load program list.
+20:20:06	CYC	187	Robot not connected, not possible to load program list.
+20:20:06	CYC	187	Robot not connected, not possible to load program list.
+20:20:24	CYC	187	Robot not connected, not possible to load program list.
+20:20:25	CYC	187	Robot not connected, not possible to load program list.
+20:20:30	CYC	173		Barriers must be reset
+20:22:39	CYC	187	Robot not connected, not possible to load program list.
+20:22:39	CYC	187	Robot not connected, not possible to load program list.
+20:22:39	CYC	187	Robot not connected, not possible to load program list.
+20:22:39	CYC	187	Robot not connected, not possible to load program list.
+20:22:39	CYC	187	Robot not connected, not possible to load program list.
+20:22:39	CYC	187	Robot not connected, not possible to load program list.
+20:22:41	CYC	187	Robot not connected, not possible to load program list.
+20:22:41	CYC	187	Robot not connected, not possible to load program list.
+20:22:44	CYC	187	Robot not connected, not possible to load program list.
+20:22:45	CYC	187	Robot not connected, not possible to load program list.
+20:22:45	CYC	187	Robot not connected, not possible to load program list.
+20:22:46	CYC	187	Robot not connected, not possible to load program list.
+20:22:46	CYC	187	Robot not connected, not possible to load program list.
+20:22:46	CYC	187	Robot not connected, not possible to load program list.
+20:23:24	CYC	187	Robot not connected, not possible to load program list.
+20:26:36	CYC	208	Selected program : SIRIUS BLACK VER.2 |  | 
